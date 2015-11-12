@@ -1,0 +1,9 @@
+D:\meh\Proyecto\net\Maxcom\bin\Maxcom.dll
+D:\meh\Proyecto\net\Maxcom\bin\Maxcom.pdb
+D:\meh\Proyecto\net\Maxcom\bin\System.Web.Mvc.dll
+D:\meh\Proyecto\net\Maxcom\bin\System.Web.WebPages.Razor.dll
+D:\meh\Proyecto\net\Maxcom\bin\System.Web.Mvc.xml
+D:\meh\Proyecto\net\Maxcom\bin\System.Web.WebPages.Razor.xml
+D:\meh\Proyecto\net\Maxcom\obj\Release\Maxcom.dll
+D:\meh\Proyecto\net\Maxcom\obj\Release\Maxcom.pdb
+D:\meh\Proyecto\net\Maxcom\obj\Release\Maxcom.csprojResolveAssemblyReference.cache

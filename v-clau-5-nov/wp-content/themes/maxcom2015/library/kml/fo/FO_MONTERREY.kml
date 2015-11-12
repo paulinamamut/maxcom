@@ -1,0 +1,1576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FO MONTERREY.kml</name>
+	<open>1</open>
+	<StyleMap id="msn_shaded_dot">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blu-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_DERIVACION">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/FO MONTERREY GOOGLE/FO/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_DERIVACION">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_DERIVACION0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_DERIVACION10">
+		<IconStyle>
+			<scale>0.583333</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/FO MONTERREY GOOGLE/FO/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_shaded_dot0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_DERIVACION1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_DERIVACION</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_DERIVACION00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_DERIVACION1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_DERIVACION2">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/FO MONTERREY GOOGLE/FO/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_DERIVACION20">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_DERIVACION1">
+		<IconStyle>
+			<scale>0.583333</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/FO MONTERREY GOOGLE/FO/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_DERIVACION2">
+		<IconStyle>
+			<scale>0.583333</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/FO MONTERREY GOOGLE/FO/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_DERIVACION1">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/FO MONTERREY GOOGLE/FO/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="inline7">
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_DERIVACION0">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/FO MONTERREY GOOGLE/FO/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="inline6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_SITIO0">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/FO MONTERREY GOOGLE/FO/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="inline20">
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/FO MONTERREY GOOGLE/FO/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_blu-blank">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_DERIVACION4">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/FO MONTERREY GOOGLE/FO/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+			</Icon>
+			<hotSpot x="32" y="32" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_blu-blank">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="inline3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_SITIO0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_DERIVACION2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_DERIVACION20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_DERIVACION20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_DERIVACION2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline00">
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_DERIVACION">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+			</Icon>
+			<hotSpot x="32" y="32" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shaded_dot">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_DERIVACION0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_DERIVACION</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_DERIVACION0">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/FO MONTERREY GOOGLE/FO/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_shaded_dot1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_shaded_dot00">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin001">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline40">
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="inline5">
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>AVANCE MTY</name>
+		<open>1</open>
+		<Placemark>
+			<name>AXTEL Canalizado</name>
+			<LookAt>
+				<longitude>-100.1984566266842</longitude>
+				<latitude>25.7679347956737</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0006653512479337314</heading>
+				<tilt>0</tilt>
+				<range>584.0508415456817</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.1980441660014,25.76649448953587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ruta Alterna</name>
+			<open>1</open>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3573343502686,25.67628157357218,0 -100.3573856340134,25.67638915909643,0 -100.3578705740317,25.67639680992935,0 -100.3578456763224,25.67752089909514,0 -100.3578447634504,25.67809503215286,0 -100.3572846984037,25.67840075336278,0 -100.3558040032579,25.67909449897088,0 -100.35481725703,25.67948283979923,0 -100.353869760373,25.67995961822513,0 -100.3522366921968,25.68057299960916,0 -100.3503966480617,25.68142419418798,0 -100.3497539777376,25.67988619865828,0 -100.3489814976797,25.68007455675339,0 -100.3480272524313,25.68024850328959,0 -100.3468682615695,25.68037829197259,0 -100.345956829065,25.68037320081499,0 -100.346062831032,25.67970714448064,0 -100.3453533436519,25.67963075241237,0 -100.3448133698215,25.67946041192726,0 -100.3432967814274,25.67890152243967,0 -100.3425419599354,25.67862087897831,0 -100.3419482850817,25.67843923873643,0 -100.3414592687854,25.67838461142843,0 -100.3401317121241,25.67820171118181,0 -100.3398636247764,25.67817709949329,0 -100.3399231766629,25.67727428173923,0 -100.3388308638324,25.67713900186552,0 -100.3377319932076,25.67699804113895,0 -100.3359813688444,25.67678058038572,0 -100.3334597359653,25.67651325070826,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ruta sin títul3</name>
+			<open>1</open>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3345580280321,25.67180539364459,0 -100.3310769079069,25.67121475308389,0 -100.3283650273045,25.67076716605873,0 -100.3282518412945,25.67065095791093,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>BRAZO 2</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.224049542367,25.70633257044792,0 -100.2220563715306,25.71019132420321,0 -100.2199928036977,25.71384262042663,0 -100.2171986553139,25.71867493460653,0 -100.2148993743576,25.72314517353253,0 -100.2118071157707,25.72905546666801,0 -100.2087002228319,25.73472958044788,0 -100.2055121529239,25.74063527325702,0 -100.2023367669664,25.74677022701924,0 -100.2013545743423,25.74833362216914,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>RUTA 01</name>
+			<open>1</open>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.2415481557907,25.74278040284722,0 -100.2420908013957,25.74186667021349,0 -100.2426415383387,25.74226344955447,0 -100.2431689549895,25.7419650846116,0 -100.2443642315341,25.73973031910937,0 -100.2433298417196,25.73910763163338,0 -100.2438398065021,25.73885669282373,0 -100.2441497291259,25.73862154216636,0 -100.2437064418376,25.7383777845319,0 -100.2436890866475,25.73834389871767,0 -100.2437488070565,25.73765302135779,0 -100.2431097105277,25.7368301847879,0 -100.2436383190161,25.73634326067087,0 -100.2417972398834,25.73456678011062,0 -100.2408471617742,25.7353891961926,0 -100.2406044575553,25.73564413025857,0 -100.241381805761,25.73635551648534,0 -100.2409875536147,25.7367561008551,0 -100.2412731018913,25.73717006752217,0 -100.2405922006182,25.73775559880195,0 -100.240858949782,25.73819571196523,0 -100.2356437492156,25.74191034302405,0 -100.2312808522262,25.74482195483901,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>TRIARA_MONTERREY</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-100.1853364527617</longitude>
+				<latitude>25.77881781763527</latitude>
+				<altitude>0</altitude>
+				<heading>15.51072492891436</heading>
+				<tilt>0</tilt>
+				<range>2514.285295896973</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.1796474652765,25.78417961115977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TRIARA 2</name>
+			<open>1</open>
+			<description>F8 96 HILOS</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.1811837324702,25.78504511347301,0 -100.1809689715532,25.78492282115081,0 -100.1796133511202,25.78267699584741,0 -100.1797886865712,25.7825874668481,0 -100.1793217446001,25.78181800665999,0 -100.1795091208486,25.7818466445957,0 -100.1801797014557,25.78149194543715,0 -100.1809206862358,25.78112036624969,0 -100.1818050861172,25.78067898690999,0 -100.1835663261469,25.7797762397625,0 -100.1843335414336,25.77936877088151,0 -100.1844632268146,25.77919978617687,0 -100.1851827602424,25.77882574637495,0 -100.1868868722007,25.77794421674322,0 -100.1886046616997,25.7770715481515,0 -100.1895700476564,25.77658901566763,0 -100.1891027606693,25.77583425597656,0 -100.1899566212246,25.77540117563458,0 -100.1893878613785,25.77451669349103,0 -100.1890818000408,25.77473880475414,0 -100.1884979108308,25.77441635463044,0 -100.1881045698589,25.77419776732216,0 -100.1879159403958,25.77372852106269,0 -100.1881573406078,25.77323898499884,0 -100.1888395711145,25.77196408542526,0 -100.1894056663005,25.77086035525339,0 -100.1902179255697,25.76931945873206,0 -100.1908917388647,25.76809408174953,0 -100.1918370467984,25.76642067989977,0 -100.1919218370084,25.76655139546633,0 -100.1919753699342,25.76669763316375,0 -100.1920400009073,25.76669524828489,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>TRIARA 1</name>
+			<open>1</open>
+			<description>F8 96 HILOS</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.1811934032436,25.78506658219489,0 -100.1821047468127,25.78649169494722,0 -100.1847301193004,25.785170870476,0 -100.1843002367291,25.78447309979395,0 -100.1852390980975,25.78400951005402,0 -100.1867940604896,25.78321296862094,0 -100.188459695629,25.78236566843733,0 -100.1902095133544,25.78147407632584,0 -100.1919569044542,25.78061871066605,0 -100.193761281537,25.77971323384048,0 -100.1953960968326,25.77890125718411,0 -100.1962799805014,25.778468088703,0 -100.1957916129003,25.77772160167115,0 -100.1952690185338,25.77687755072197,0 -100.2003743312963,25.77430889911122,0 -100.2004403068092,25.77390833648074,0 -100.2005419856807,25.77330936350871,0 -100.2006372664675,25.77292743718427,0 -100.2003345167036,25.77244069353015,0 -100.1999237041376,25.77177097973025,0 -100.1998188812038,25.77142640479987,0 -100.1992773506098,25.770045909129,0 -100.1986164200815,25.76825642221497,0 -100.1983760907394,25.76816227834068,0 -100.1978387701149,25.76851913894048,0 -100.1976440142034,25.76828517549043,0 -100.1979859535766,25.76803650936561,0 -100.1985024470157,25.76767927004541,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_BANORTE PADRE MIER</name>
+			<open>1</open>
+			<description>F8 96 HILOS</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3075499304695,25.71211957747408,0 -100.3076360198014,25.71142697354286,0 -100.3077148204596,25.71081601730368,0 -100.307797875974,25.71017827605071,0 -100.3078728364991,25.70962571546799,0 -100.3079437046326,25.70908048055742,0 -100.307998830491,25.70869243707877,0 -100.3080216424128,25.70851491077364,0 -100.3082861157352,25.70662418779037,0 -100.3084615401913,25.70503034411152,0 -100.3086049269492,25.70489487187884,0 -100.3086536134522,25.70442295239222,0 -100.3085895098964,25.70399004358162,0 -100.3095577842972,25.70401388155837,0 -100.3096062217397,25.70396671280633,0 -100.3097917560592,25.70232524702502,0 -100.3099449036005,25.70126190571856,0 -100.31006416521,25.70043757415426,0 -100.310182966685,25.69945589069896,0 -100.3102269109163,25.69922214746534,0 -100.3102419247173,25.69913299921288,0 -100.3104808828752,25.69709550554851,0 -100.3106361528354,25.69581324279717,0 -100.3111947302034,25.69165960700451,0 -100.3117709024649,25.68730999044592,0 -100.3118648662004,25.68644960309104,0 -100.3119515835683,25.68582906564335,0 -100.3121084124616,25.68472765414098,0 -100.3122686848727,25.68368322619768,0 -100.3124461434829,25.68222570339268,0 -100.3125758948013,25.68121804709282,0 -100.3126967702792,25.68032666741017,0 -100.3127868223505,25.67956991312004,0 -100.3128119000249,25.67943138877532,0 -100.313242036321,25.67617836139606,0 -100.3133834816899,25.675141610035,0 -100.311882865249,25.67504329172731,0 -100.3121467341711,25.67329613490045,0 -100.3122084618757,25.67290702824152,0 -100.3121916812223,25.67290027719208,0 -100.3121875484086,25.672893076625,0 -100.3121894177943,25.67288265194774,0 -100.3123339918596,25.67187464281237,0 -100.3123757619129,25.67173385018334,0 -100.3124395955865,25.67127531990758,0 -100.3127420636026,25.66924398724895,0 -100.3127809099282,25.6692539216431,0 -100.3136426443456,25.66941320104646,0 -100.3138019322563,25.66844876558246,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_BANORTE_SAN JERONIMO</name>
+			<open>1</open>
+			<description>F8 96 HILOS</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.357324925657,25.67624979451964,0 -100.3573270170631,25.67633022840693,0 -100.3570796574248,25.67632622118225,0 -100.3567563577894,25.67632164994097,0 -100.3561434302684,25.6763186658129,0 -100.3553283014775,25.67631334479335,0 -100.3553362985012,25.67594482114891,0 -100.3553766066642,25.67585027731449,0 -100.3538344513023,25.67562441995698,0 -100.3535316708376,25.67558841854377,0 -100.3525728582787,25.67552225565877,0 -100.3522119903959,25.67549779733801,0 -100.3522606296039,25.6751227717984,0 -100.3522413944819,25.67507839911757,0 -100.3518363006738,25.67494837911381,0 -100.3514501022374,25.67483529326296,0 -100.3497177403692,25.67431427408287,0 -100.3496253502291,25.67439304066546,0 -100.3492230585567,25.67423465591093,0 -100.3489309032136,25.67408695074582,0 -100.34840333558,25.6739145306497,0 -100.3477140587928,25.67369895701582,0 -100.3475324859778,25.67364123885646,0 -100.346105430407,25.67319033091575,0 -100.3449640597444,25.67281306049397,0 -100.3441384436708,25.67255817411813,0 -100.341923643018,25.67183049048495,0 -100.3414223022158,25.67166402656754,0 -100.3410837239589,25.67156914928038,0 -100.3399343977668,25.67119661352664,0 -100.3397812417149,25.67115153167101,0 -100.3398187444475,25.67122417347256,0 -100.3397219899237,25.67171261997843,0 -100.3395962330799,25.67242265320576,0 -100.3395661696054,25.67258169538317,0 -100.3389249031125,25.67249275890838,0 -100.3382316189628,25.67239458002963,0 -100.3373466406374,25.67226888377705,0 -100.3358242015616,25.67202838411301,0 -100.3355693410977,25.6719772735662,0 -100.3345911090851,25.67184150691901,0 -100.3345045436076,25.67226545648441,0 -100.3343726374429,25.67247787763591,0 -100.3342021996686,25.67312357439695,0 -100.3339117423133,25.67433715944041,0 -100.3337277219118,25.67506146896143,0 -100.3336294101214,25.67566244409928,0 -100.3335215682058,25.67648929348564,0 -100.3335120406248,25.67668241479854,0 -100.333422170333,25.67730531198038,0 -100.3333104276153,25.67816528275379,0 -100.3336494012683,25.67819353311627,0 -100.3334836285917,25.6785292799255,0 -100.3332489009288,25.68028007843477,0 -100.3331460719524,25.68119659809171,0 -100.333260433998,25.68134238398744,0 -100.3332230454592,25.68168060235224,0 -100.3338205437142,25.68176709099388,0 -100.3338026101345,25.6818989461317,0 -100.3336886487626,25.6827512247541,0 -100.3335661499897,25.68363395764134,0 -100.3334512344171,25.68448021255659,0 -100.3333208013027,25.68540088533014,0 -100.3332464071875,25.68601496662654,0 -100.3331580385612,25.68669556359026,0 -100.3330653330678,25.68701099067916,0 -100.3331002701934,25.68701447262994,0 -100.3329965990612,25.68771855547136,0 -100.3329661394782,25.68795482214494,0 -100.3327590128694,25.68951930684805,0 -100.3325896439268,25.69078994212198,0 -100.3325666013766,25.69118053781827,0 -100.3324890347341,25.69173389860287,0 -100.3324104119973,25.69182273195125,0 -100.3323559970204,25.69215930716955,0 -100.3322909619269,25.69257912995438,0 -100.3321557851674,25.69348084510536,0 -100.3320845855046,25.69399883441512,0 -100.3320092428754,25.69457477640788,0 -100.3318958679723,25.69545485011069,0 -100.3318278493655,25.69591430477247,0 -100.3317677250683,25.69628830078792,0 -100.3311800316708,25.69651304404101,0 -100.3310628725513,25.69656051314659,0 -100.3310143507445,25.69650508836644,0 -100.3305434288643,25.69664894235667,0 -100.3304337662333,25.69667631728488,0 -100.3307740863775,25.69743723348136,0 -100.3308740729938,25.69746421058341,0 -100.3307285409756,25.69845320798199,0 -100.3305316447307,25.69865090938888,0 -100.3305636819524,25.69865067487525,0 -100.3306873479832,25.69908837311663,0 -100.3308039056921,25.69950078624794,0 -100.3309781722799,25.70012219316476,0 -100.3312684080899,25.70108885470919,0 -100.3313119164919,25.70123633955806,0 -100.3314142705246,25.70161367276823,0 -100.3315182490342,25.70195321934567,0 -100.3313592574391,25.70196303677774,0 -100.3313198128161,25.70193482053192,0 -100.3312919234407,25.70191848036558,0 -100.3309597643831,25.70196491238509,0 -100.3291561273648,25.70200573422274,0 -100.3291243901609,25.70213162897217,0 -100.3292393101051,25.70274196054107,0 -100.3293915983259,25.70354618692141,0 -100.3294388283845,25.7036920697906,0 -100.3295577447337,25.70426209753146,0 -100.3294564994021,25.70436670568896,0 -100.3287033776158,25.70434850287338,0 -100.328552480168,25.70462250235147,0 -100.3281144811203,25.70464225808625,0 -100.328235533292,25.70513773435441,0 -100.3282595500574,25.70527573169763,0 -100.3284226727964,25.70601513207037,0 -100.3284567688553,25.70616488699976,0 -100.3286311457526,25.7069234396978,0 -100.3286685022308,25.70707670796977,0 -100.3286231297404,25.70704829051899,0 -100.3280804443317,25.70714549744591,0 -100.3278845219494,25.707186402355,0 -100.3273337182656,25.70729092547115,0 -100.3273446067066,25.70732698911607,0 -100.326977853275,25.70737550122336,0 -100.326880048907,25.7072114513043,0 -100.3251343702513,25.70723363257513,0 -100.3251675564664,25.7071972243219,0 -100.3251645561958,25.70642466897302,0 -100.3243129782134,25.70643939056561,0 -100.3238141297405,25.70644049375601,0 -100.3233309884125,25.70643752421231,0 -100.3228855881901,25.70644291478418,0 -100.3219856259752,25.7064556169214,0 -100.3209479431954,25.70645630026337,0 -100.3196419322054,25.70645664909033,0 -100.3186358842564,25.70647372124913,0 -100.3184192638064,25.70647753529051,0 -100.3174440803198,25.70649236024621,0 -100.3171635159711,25.70648751130976,0 -100.316741866373,25.70658565713632,0 -100.3167522153174,25.70725026429492,0 -100.3167493235837,25.70784070580822,0 -100.3166133598562,25.70811305276127,0 -100.3164121412018,25.70839890912009,0 -100.3162731476878,25.70854943169571,0 -100.3159750480355,25.7088380784688,0 -100.315648297863,25.70914465393825,0 -100.3154447079694,25.7093315352818,0 -100.3149893792488,25.70970221112307,0 -100.3145101428666,25.71005300976812,0 -100.3141290513581,25.71026999801347,0 -100.3137853151902,25.71043595619727,0 -100.3132317726984,25.71068270529605,0 -100.3132530705888,25.71061787830554,0 -100.312871482344,25.71061535060586,0 -100.3128225185375,25.71090929230338,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>BRAZO 1</name>
+			<description>POSTE 1  AL 240 SEGMENTO UNO</description>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3127876944839,25.71094778367257,0 -100.3080398744082,25.71288193856455,0 -100.3082271898314,25.71230381373713,0 -100.3055961579706,25.71198270172183,0 -100.299704506026,25.71150922223817,0 -100.2966238334832,25.71114348580672,0 -100.2967090228758,25.71107241399296,0 -100.2943494298685,25.71689408214002,0 -100.2945017400637,25.71824870806591,0 -100.2933704641233,25.71857690637819,0 -100.2919595093519,25.72168317387821,0 -100.2896668828861,25.72772005473339,0 -100.2873525275869,25.73320758314413,0 -100.2866408566709,25.73586618132201,0 -100.2863829824386,25.73828461561791,0 -100.2861672069115,25.73816985120318,0 -100.285718086444,25.74054121519121,0 -100.2849691072706,25.74172582372562,0 -100.276203189998,25.73838642561654,0 -100.2743806826786,25.73792745928045,0 -100.2714509072035,25.73781713444359,0 -100.2681749255472,25.73743196084895,0 -100.2664284786251,25.74019098687846,0 -100.2606816769735,25.74558573214778,0 -100.2561026123386,25.74942857516195,0 -100.2547074034914,25.75078683933217,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ruta sin título</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3138081988186,25.66847218219548,0 -100.3144782537826,25.66860621300042,0 -100.31423435476,25.66954606372007,0 -100.3238769711547,25.67118125206448,0 -100.3280124158036,25.67199151238126,0 -100.3281859582677,25.67078474271735,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>MAXCOM SAN JERONIMO</name>
+			<LookAt>
+				<longitude>-100.3552810681271</longitude>
+				<latitude>25.67613181141192</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04627800563249304</heading>
+				<tilt>34.31310744345547</tilt>
+				<range>677.8913953764837</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.3573351238356,25.67613647044611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAXCOM PADRE MIER</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-100.32868120547</longitude>
+				<latitude>25.66995104148347</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03475471302310245</heading>
+				<tilt>34.31317454516726</tilt>
+				<range>1040.670801445168</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.3281511664205,25.67035334585695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>limite cfe</name>
+			<styleUrl>#inline6</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.2102230532591,25.73547879285356,455.50150482911 -100.2073172623607,25.73391438250724,450.2571419180105 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>limite CFE</name>
+			<description>ZONA ORIENTE CFE DONDE NO HAY PERMISO</description>
+			<styleUrl>#inline3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.2321709931264,25.74620999162686,0 -100.2305132128408,25.74411043817935,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>AVANCE 16 MAY</name>
+			<styleUrl>#inline30</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.2547434679162,25.75077686750853,0 -100.2542754526274,25.75051544153421,0 -100.2533954447754,25.75048404854841,0 -100.2533204223023,25.75125476214484,0 -100.2526879311041,25.75118159230398,0 -100.2519110886074,25.75084762965593,0 -100.2510364188831,25.75042734675815,0 -100.2501738351659,25.74994559556004,0 -100.2489604381979,25.74833022797368,0 -100.2475073918547,25.74684230590268,0 -100.2458071878483,25.7460152094623,0 -100.2414894628512,25.74277526175482,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>AVANCE 16 MAY</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.2312097336428,25.74480055850382,0 -100.2225372135671,25.7510016399649,0 -100.207703293798,25.76137729007309,0 -100.2073362028073,25.7616230159138,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ruta sin título</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.2075362141807,25.76173865624362,0 -100.1978839823907,25.76850193835877,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME</name>
+			<LookAt>
+				<longitude>-100.1986532618858</longitude>
+				<latitude>25.76812806327665</latitude>
+				<altitude>0</altitude>
+				<heading>-15.44325061317441</heading>
+				<tilt>26.76850991527956</tilt>
+				<range>255.8306426385596</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.1978307122878,25.76851575224633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Direccion TRIARA</name>
+			<LookAt>
+				<longitude>-100.198708605338</longitude>
+				<latitude>25.76879199823271</latitude>
+				<altitude>0</altitude>
+				<heading>-15.44327467287817</heading>
+				<tilt>26.76836693405722</tilt>
+				<range>255.8306376201939</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blu-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.1988184957291,25.76893717469413,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ruta sin título</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.1985109329405,25.76767818723021,0 -100.1985300206294,25.7674722013094,0 -100.1983901681213,25.7671460824925,0 -100.1981474052362,25.76663533264301,0 -100.1980916693141,25.76646720433341,0 -100.1980734344598,25.76631161938914,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ruta sin título</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3085488215203,25.7041483552355,0 -100.299191021117,25.70391704878021,0 -100.2932020920441,25.7038756484149,0 -100.2927149816852,25.70366825957909,0 -100.2922087866147,25.70391767683361,0 -100.2828750303065,25.70366652109222,0 -100.2725168451602,25.70366574985894,0 -100.2685806300744,25.70341040851172,0 -100.2684753300421,25.70549494631781,0 -100.2678072587079,25.70551582250688,0 -100.2679054513909,25.70335234775368,0 -100.2568812919459,25.70332796718521,0 -100.2542919859118,25.70313373447775,0 -100.2542261270551,25.70322685536959,0 -100.254121791418,25.70383244014536,0 -100.2513860937835,25.7038592135159,0 -100.2514917638525,25.70326995226789,0 -100.2506030964865,25.70329787689146,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ruta sin título</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.2395231783251,25.7035747575854,0 -100.2391875439423,25.70604189622932,0 -100.2356106046334,25.705919389813,0 -100.2357375688815,25.70558768174795,0 -100.2333837185904,25.70561904668419,0 -100.2333637332068,25.70598726102449,0 -100.2312787508549,25.70601768105111,0 -100.2309509572099,25.70704961309133,0 -100.2240716019011,25.70637130117021,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ruta sin título</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.2395366278824,25.7035652465732,0 -100.2451779679584,25.70374047644038,0 -100.2506446309578,25.70368896932074,0 -100.2507058123854,25.7034168517235,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ruta sin título</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.1917277133268,25.76639748686774,0 -100.1940914528451,25.76161262271321,0 -100.2011107951926,25.74846670642111,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ruta sin título</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3204534165677,25.67068193328727,0 -100.3204606832411,25.67062294432475,0 -100.3195163038943,25.67044467643685,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ruta sin título</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3198994373969,25.67161616195437,0 -100.320199466288,25.66956341572881,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ruta sin título</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.319857603483,25.67158570414973,0 -100.3201583257437,25.66952781338677,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>FO MONTERREY</name>
+		<open>1</open>
+		<Placemark>
+			<name>SITIO MAXCOM (PADRE MIER)</name>
+			<LookAt>
+				<longitude>-100.3279578882516</longitude>
+				<latitude>25.67064125778817</latitude>
+				<altitude>0</altitude>
+				<heading>1.391089557321796</heading>
+				<tilt>3.206160317548216</tilt>
+				<range>428.9332904762636</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO0</styleUrl>
+			<Point>
+				<coordinates>-100.3282426218301,25.67056143758618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO MAXCOM (SAN JERONIMO)</name>
+			<LookAt>
+				<longitude>-100.3574074401809</longitude>
+				<latitude>25.67628601691558</latitude>
+				<altitude>0</altitude>
+				<heading>0.1758736525212524</heading>
+				<tilt>3.877518227262166</tilt>
+				<range>172.7734948925471</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.3573249032499,25.67625266320246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MERKAFON</name>
+			<LookAt>
+				<longitude>-100.3238092121674</longitude>
+				<latitude>25.67297362027033</latitude>
+				<altitude>0</altitude>
+				<heading>1.392882384802129</heading>
+				<tilt>3.204748538888258</tilt>
+				<range>1158.136101607048</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION0</styleUrl>
+			<Point>
+				<coordinates>-100.3193007738239,25.67397289603662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TOPTEL</name>
+			<LookAt>
+				<longitude>-100.3184527940399</longitude>
+				<latitude>25.66985232026519</latitude>
+				<altitude>0</altitude>
+				<heading>-3.597941606082556</heading>
+				<tilt>18.74755063924219</tilt>
+				<range>420.9840190681504</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION0</styleUrl>
+			<Point>
+				<coordinates>-100.3179445615941,25.6691332934028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VCIP</name>
+			<LookAt>
+				<longitude>-100.3146059630831</longitude>
+				<latitude>25.6688352556384</latitude>
+				<altitude>0</altitude>
+				<heading>-3.596276512943587</heading>
+				<tilt>18.75038788581723</tilt>
+				<range>387.2211988501564</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION00</styleUrl>
+			<Point>
+				<coordinates>-100.3137534534023,25.66777593151393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BANORTE_MONTERREY</name>
+			<LookAt>
+				<longitude>-100.3118498638668</longitude>
+				<latitude>25.71225036477173</latitude>
+				<altitude>0</altitude>
+				<heading>15.18854490680725</heading>
+				<tilt>2.813906697589573</tilt>
+				<range>1285.493617203482</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.3112618917643,25.71220674917903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TRIARA_MONTERREY</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-100.1853364527617</longitude>
+				<latitude>25.77881781763527</latitude>
+				<altitude>0</altitude>
+				<heading>15.51072492891436</heading>
+				<tilt>0</tilt>
+				<range>2514.285295896973</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.1796474652765,25.78417961115977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FO_MAXCOM-TOPTEL-VCIP</name>
+			<description>F8 72 HILOS</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3282403135531,25.67057038097308,0 -100.3280912172393,25.67070673869405,0 -100.3282561904138,25.67073802711476,0 -100.3282423810454,25.67083122725927,0 -100.3280316394939,25.67200215572406,0 -100.3268652520109,25.67178743666093,0 -100.3256518415948,25.6715802914229,0 -100.3237240538016,25.67125448579883,0 -100.3228054056214,25.67109320039063,0 -100.3210949557386,25.67079961559645,0 -100.3200843527986,25.67061662073791,0 -100.3189709496501,25.67041188360369,0 -100.3177666737574,25.67016885786488,0 -100.3177019053658,25.6701574018404,0 -100.3173233002853,25.67009647945166,0 -100.3171815476847,25.67008148184291,0 -100.3167754947756,25.66999953788234,0 -100.3162013017023,25.66987209001444,0 -100.3154108813527,25.66972473928684,0 -100.3142568573465,25.66954972162828,0 -100.3141873184256,25.66954241488975,0 -100.3142040099722,25.66941068179503,0 -100.314278427672,25.6693072558183,0 -100.3144159366972,25.66853012430041,0 -100.313695072228,25.66843377009554,0 -100.3138335906789,25.66779232397025,0 -100.3137541847102,25.66777814967852,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO-TOPTEL</name>
+			<description>MINIFIGURA 12 HILOS</description>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3177644675851,25.67017076326355,0 -100.3179391666075,25.6691376631152,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_MERKAFON</name>
+			<description>MINIFIGURA 12 HILOS</description>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3193593139536,25.67395313790518,0 -100.3194302133733,25.6739638973889,0 -100.3194655987958,25.67373112325604,0 -100.3196534359743,25.6737436791989,0 -100.3196087556148,25.67406210441111,0 -100.3196611335415,25.67407063201083,0 -100.3206493750021,25.67417353402158,0 -100.3217404465613,25.6742974967985,0 -100.3232916174281,25.67447223792138,0 -100.323350817556,25.67406163925677,0 -100.323417830866,25.67353251501092,0 -100.3235390964506,25.67266372658921,0 -100.3236339451515,25.67193317496862,0 -100.3236849173419,25.67153393140307,0 -100.3237049396054,25.67137970691509,0 -100.3237126742661,25.67129712146659,0 -100.3237190341243,25.67126105074206,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_BANORTE_SAN JERONIMO</name>
+			<description>F8 96 HILOS</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.357324925657,25.67624979451964,0 -100.3573270170631,25.67633022840693,0 -100.3570796574248,25.67632622118225,0 -100.3567563577894,25.67632164994097,0 -100.3561434302684,25.6763186658129,0 -100.3553283014775,25.67631334479335,0 -100.3553362985012,25.67594482114891,0 -100.3553766066642,25.67585027731449,0 -100.3538344513023,25.67562441995698,0 -100.3535316708376,25.67558841854377,0 -100.3525728582787,25.67552225565877,0 -100.3522119903959,25.67549779733801,0 -100.3522606296039,25.6751227717984,0 -100.3522413944819,25.67507839911757,0 -100.3518363006738,25.67494837911381,0 -100.3514501022374,25.67483529326296,0 -100.3497177403692,25.67431427408287,0 -100.3496253502291,25.67439304066546,0 -100.3492230585567,25.67423465591093,0 -100.3489309032136,25.67408695074582,0 -100.34840333558,25.6739145306497,0 -100.3477140587928,25.67369895701582,0 -100.3475324859778,25.67364123885646,0 -100.346105430407,25.67319033091575,0 -100.3449640597444,25.67281306049397,0 -100.3441384436708,25.67255817411813,0 -100.341923643018,25.67183049048495,0 -100.3414223022158,25.67166402656754,0 -100.3410837239589,25.67156914928038,0 -100.3399343977668,25.67119661352664,0 -100.3397812417149,25.67115153167102,0 -100.3398187444475,25.67122417347256,0 -100.3397219899237,25.67171261997843,0 -100.3395962330799,25.67242265320576,0 -100.3395661696054,25.67258169538317,0 -100.3389249031125,25.67249275890838,0 -100.3382316189628,25.67239458002963,0 -100.3373466406374,25.67226888377705,0 -100.3358242015616,25.67202838411301,0 -100.3355693410977,25.6719772735662,0 -100.3345911090851,25.67184150691901,0 -100.3345045436076,25.67226545648441,0 -100.3343726374429,25.67247787763591,0 -100.3342021996686,25.67312357439695,0 -100.3339117423133,25.67433715944041,0 -100.3337277219118,25.67506146896143,0 -100.3336294101214,25.67566244409928,0 -100.3335215682058,25.67648929348565,0 -100.3335120406248,25.67668241479854,0 -100.333422170333,25.67730531198038,0 -100.3333104276153,25.67816528275379,0 -100.3336494012683,25.67819353311627,0 -100.3334836285917,25.6785292799255,0 -100.3332489009288,25.68028007843477,0 -100.3331460719524,25.68119659809171,0 -100.333260433998,25.68134238398744,0 -100.3332230454592,25.68168060235224,0 -100.3338205437142,25.68176709099388,0 -100.3338026101345,25.6818989461317,0 -100.3336886487626,25.6827512247541,0 -100.3335661499897,25.68363395764134,0 -100.3334512344171,25.68448021255659,0 -100.3333208013027,25.68540088533014,0 -100.3332464071875,25.68601496662654,0 -100.3331580385612,25.68669556359026,0 -100.3330653330678,25.68701099067916,0 -100.3331002701934,25.68701447262994,0 -100.3329965990612,25.68771855547136,0 -100.3329661394782,25.68795482214494,0 -100.3327590128694,25.68951930684805,0 -100.3325896439268,25.69078994212198,0 -100.3325666013766,25.69118053781827,0 -100.3324890347341,25.69173389860287,0 -100.3324104119973,25.69182273195125,0 -100.3323559970204,25.69215930716955,0 -100.3322909619269,25.69257912995438,0 -100.3321557851674,25.69348084510536,0 -100.3320845855046,25.69399883441512,0 -100.3320092428754,25.69457477640788,0 -100.3318958679723,25.69545485011069,0 -100.3318278493655,25.69591430477247,0 -100.3317677250683,25.69628830078792,0 -100.3311800316708,25.69651304404101,0 -100.3310628725513,25.69656051314659,0 -100.3310143507445,25.69650508836644,0 -100.3305434288643,25.69664894235667,0 -100.3304337662333,25.69667631728488,0 -100.3307740863775,25.69743723348136,0 -100.3308740729938,25.69746421058341,0 -100.3307285409756,25.69845320798199,0 -100.3305316447307,25.69865090938889,0 -100.3305636819524,25.69865067487525,0 -100.3306873479832,25.69908837311663,0 -100.3308039056921,25.69950078624794,0 -100.3309781722799,25.70012219316476,0 -100.3312684080899,25.70108885470919,0 -100.3313119164919,25.70123633955807,0 -100.3314142705246,25.70161367276823,0 -100.3315182490342,25.70195321934567,0 -100.3313592574391,25.70196303677774,0 -100.3313198128161,25.70193482053192,0 -100.3312919234407,25.70191848036558,0 -100.3309597643831,25.70196491238509,0 -100.3291561273648,25.70200573422274,0 -100.3291243901609,25.70213162897217,0 -100.3292393101051,25.70274196054107,0 -100.3293915983259,25.70354618692141,0 -100.3294388283845,25.7036920697906,0 -100.3295577447337,25.70426209753146,0 -100.3294564994021,25.70436670568896,0 -100.3287033776158,25.70434850287338,0 -100.328552480168,25.70462250235147,0 -100.3281144811203,25.70464225808625,0 -100.328235533292,25.70513773435441,0 -100.3282595500574,25.70527573169763,0 -100.3284226727964,25.70601513207037,0 -100.3284567688553,25.70616488699976,0 -100.3286311457526,25.7069234396978,0 -100.3286685022308,25.70707670796977,0 -100.3286231297404,25.70704829051899,0 -100.3280804443317,25.70714549744591,0 -100.3278845219494,25.707186402355,0 -100.3273337182656,25.70729092547115,0 -100.3273446067066,25.70732698911607,0 -100.326977853275,25.70737550122336,0 -100.326880048907,25.7072114513043,0 -100.3251343702513,25.70723363257513,0 -100.3251675564664,25.7071972243219,0 -100.3251645561958,25.70642466897302,0 -100.3243129782134,25.70643939056561,0 -100.3238141297405,25.70644049375601,0 -100.3233309884125,25.70643752421231,0 -100.3228855881901,25.70644291478418,0 -100.3219856259752,25.7064556169214,0 -100.3209479431954,25.70645630026337,0 -100.3196419322054,25.70645664909033,0 -100.3186358842564,25.70647372124913,0 -100.3184192638064,25.70647753529051,0 -100.3174440803198,25.70649236024621,0 -100.3171635159711,25.70648751130976,0 -100.316741866373,25.70658565713632,0 -100.3167522153174,25.70725026429492,0 -100.3167493235837,25.70784070580822,0 -100.3166133598562,25.70811305276127,0 -100.3164121412018,25.70839890912009,0 -100.3162731476878,25.70854943169571,0 -100.3159750480355,25.70883807846881,0 -100.315648297863,25.70914465393825,0 -100.3154447079694,25.7093315352818,0 -100.3149893792488,25.70970221112307,0 -100.3145101428666,25.71005300976812,0 -100.3141290513581,25.71026999801347,0 -100.3137853151902,25.71043595619727,0 -100.3132317726984,25.71068270529605,0 -100.3132530705888,25.71061787830555,0 -100.312871482344,25.71061535060586,0 -100.3128225185375,25.71090929230338,0 -100.3126166373669,25.71149040895643,0 -100.3121252186241,25.71286817792494,0 -100.3120772017709,25.71285576788972,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_BANORTE PADRE MIER</name>
+			<description>F8 96 HILOS</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3095662816022,25.71246758113241,0 -100.3095244530196,25.71241148762531,0 -100.3089274554981,25.71265333821467,0 -100.3089082712947,25.71244236189664,0 -100.3087124196451,25.71252545289329,0 -100.3084792235451,25.71262671785268,0 -100.3084951493113,25.71241669866064,0 -100.3076795813964,25.71232503953272,0 -100.3075499304695,25.71211957747408,0 -100.3076360198014,25.71142697354286,0 -100.3077148204596,25.71081601730368,0 -100.307797875974,25.71017827605071,0 -100.3078728364991,25.70962571546799,0 -100.3079437046326,25.70908048055742,0 -100.307998830491,25.70869243707877,0 -100.3080216424128,25.70851491077364,0 -100.3082861157352,25.70662418779037,0 -100.3084615401913,25.70503034411152,0 -100.3086049269492,25.70489487187884,0 -100.3086536134522,25.70442295239222,0 -100.3085895098964,25.70399004358162,0 -100.3095577842972,25.70401388155837,0 -100.3096062217397,25.70396671280633,0 -100.3097917560592,25.70232524702502,0 -100.3099449036005,25.70126190571856,0 -100.31006416521,25.70043757415426,0 -100.310182966685,25.69945589069896,0 -100.3102269109163,25.69922214746534,0 -100.3102419247173,25.69913299921288,0 -100.3104808828752,25.69709550554851,0 -100.3106361528354,25.69581324279717,0 -100.3111947302034,25.69165960700451,0 -100.3117709024649,25.68730999044592,0 -100.3118648662004,25.68644960309104,0 -100.3119515835683,25.68582906564335,0 -100.3121084124616,25.68472765414098,0 -100.3122686848727,25.68368322619768,0 -100.3124461434829,25.68222570339268,0 -100.3125758948013,25.68121804709282,0 -100.3126967702792,25.68032666741017,0 -100.3127868223505,25.67956991312004,0 -100.3128119000249,25.67943138877532,0 -100.313242036321,25.67617836139606,0 -100.3133834816899,25.675141610035,0 -100.311882865249,25.67504329172731,0 -100.3121467341711,25.67329613490045,0 -100.3122084618757,25.67290702824152,0 -100.3121916812223,25.67290027719208,0 -100.3121875484086,25.672893076625,0 -100.3121894177943,25.67288265194774,0 -100.3123339918596,25.67187464281237,0 -100.3123757619129,25.67173385018334,0 -100.3124395955865,25.67127531990758,0 -100.3127420636026,25.66924398724895,0 -100.3127809099282,25.6692539216431,0 -100.3136426443456,25.66941320104646,0 -100.3138019322563,25.66844876558246,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME MAXCOM</name>
+			<LookAt>
+				<longitude>-100.3226241208904</longitude>
+				<latitude>25.67122709270499</latitude>
+				<altitude>0</altitude>
+				<heading>15.46957525542685</heading>
+				<tilt>22.01854961248007</tilt>
+				<range>462.5903757819277</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot00</styleUrl>
+			<Point>
+				<coordinates>-100.3225070687662,25.67102333126029,547.788218518588</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME MAXCOM</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-100.3152005567539</longitude>
+				<latitude>25.67098099179405</latitude>
+				<altitude>0</altitude>
+				<heading>15.47848066005957</heading>
+				<tilt>13.14973753834588</tilt>
+				<range>920.480232949566</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot00</styleUrl>
+			<Point>
+				<coordinates>-100.3138136160452,25.66843548851807,547.788218518588</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME MAXCOM</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-100.3123394101719</longitude>
+				<latitude>25.67475787058325</latitude>
+				<altitude>0</altitude>
+				<heading>15.47971942475285</heading>
+				<tilt>13.14829317188818</tilt>
+				<range>213.8341106628155</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot00</styleUrl>
+			<Point>
+				<coordinates>-100.3119726750909,25.6750447294376,547.788218518588</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME MAXCOM</name>
+			<open>1</open>
+			<Camera>
+				<longitude>-100.181819664518</longitude>
+				<latitude>25.7843861985577</latitude>
+				<altitude>288.6147311916489</altitude>
+				<heading>13.13176067025696</heading>
+				<tilt>0.05651483440775929</tilt>
+				<roll>-2.388105061171074</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_shaded_dot</styleUrl>
+			<Point>
+				<coordinates>-100.1811836167028,25.78505230382899,547.788218518588</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME MAXCOM</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-100.3342565971442</longitude>
+				<latitude>25.67993120578966</latitude>
+				<altitude>0</altitude>
+				<heading>15.44319544430899</heading>
+				<tilt>31.82614566619919</tilt>
+				<range>915.418934408256</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot00</styleUrl>
+			<Point>
+				<coordinates>-100.3335182454929,25.67844726102139,547.788218518588</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TRIARA 1</name>
+			<description>F8 96 HILOS</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.1811934032436,25.78506658219489,0 -100.1821047468127,25.78649169494722,0 -100.1847301193004,25.785170870476,0 -100.1843002367291,25.78447309979395,0 -100.1852390980975,25.78400951005402,0 -100.1867940604896,25.78321296862094,0 -100.188459695629,25.78236566843733,0 -100.1902095133544,25.78147407632584,0 -100.1919569044542,25.78061871066605,0 -100.193761281537,25.77971323384048,0 -100.1953960968326,25.77890125718411,0 -100.1962799805014,25.778468088703,0 -100.1957916129003,25.77772160167115,0 -100.1952690185338,25.77687755072197,0 -100.2003743312963,25.77430889911122,0 -100.2004403068092,25.77390833648074,0 -100.2005419856807,25.77330936350871,0 -100.2006372664675,25.77292743718427,0 -100.2003345167036,25.77244069353015,0 -100.1999237041376,25.77177097973025,0 -100.1998188812038,25.77142640479987,0 -100.1992773506098,25.770045909129,0 -100.1986164200815,25.76825642221497,0 -100.1984247475156,25.76772187761105,0 -100.1986392603316,25.76757963459211,0 -100.1985056936729,25.76748661751313,0 -100.1983245766344,25.76709664483714,0 -100.1981560799545,25.76672836982958,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>TRIARA 2</name>
+			<description>F8 96 HILOS</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.1811837324702,25.78504511347301,0 -100.1809689715532,25.78492282115081,0 -100.1796133511202,25.78267699584741,0 -100.1797886865712,25.7825874668481,0 -100.1793217446001,25.78181800665999,0 -100.1795091208486,25.7818466445957,0 -100.1801797014557,25.78149194543715,0 -100.1809206862358,25.78112036624969,0 -100.1818050861172,25.78067898690999,0 -100.1835663261469,25.7797762397625,0 -100.1843335414336,25.77936877088151,0 -100.1844632268146,25.77919978617687,0 -100.1851827602424,25.77882574637495,0 -100.1868868722007,25.77794421674322,0 -100.1886046616997,25.7770715481515,0 -100.1895700476564,25.77658901566763,0 -100.1891027606693,25.77583425597656,0 -100.1899566212246,25.77540117563458,0 -100.1893878613785,25.77451669349103,0 -100.1890818000408,25.77473880475414,0 -100.1884979108308,25.77441635463044,0 -100.1881045698589,25.77419776732216,0 -100.1879159403958,25.77372852106269,0 -100.1881573406078,25.77323898499884,0 -100.1888395711145,25.77196408542526,0 -100.1894056663005,25.77086035525339,0 -100.1902179255697,25.76931945873206,0 -100.1908917388647,25.76809408174953,0 -100.1918370467984,25.76642067989977,0 -100.1919218370084,25.76655139546633,0 -100.1919753699342,25.76669763316375,0 -100.1920400009073,25.76669524828489,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>KALOS</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-100.1940796026294</longitude>
+				<latitude>25.76742226555303</latitude>
+				<altitude>0</altitude>
+				<heading>15.51418947728221</heading>
+				<tilt>2.446858690224848</tilt>
+				<range>551.941157321581</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.1933065030333,25.7671336924707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SERTEC</name>
+			<LookAt>
+				<longitude>-100.3066408519718</longitude>
+				<latitude>25.66909456816549</latitude>
+				<altitude>0</altitude>
+				<heading>-1.324929452618142</heading>
+				<tilt>6.321201706906416</tilt>
+				<range>499.3528706724787</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.3083049650437,25.66909391839947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SERTEC</name>
+			<styleUrl>#m_ylw-pushpin01</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3082990160146,25.66908006197531,0 -100.3085685368576,25.66909750265772,0 -100.3084241033785,25.669642257761,0 -100.3058947091126,25.66940901144032,0 -100.3056841754776,25.67030767345401,0 -100.3021654851819,25.66980951514125,0 -100.3020698968765,25.66980431994177,0 -100.3018857594264,25.66978844910926,0 -100.3013641565367,25.66967221576671,0 -100.3011279215739,25.6695704126688,0 -100.3009686890842,25.66965929887954,0 -100.300260931493,25.67323343371592,0 -100.3000633384873,25.67460587724703,0 -100.3116867631147,25.67586526408403,0 -100.311883846014,25.67504043418472,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME MAXCOM</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-100.312696038283</longitude>
+				<latitude>25.68074912450351</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01927130083757325</heading>
+				<tilt>0</tilt>
+				<range>332.2128211175176</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shaded_dot0</styleUrl>
+			<Point>
+				<coordinates>-100.3125915059872,25.68108585642925,547.788218518588</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SERVICIOS Y REPRESENTACIONES BAGON</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-100.3143585497596</longitude>
+				<latitude>25.68109878082125</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01993345966579901</heading>
+				<tilt>7.997779433180937</tilt>
+				<range>180.6960267863714</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION0</styleUrl>
+			<Point>
+				<coordinates>-100.3144234608904,25.68133636946428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FO SERVICIOS Y REPRESENTACIONES BAGON</name>
+			<description>FO 12 HILOS</description>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3125970013666,25.68109074826499,0 -100.3125617557811,25.68133686228732,0 -100.3135357073574,25.68144693395994,0 -100.3145148862028,25.68155383403055,0 -100.3146500035123,25.6814497551335,0 -100.3145382623262,25.68135155996972,0 -100.3144275280668,25.68133887977917,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

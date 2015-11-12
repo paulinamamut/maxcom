@@ -1,0 +1,3622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FO_QUERETARO.kml</name>
+	<open>1</open>
+	<Style id="sh_SITIO7">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_DERIVACION">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_SITIO4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_DERIVACION2">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_SITIO4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_SITIO10">
+		<IconStyle>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin32">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin29">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_SITIO0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl11">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_EMPALME-MAXCOM6">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_SITIO12">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_EMPALME-MAXCOM6">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin25">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_EMPALME-MAXCOM">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_EMPALME-MAXCOM5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_EMPALME-MAXCOM6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_EMPALME-MAXCOM7">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin28">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_EMPALME-MAXCOM5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_EMPALME-MAXCOM0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_EMPALME-MAXCOM</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_SITIO15">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin31">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin5">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_EMPALME-MAXCOM4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_EMPALME-MAXCOM00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_EMPALME-MAXCOM8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin27">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_SITIO16">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_DERIVACION00">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_DERIVACION30">
+		<IconStyle>
+			<scale>0.583333</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Mexico_DFyEdo.Mex._F.O/Operaciones/Files_op/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_SITIO11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_DERIVACION">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_EMPALME-MAXCOM">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin110">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin26">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_DERIVACION">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_DERIVACION</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_DERIVACION10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_DERIVACION00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_EMPALME-MAXCOM1">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_EMPALME-MAXCOM3">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_SITIO3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin31">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_SITIO8">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_EMPALME-MAXCOM3">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_SITIO11">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin29">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_DERIVACION3">
+		<IconStyle>
+			<scale>0.59091</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_SITIO14">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin09">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_SITIO3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_DERIVACION000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_DERIVACION01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_SITIO16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin01">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO11">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_EMPALME-MAXCOM">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_EMPALME-MAXCOM6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_EMPALME-MAXCOM2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_EMPALME-MAXCOM0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_SITIO13">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_DERIVACION2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_DERIVACION0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_DERIVACION00">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_EMPALME-MAXCOM2">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_DERIVACION1">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_SITIO7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin33">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin02">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_DERIVACION10">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_DERIVACION00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_DERIVACION10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_EMPALME-MAXCOM2">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_SITIO">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_EMPALME-MAXCOM0">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO16">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_SITIO14">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin130">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO6">
+		<IconStyle>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_SITIO9">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_DERIVACION0">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin27">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_SITIO3">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_SITIO15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_SITIO7">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_EMPALME-MAXCOM8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_EMPALME-MAXCOM4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_EMPALME-MAXCOM5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl21">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_SITIO2">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_EMPALME-MAXCOM1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_EMPALME-MAXCOM3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_EMPALME-MAXCOM2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_EMPALME-MAXCOM0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_EMPALME-MAXCOM8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_EMPALME-MAXCOM4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_EMPALME-MAXCOM5">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_DERIVACION1">
+		<IconStyle>
+			<scale>0.59091</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin23">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_EMPALME-MAXCOM4">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin26">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Mexico_DFyEdo.Mex._F.O/Operaciones/Files_op/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_SITIO5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_EMPALME-MAXCOM4">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_SITIO1">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_DERIVACION01">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl20">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_EMPALME-MAXCOM3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_EMPALME-MAXCOM1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_EMPALME-MAXCOM1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin24">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_EMPALME-MAXCOM8">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_EMPALME-MAXCOM7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_EMPALME-MAXCOM7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_EMPALME-MAXCOM7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin200">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_EMPALME-MAXCOM1">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_EMPALME-MAXCOM00">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_SITIO1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_EMPALME-MAXCOM2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_EMPALME-MAXCOM</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_EMPALME-MAXCOM3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_EMPALME-MAXCOM50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_EMPALME-MAXCOM6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_EMPALME-MAXCOM00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_DERIVACION0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_DERIVACION1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_SITIO10">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_DERIVACION1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_DERIVACION000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_EMPALME-MAXCOM00">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_SITIO15">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_SITIO6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin33</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_SITIO14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_SITIO13">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_EMPALME-MAXCOM5">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_DERIVACION0">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_SITIO4">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_EMPALME-MAXCOM0">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_SITIO12">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_DERIVACION000">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="ms_ylw-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_DERIVACION30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_SITIO0">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_SITIO9">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_SITIO5">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_SITIO5">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_SITIO6">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin24">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO8">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_EMPALME-MAXCOM8">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_DERIVACION4">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_EMPALME-MAXCOM7">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Queretaro/ANILLO FO IPTV/Google earth/ICONOS/EMPALME-MAXCOM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>FO_QUERETARO</name>
+		<open>1</open>
+		<Placemark>
+			<name>SITIO AMPLIACION PACIFICO</name>
+			<LookAt>
+				<longitude>-100.4006960526255</longitude>
+				<latitude>20.65163601933952</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002945986562837219</heading>
+				<tilt>0</tilt>
+				<range>125.0224791351921</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO0</styleUrl>
+			<Point>
+				<coordinates>-100.4008684278562,20.651706302968,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO LA LADERA</name>
+			<LookAt>
+				<longitude>-100.3992394302533</longitude>
+				<latitude>20.63936847467998</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002432214926447234</heading>
+				<tilt>0</tilt>
+				<range>242.7924489869415</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO12</styleUrl>
+			<Point>
+				<coordinates>-100.3994337535674,20.63914144565177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO PRESIDENTES</name>
+			<LookAt>
+				<longitude>-100.3842055259497</longitude>
+				<latitude>20.56505553149917</latitude>
+				<altitude>0</altitude>
+				<heading>-1.048736521301366</heading>
+				<tilt>0</tilt>
+				<range>107.213797788421</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO13</styleUrl>
+			<Point>
+				<coordinates>-100.3842755076498,20.56495185365757,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO CAMPESTRE ITALICA</name>
+			<LookAt>
+				<longitude>-100.3741648904724</longitude>
+				<latitude>20.54445498275204</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006863061845771288</heading>
+				<tilt>37.34210593963663</tilt>
+				<range>195.4680440887037</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO15</styleUrl>
+			<Point>
+				<coordinates>-100.3742006686976,20.54400299464495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO CORREGIDORA</name>
+			<LookAt>
+				<longitude>-100.4051764273627</longitude>
+				<latitude>20.5432498140498</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01599852225788031</heading>
+				<tilt>0</tilt>
+				<range>266.0907270716489</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO4</styleUrl>
+			<Point>
+				<coordinates>-100.4057329886496,20.54289493426254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO REFORMA AGRARIA</name>
+			<LookAt>
+				<longitude>-100.3942110994022</longitude>
+				<latitude>20.56658220213784</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01214789469375892</heading>
+				<tilt>0</tilt>
+				<range>87.31919838387427</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO</styleUrl>
+			<Point>
+				<coordinates>-100.3942229118824,20.56662993360431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO  EL MARQUEZ</name>
+			<LookAt>
+				<longitude>-100.3721277016007</longitude>
+				<latitude>20.58884328615146</latitude>
+				<altitude>0</altitude>
+				<heading>-4.514990778637001</heading>
+				<tilt>0</tilt>
+				<range>165.596282279901</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO2</styleUrl>
+			<Point>
+				<coordinates>-100.3721118030738,20.58869391633352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO HACIENDA LA GLORIA</name>
+			<LookAt>
+				<longitude>-100.4273011435704</longitude>
+				<latitude>20.58499323369568</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0237797352384862</heading>
+				<tilt>0</tilt>
+				<range>235.9371309671263</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO10</styleUrl>
+			<Point>
+				<coordinates>-100.4275391993429,20.58474514318247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO PLAN VECINO SATIAGO</name>
+			<LookAt>
+				<longitude>-100.4151344988823</longitude>
+				<latitude>20.58826035391679</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01950205043530104</heading>
+				<tilt>0</tilt>
+				<range>358.2877197736851</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO11</styleUrl>
+			<Point>
+				<coordinates>-100.4150048838168,20.58803235516507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO MAR EGEO</name>
+			<LookAt>
+				<longitude>-100.4258976392815</longitude>
+				<latitude>20.59548742830326</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001447446796426845</heading>
+				<tilt>0</tilt>
+				<range>511.4196176016221</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO6</styleUrl>
+			<Point>
+				<coordinates>-100.4266716755576,20.59591027884279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO TINTERO FUNDADORES</name>
+			<LookAt>
+				<longitude>-100.4334387917511</longitude>
+				<latitude>20.61163770142184</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02624091768609536</heading>
+				<tilt>0.1891534390340613</tilt>
+				<range>228.3124614029745</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO8</styleUrl>
+			<Point>
+				<coordinates>-100.4334400512315,20.61169533996117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO SANTA MAGDALENA</name>
+			<LookAt>
+				<longitude>-100.4497555382374</longitude>
+				<latitude>20.59760010596939</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03167732084997011</heading>
+				<tilt>0.1888519345623284</tilt>
+				<range>127.5280245026163</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO7</styleUrl>
+			<Point>
+				<coordinates>-100.4500205450204,20.59765537595091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO GARAMBULLO</name>
+			<LookAt>
+				<longitude>-100.4512225355248</longitude>
+				<latitude>20.63564491384854</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03250491585193029</heading>
+				<tilt>0.189303339456522</tilt>
+				<range>148.4431402062403</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO5</styleUrl>
+			<Point>
+				<coordinates>-100.4510818068868,20.63557879807664,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SWICHT MAXCOM</name>
+			<LookAt>
+				<longitude>-100.4167966730747</longitude>
+				<latitude>20.61344197640366</latitude>
+				<altitude>0</altitude>
+				<heading>-13.32228339862512</heading>
+				<tilt>0</tilt>
+				<range>381.8412866731578</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO9</styleUrl>
+			<Point>
+				<coordinates>-100.416761556512,20.61292657324083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO CERRITO COLORADO</name>
+			<LookAt>
+				<longitude>-100.4640866466444</longitude>
+				<latitude>20.63833751788096</latitude>
+				<altitude>0</altitude>
+				<heading>-13.33894384388606</heading>
+				<tilt>0</tilt>
+				<range>245.2238559130486</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO14</styleUrl>
+			<Point>
+				<coordinates>-100.4641142958531,20.63833392808588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO LOMA REAL</name>
+			<LookAt>
+				<longitude>-100.4732766796242</longitude>
+				<latitude>20.63911395060016</latitude>
+				<altitude>0</altitude>
+				<heading>-13.34218300347863</heading>
+				<tilt>0</tilt>
+				<range>225.1253661037159</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO1</styleUrl>
+			<Point>
+				<coordinates>-100.4734941968671,20.63939037401773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO MISION FUNDADORES</name>
+			<LookAt>
+				<longitude>-100.4539252062141</longitude>
+				<latitude>20.62519959117271</latitude>
+				<altitude>0</altitude>
+				<heading>-13.3353640941558</heading>
+				<tilt>0</tilt>
+				<range>111.8696005218127</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO3</styleUrl>
+			<Point>
+				<coordinates>-100.4537182563945,20.62534466499004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME MARQUEZ-PACIFICO</name>
+			<LookAt>
+				<longitude>-100.3975132019399</longitude>
+				<latitude>20.62510645353654</latitude>
+				<altitude>0</altitude>
+				<heading>-1.053430616297252</heading>
+				<tilt>0</tilt>
+				<range>384.3547432234721</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_EMPALME-MAXCOM2</styleUrl>
+			<Point>
+				<coordinates>-100.3976973112452,20.62464038927767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME PRESIDENTES-EL MARQUEZ</name>
+			<LookAt>
+				<longitude>-100.3710010207713</longitude>
+				<latitude>20.58562986195677</latitude>
+				<altitude>0</altitude>
+				<heading>-1.044096684146407</heading>
+				<tilt>0</tilt>
+				<range>184.1379332521569</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_EMPALME-MAXCOM1</styleUrl>
+			<Point>
+				<coordinates>-100.371499088899,20.5853299169206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME MARQUEZ-AMPLIACION PACIFICO</name>
+			<LookAt>
+				<longitude>-100.3779274214438</longitude>
+				<latitude>20.60530720002407</latitude>
+				<altitude>0</altitude>
+				<heading>-1.046533369716419</heading>
+				<tilt>0</tilt>
+				<range>832.9749117312211</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_EMPALME-MAXCOM50</styleUrl>
+			<Point>
+				<coordinates>-100.3771573354415,20.60478168766266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME CORREGIDORA-PRESIDENTES</name>
+			<LookAt>
+				<longitude>-100.3832777031768</longitude>
+				<latitude>20.55346271073644</latitude>
+				<altitude>0</altitude>
+				<heading>1.717694332875062</heading>
+				<tilt>5.426528556310259</tilt>
+				<range>257.2045774882573</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_EMPALME-MAXCOM0</styleUrl>
+			<Point>
+				<coordinates>-100.3835354620259,20.55354876586569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME CORREGIDORA - PRESIDENTES</name>
+			<LookAt>
+				<longitude>-100.3793448558022</longitude>
+				<latitude>20.54537802538536</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006937983918866924</heading>
+				<tilt>0</tilt>
+				<range>1123.64804926786</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_EMPALME-MAXCOM4</styleUrl>
+			<Point>
+				<coordinates>-100.380285423379,20.54576428505627,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME COREGIDORA-REFORMA AGRARIA</name>
+			<LookAt>
+				<longitude>-100.4079189878915</longitude>
+				<latitude>20.54750000390541</latitude>
+				<altitude>0</altitude>
+				<heading>0.002862875399240298</heading>
+				<tilt>39.97547331767403</tilt>
+				<range>361.2245689360106</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_EMPALME-MAXCOM5</styleUrl>
+			<Point>
+				<coordinates>-100.4074432663193,20.54735838247174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME CORREGIDORA-REFORMA AGRARIA</name>
+			<LookAt>
+				<longitude>-100.4026439748697</longitude>
+				<latitude>20.57493783570728</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01511063214520268</heading>
+				<tilt>0</tilt>
+				<range>666.9255496436573</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_EMPALME-MAXCOM8</styleUrl>
+			<Point>
+				<coordinates>-100.4033406149904,20.57559982390395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME HDA. LA GLORIA-RAQUETA TELEREUNION</name>
+			<LookAt>
+				<longitude>-100.4110864864173</longitude>
+				<latitude>20.58584938539773</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01807846880410389</heading>
+				<tilt>0</tilt>
+				<range>537.7971929965714</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_EMPALME-MAXCOM</styleUrl>
+			<Point>
+				<coordinates>-100.4118802717272,20.58644782912899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME CERRITO-SWICHT MAXCOM</name>
+			<LookAt>
+				<longitude>-100.4433362248601</longitude>
+				<latitude>20.63143779069147</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02972627635836576</heading>
+				<tilt>0.1892177742969145</tilt>
+				<range>373.390811902675</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_EMPALME-MAXCOM3</styleUrl>
+			<Point>
+				<coordinates>-100.4427699889962,20.63180027563404,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME CERRITO COLORADO-SWICHT MAXCOM</name>
+			<LookAt>
+				<longitude>-100.4231066522671</longitude>
+				<latitude>20.61952985977035</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02260036643961978</heading>
+				<tilt>0.1894544484148007</tilt>
+				<range>396.815904789651</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_EMPALME-MAXCOM7</styleUrl>
+			<Point>
+				<coordinates>-100.4220842922205,20.61901280185679,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO IUSACEL</name>
+			<LookAt>
+				<longitude>-100.4170503013193</longitude>
+				<latitude>20.61714422108631</latitude>
+				<altitude>0</altitude>
+				<heading>-13.3223727869161</heading>
+				<tilt>0</tilt>
+				<range>94.07743121890307</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION000</styleUrl>
+			<Point>
+				<coordinates>-100.4171204319467,20.61714631065596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO BESTEL</name>
+			<LookAt>
+				<longitude>-100.4095475525811</longitude>
+				<latitude>20.6050469167469</latitude>
+				<altitude>0</altitude>
+				<heading>-13.31973151670891</heading>
+				<tilt>0</tilt>
+				<range>116.9790068802231</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION1</styleUrl>
+			<Point>
+				<coordinates>-100.4093868435109,20.60514067900709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FO_AMP.PACIFICO-LALADERA</name>
+			<styleUrl>#msn_ylw-pushpin17</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4008683074837,20.65170633164292,0 -100.400918462466,20.65171024877247,0 -100.4009736804297,20.65141023289416,0 -100.4010787677482,20.65086055949742,0 -100.4006012746583,20.65077276125981,0 -100.4000443123642,20.65067681781193,0 -100.4004565350664,20.64848161865459,0 -100.4006530343303,20.64737134026858,0 -100.4008049664719,20.64648797952819,0 -100.4009310470874,20.64577320360754,0 -100.4011996465665,20.64488908468166,0 -100.4017124477236,20.64317757742538,0 -100.4011170159037,20.64308780666129,0 -100.4004444298993,20.64297872183101,0 -100.4006614551237,20.64181902160276,0 -100.4007862518612,20.64183142700321,0 -100.4008862784129,20.64096719032647,0 -100.4007857601143,20.64094557887071,0 -100.4007865540853,20.64031682814622,0 -100.4006194991305,20.64028597266228,0 -100.4006258148921,20.6399247873161,0 -100.3994874043974,20.6397810420896,0 -100.3994716884562,20.63913733033403,0 -100.3994306809688,20.63913940132065,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_SITIOLADERA-EMPALME</name>
+			<styleUrl>#msn_ylw-pushpin14</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3994716642554,20.63913870286264,0 -100.3994665843765,20.63869281163162,0 -100.3994645298621,20.63859327805213,0 -100.3995063130463,20.63791379468102,0 -100.3995726463974,20.63702970442818,0 -100.3996969481526,20.63565224076557,0 -100.3997665504467,20.63482326902276,0 -100.3998556054967,20.63382455307572,0 -100.3999604200917,20.63187203143862,0 -100.3985570266789,20.63171378311706,0 -100.3985880839395,20.63160380150884,0 -100.3986485058336,20.6312814528402,0 -100.3988520994217,20.63014083263885,0 -100.3990504378237,20.62912526670792,0 -100.3992217051387,20.62812827254957,0 -100.3992687858747,20.62766352518295,0 -100.3993793799662,20.6269753461275,0 -100.3996304733869,20.62557451349663,0 -100.3996534384483,20.62545274318457,0 -100.3994717865534,20.62545570549903,0 -100.3989939256306,20.62526785591517,0 -100.3983114872,20.62494911123201,0 -100.397688422652,20.6246563450899,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_EMPALMEPACIFICO-EMPALMEAMPPACIFICO</name>
+			<styleUrl>#msn_ylw-pushpin28</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3976675974233,20.62464444410217,0 -100.3976630553882,20.62462913221818,0 -100.3965207593674,20.62413933542384,0 -100.3948647714222,20.62339912428502,0 -100.3930322542315,20.62258624924682,0 -100.3902219486847,20.62131766153146,0 -100.3901790711275,20.62094717991791,0 -100.3901568606072,20.61989695412498,0 -100.3901801345628,20.61892935405919,0 -100.3903016125576,20.61853531211785,0 -100.3903019609949,20.61825295161972,0 -100.3901649302801,20.61796229579361,0 -100.3901733902124,20.61713539855145,0 -100.3898722605465,20.61693414548405,0 -100.3898290453691,20.61660107341195,0 -100.3896683596855,20.61637284382183,0 -100.3884999987235,20.61595189480152,0 -100.387302955732,20.61537786550233,0 -100.3864668754814,20.6148490664695,0 -100.3854019834242,20.61404712776754,0 -100.3839491529267,20.61289913957705,0 -100.3816752292074,20.61108665048501,0 -100.3797574508369,20.60949777376235,0 -100.3789640078637,20.60861698114012,0 -100.377917835278,20.60686858053661,0 -100.3772557982093,20.60535404008941,0 -100.377140223726,20.60478890861049,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_EMPALME-SITIO EL MARQUEZ</name>
+			<styleUrl>#msn_ylw-pushpin21</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.377177100062,20.60473489752174,0 -100.3771053943931,20.60473877651503,0 -100.3768524417375,20.60384128358699,0 -100.3759993228689,20.60136006024213,0 -100.3750236975731,20.59959479996991,0 -100.3740752849561,20.5986723166318,0 -100.3720296750689,20.59674455121964,0 -100.3745159746036,20.5949966365169,0 -100.3766498593459,20.59341157478412,0 -100.3764074839063,20.59305093794292,0 -100.3760571043202,20.59264023047405,0 -100.3755640279538,20.59210513779975,0 -100.3751693618774,20.591749734954,0 -100.3745660360128,20.59134985891969,0 -100.37403267889,20.59113177192164,0 -100.3737160765817,20.59099708742293,0 -100.3731192877512,20.59080022276825,0 -100.3727551453112,20.5907076617388,0 -100.3722437060576,20.59055710414888,0 -100.3719302693498,20.59045332550568,0 -100.3735100995689,20.58931045047889,0 -100.3727044128711,20.58890622285592,0 -100.3721350624047,20.58863533209464,0 -100.372115579143,20.5886848497744,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_ELMARQUEZ-EMPALME</name>
+			<styleUrl>#msn_ylw-pushpin21</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3721365446516,20.58863606264515,0 -100.3714539803038,20.58833622969161,0 -100.3707801071846,20.5881372256236,0 -100.3704838639045,20.58805986115699,0 -100.3703880332408,20.58763357461165,0 -100.3699618157096,20.58578932166302,0 -100.3699152473722,20.58566307757314,0 -100.3714991972217,20.58532292342348,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_EMPALME-PRESIDENTES</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3714956435162,20.58533058624136,0 -100.3727005559727,20.58507703504191,0 -100.3725466501615,20.58439439409206,0 -100.3724474024224,20.58396508818582,0 -100.372110786028,20.58254566876041,0 -100.3717100227664,20.58077198660738,0 -100.3722598645531,20.58066449394131,0 -100.3731087016627,20.58055737798177,0 -100.3742425908461,20.58040134001093,0 -100.3743587577936,20.57972171002548,0 -100.3742246970808,20.57916059982924,0 -100.3742668111366,20.57813873433181,0 -100.3742722512696,20.57772534743964,0 -100.3741478677193,20.57735988177893,0 -100.3746610712624,20.57731034073213,0 -100.3758851295796,20.57709334049844,0 -100.3778922701908,20.57669386526496,0 -100.3812019990588,20.57606797867983,0 -100.3825993470906,20.57580412817737,0 -100.3826281526494,20.57513801058124,0 -100.3826299912921,20.5749752977397,0 -100.3828488322256,20.57491485099454,0 -100.3828629031361,20.5745519221049,0 -100.3828871791386,20.57406968227651,0 -100.3829315177724,20.57288600320759,0 -100.3829542890147,20.57172083026157,0 -100.3830394581379,20.56843216609397,0 -100.3832064403473,20.56636161755727,0 -100.3841912149471,20.56638524206977,0 -100.3842356323749,20.56494661665689,0 -100.3842773336926,20.56494520119028,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_PRESIDENTES-EMPALME</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3842367127067,20.56494638331438,0 -100.3842454724351,20.56471769111182,0 -100.3842628895324,20.56426512382575,0 -100.3843161505998,20.56285763331025,0 -100.3841315583446,20.56225365546146,0 -100.383331001402,20.56222308667606,0 -100.3833768119584,20.56122082646092,0 -100.3834056440057,20.5598473415357,0 -100.383458297775,20.55817622363075,0 -100.3834732037643,20.55684940110106,0 -100.3834792277555,20.55540199545919,0 -100.3835417314947,20.55354332551798,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_EMPALME-EMPALME</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3835458652842,20.55354264565925,0 -100.3835994277802,20.55185627663798,0 -100.3837323610682,20.54663832154268,0 -100.3834832495072,20.54664756503644,0 -100.3820033368391,20.54731382358128,0 -100.3801711005615,20.54817598859715,0 -100.3797652426195,20.54834686475491,0 -100.3788488566219,20.54693263356074,0 -100.3787271200571,20.54676892351552,0 -100.376060238975,20.54836252840796,0 -100.3748783611179,20.54670586516025,0 -100.3746390601769,20.54689227312109,0 -100.3742388360521,20.54637412876837,0 -100.3744824638026,20.54623933335552,0 -100.3737398495475,20.54522877076987,0 -100.3743824418653,20.54448741242593,0 -100.3745152288861,20.54444636123766,0 -100.3766419210978,20.54747016568174,0 -100.3785995265186,20.54629318577469,0 -100.3789171932513,20.54666160451219,0 -100.3802814403068,20.54575948013846,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Enlace de F.O. Campestre Italica</name>
+			<open>1</open>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3742044823555,20.54403943842377,0 -100.3744323738426,20.54447011756245,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_EMPALME-CORREGIDORA</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3802936519634,20.54576993995519,0 -100.3807499524557,20.54550911979668,0 -100.3816950128656,20.5449349065303,0 -100.3829246150732,20.54418966513078,0 -100.3833898433211,20.54386376314521,0 -100.3842991436288,20.54302268931107,0 -100.3874358151872,20.54010191196643,0 -100.3887893389142,20.53886314193835,0 -100.3893289858746,20.53845695225796,0 -100.3921984268301,20.53779266399988,0 -100.3949783902962,20.53738276500505,0 -100.3956507202785,20.5372375414573,0 -100.3962470060326,20.53705958380932,0 -100.3966988315139,20.53696511648253,0 -100.3972033198292,20.53719726806691,0 -100.3978014172453,20.53801707037611,0 -100.3987300931414,20.53913125344524,0 -100.3991398711938,20.53973179451073,0 -100.3994621904865,20.5404600961755,0 -100.3996915574423,20.54091374647433,0 -100.3999633082471,20.54161054238867,0 -100.4001891941197,20.54164783527524,0 -100.4004245642297,20.54149781734217,0 -100.4006221746015,20.54117731327867,0 -100.4029143829019,20.54131797640223,0 -100.4039846242393,20.5433076235837,0 -100.4050743324052,20.5453933778627,0 -100.4051805229972,20.54522123820955,0 -100.4057443412071,20.54372276564795,0 -100.4057291913623,20.54360859497535,0 -100.4058130124991,20.54340109240868,0 -100.4056626560105,20.5431027507118,0 -100.4057311818683,20.54289100533098,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_CORREGIDORA-EMPALME</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4057312562722,20.54361226033818,0 -100.4060936153617,20.54426791392976,0 -100.406410223996,20.54489220583399,0 -100.4064693062598,20.54494408894888,0 -100.4064483446163,20.5453470566916,0 -100.406210139662,20.5459106264942,0 -100.4062269765722,20.54598427785722,0 -100.4066812847912,20.54621767456958,0 -100.4070999415908,20.54678503886743,0 -100.4074423892209,20.54736728632627,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_EMPALME-REFORMA AGRARIA</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4074377537646,20.5473769527733,0 -100.4083330752165,20.54926084869221,0 -100.4085528815836,20.54952839870498,0 -100.4093582190021,20.55126092435376,0 -100.4096092234213,20.5514266183837,0 -100.4073312015237,20.55376288900602,0 -100.4053166459972,20.55589715385746,0 -100.4040392083156,20.5572269602167,0 -100.4033919337611,20.55792587445792,0 -100.4031444435024,20.55784234276939,0 -100.4029712515695,20.55783956083258,0 -100.4028976189462,20.55775206725613,0 -100.4027305902821,20.558006981641,0 -100.4024305935604,20.55842430135384,0 -100.402032013386,20.55891785552954,0 -100.4008672593009,20.55887135209657,0 -100.3998179092493,20.55884265759081,0 -100.3979414947025,20.55876204886074,0 -100.395947882009,20.5586731624144,0 -100.3944393811113,20.55862652848751,0 -100.3931682413853,20.55859830385321,0 -100.3927226012655,20.55879207532196,0 -100.3921967288896,20.5589729341648,0 -100.3929004063895,20.56096988938188,0 -100.3933527870374,20.56222240471111,0 -100.3937534789713,20.56358244832616,0 -100.3940149737839,20.56436057668158,0 -100.3942147466307,20.56522708061155,0 -100.3945383353234,20.56654724499442,0 -100.3945452874342,20.56656487908896,0 -100.3942264390166,20.56665192437017,0 -100.3942212145766,20.56662514784564,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_REFOMA AGRARIA-PRESIDENTES</name>
+			<styleUrl>#msn_ylw-pushpin32</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3937985027127,20.5637136337832,0 -100.3928997383465,20.56398792740389,0 -100.3918220300481,20.56434267396249,0 -100.3903429309952,20.56486920144678,0 -100.3895680085752,20.56512146636522,0 -100.3871430637656,20.56599250940252,0 -100.386232868717,20.56633012479635,0 -100.3859909889149,20.56636344931005,0 -100.38447616688,20.56632477880619,0 -100.3841947302526,20.5663102935179,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_REFORMA AGRARIA-EMPALME</name>
+			<styleUrl>#msn_ylw-pushpin22</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3945462389125,20.56656704132471,0 -100.3946391674503,20.56703968935507,0 -100.3948603038192,20.5679889988752,0 -100.395245118438,20.56785117717407,0 -100.3954959316525,20.56857713827862,0 -100.3954403517254,20.5685924556747,0 -100.3956900871109,20.56925420332307,0 -100.3961712170228,20.57064573760813,0 -100.3962638304437,20.57096018774244,0 -100.3963479024654,20.57120894154264,0 -100.3975804310901,20.57087949401852,0 -100.3981867427736,20.57249358696889,0 -100.3982742126983,20.57267925770239,0 -100.3981865442793,20.57273651286745,0 -100.3984478521566,20.57365702044301,0 -100.399194256695,20.57401501801704,0 -100.3997230909176,20.5742412009657,0 -100.4005671712668,20.57440159015903,0 -100.4021898786401,20.57485656275127,0 -100.4029496520447,20.57474295685753,0 -100.4033239354154,20.57558296936754,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME_CORREGIDORA-HDA LA GLORIA</name>
+			<styleUrl>#msn_ylw-pushpin13</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4033511264875,20.57560531742557,0 -100.402011032648,20.57717253460017,0 -100.4038991001938,20.5790183978731,0 -100.4054249203471,20.58042077849851,0 -100.4071846938654,20.58210066440323,0 -100.4091971053699,20.58401359130539,0 -100.4109751444633,20.58555693775224,0 -100.4117104722171,20.58627539796482,0 -100.4118786588048,20.5864497088587,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_EMPALME HDA. LA GLORIA-HDA LA GLORIA</name>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4118756432004,20.58645006976586,0 -100.412490153599,20.58631674669502,0 -100.41290841237,20.58638236040481,0 -100.4136486934837,20.58657227526922,0 -100.4148243654469,20.58683885329327,0 -100.4166188415225,20.58724824286547,0 -100.4192384771996,20.58782916992002,0 -100.4199551944384,20.58797532339169,0 -100.4216922553787,20.58838462590533,0 -100.4229620465914,20.58869280104102,0 -100.4239268502895,20.58894092488177,0 -100.4259428056484,20.58940231279189,0 -100.4279824153825,20.58983091533795,0 -100.4279941436777,20.5896383259676,0 -100.4279370050233,20.5889518508167,0 -100.4279039806997,20.58877989670005,0 -100.4279275971409,20.58820058099722,0 -100.4278979365593,20.58784183463798,0 -100.4278749723497,20.58682404479264,0 -100.4278613326797,20.58613732846287,0 -100.4276543210402,20.58473768232028,0 -100.4275401493457,20.58475202805028,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_SITIO MAR EGEO-HDA LA GLORIA</name>
+			<styleUrl>#msn_ylw-pushpin7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4266696650313,20.59591173966662,0 -100.4266638945496,20.59537157586574,0 -100.4266814198848,20.59501872010977,0 -100.4268491995332,20.59499866090596,0 -100.4268407153028,20.59453975386784,0 -100.4262488311167,20.59454189706323,0 -100.4256761023806,20.5945380033598,0 -100.4249264693222,20.59452013001718,0 -100.4246938000869,20.59452826842376,0 -100.424592970642,20.59413222968684,0 -100.4245289063429,20.59356142403581,0 -100.4243610541059,20.59254627522988,0 -100.4237359125313,20.58888329921528,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_SANTA MAGDALENA-HDA LA GLORIA</name>
+			<styleUrl>#msn_ylw-pushpin23</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4500248667187,20.59765594348524,0 -100.4500635463912,20.59764043043531,0 -100.4498312746817,20.59732156671529,0 -100.4496896083687,20.59709742797961,0 -100.4496435239778,20.5969421031466,0 -100.4496498898947,20.59674056268992,0 -100.4494213667771,20.59670694220105,0 -100.4485447308961,20.59659503759536,0 -100.4484546539431,20.59657672164068,0 -100.4483790461797,20.59601785155591,0 -100.4483056194451,20.5953156740471,0 -100.4482619176133,20.59501416837301,0 -100.4481986773526,20.5943524467246,0 -100.4480466249698,20.59300236275866,0 -100.4477492651233,20.5907679701002,0 -100.4460775799122,20.59056887671586,0 -100.4429242847054,20.59015043077472,0 -100.4395722804085,20.58970652896379,0 -100.4359458002578,20.58988496968076,0 -100.4318245500453,20.59008818021974,0 -100.4309152315092,20.59014066073885,0 -100.4296318661215,20.59006760164079,0 -100.427983198386,20.58982821181957,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_SANTA MAGDALENA-TINTERO FUNDADORES</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4500622169141,20.59764129320731,0 -100.4502279645905,20.5978778076534,0 -100.4503211030636,20.59802218949317,0 -100.4504461562063,20.5986488407801,0 -100.4505766097435,20.59933797514218,0 -100.4490825317174,20.59938839421671,0 -100.4492361872423,20.59967510742041,0 -100.4487032499675,20.59969307235506,0 -100.4476933963887,20.59979600233715,0 -100.4478815499291,20.60108536381205,0 -100.4482687511047,20.60377175009757,0 -100.4470957677885,20.60359174298456,0 -100.4436705023044,20.60313568350532,0 -100.4427829499831,20.60305024607841,0 -100.4427060482034,20.60304810629895,0 -100.4427309326449,20.6031533295644,0 -100.4427215358331,20.60315331066639,0 -100.4413674673074,20.60347623356543,0 -100.4398195846282,20.60382066022499,0 -100.4395806512128,20.60282633589495,0 -100.4385083853347,20.60307555594236,0 -100.437244303851,20.60335202557326,0 -100.4359392206447,20.60368228431026,0 -100.4344803538707,20.60399908409474,0 -100.4319551799087,20.6046056951388,0 -100.430510389976,20.60498116286208,0 -100.4303760517414,20.60501780341451,0 -100.4304574695285,20.60544986101332,0 -100.4305737170706,20.60628291127073,0 -100.4306817950564,20.60671771205987,0 -100.4308685038299,20.60739244190352,0 -100.430895882512,20.60745803909574,0 -100.4313349657758,20.60741032880652,0 -100.4320665296146,20.60734206747829,0 -100.4323182039818,20.60912413945223,0 -100.4328072101303,20.60907383965761,0 -100.4328879120697,20.60906158175969,0 -100.4330035614712,20.60955028845186,0 -100.4331927433879,20.61021846603921,0 -100.4332404974816,20.61066744603222,0 -100.4332897978293,20.61122478383796,0 -100.4333760180175,20.61170277950267,0 -100.4334349606898,20.6116946021159,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_TINTERO-GARAMBULLO</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.433375349192,20.61170014010951,0 -100.4334593873145,20.61211204324992,0 -100.4335248135824,20.61234787295058,0 -100.4335788276769,20.61259409504868,0 -100.4339558094986,20.61424809508392,0 -100.4360886143091,20.61395684130267,0 -100.43627677112,20.613931993303,0 -100.4363978635932,20.61458204101365,0 -100.4362162472546,20.61476347811241,0 -100.4361156860877,20.61501983245637,0 -100.4360552319047,20.61541616366614,0 -100.4362152139212,20.61593255952684,0 -100.4364151331809,20.61650663463851,0 -100.4368819455384,20.61759311586958,0 -100.4377477284727,20.61837729615818,0 -100.4386723133474,20.6192636638117,0 -100.4395899193369,20.62002271690388,0 -100.4398310822359,20.62028000600489,0 -100.4400983008349,20.6202600617823,0 -100.4404999590774,20.62068376951036,0 -100.4410628027791,20.62144928283555,0 -100.4412546033401,20.62173481855532,0 -100.4417503548051,20.62257650910462,0 -100.4419494055617,20.62350083251671,0 -100.4420859937646,20.62391336475541,0 -100.44246523,20.62596589974878,0 -100.4429895605951,20.62838767156643,0 -100.4431184192368,20.62893336499418,0 -100.4441631092541,20.62832495833053,0 -100.4457465045955,20.6273075332726,0 -100.4461182744029,20.62710273502018,0 -100.4460732780202,20.62697429282904,0 -100.44748268212,20.6267074977063,0 -100.4478405855509,20.62854476365698,0 -100.4485546096941,20.6283070574357,0 -100.448973395008,20.62956891466893,0 -100.4493106718148,20.63073167301945,0 -100.4497692095088,20.63210446079669,0 -100.4502655573357,20.63338887292224,0 -100.4507991505221,20.63466827104704,0 -100.4511422364763,20.63555047849217,0 -100.4510883206523,20.6355691123518,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_CERRITO COLORADO-MISION FUNDADORES</name>
+			<styleUrl>#msn_ylw-pushpin26</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4641175434188,20.63833274140413,0 -100.4640540619244,20.63832923710941,0 -100.4639920739691,20.63775956084501,0 -100.4638729865636,20.63691653985818,0 -100.4637812079109,20.63621246139459,0 -100.463724228968,20.63563612855514,0 -100.4633978080111,20.63568889181966,0 -100.4621500084344,20.63584664511709,0 -100.4584918306219,20.63625276385644,0 -100.4582999790959,20.63613530059655,0 -100.4581662167261,20.63514333023972,0 -100.457302079482,20.63543852018509,0 -100.4571821297159,20.6350086984168,0 -100.4550165145775,20.63577371199848,0 -100.4546218971463,20.63446586293559,0 -100.4542235490408,20.63322506854606,0 -100.4534887020526,20.63101235017208,0 -100.4530831044861,20.62967127646058,0 -100.4527917084944,20.62850076649089,0 -100.4519722813543,20.62860690540934,0 -100.4516044768774,20.62754266723317,0 -100.4526925704198,20.62706363487094,0 -100.4537419299093,20.6273343936513,0 -100.4535697993741,20.62516919416814,0 -100.453740383998,20.62516027155378,0 -100.4537205493911,20.62533362960503,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_CERRITO COLORADO-GARAMBULLO</name>
+			<styleUrl>#msn_ylw-pushpin29</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4584926546919,20.63625274409311,0 -100.4580849818431,20.63629674559996,0 -100.4578086158679,20.63632662341605,0 -100.4573604647468,20.63645185573174,0 -100.4564866008111,20.63654676751084,0 -100.4557258388332,20.63663753439069,0 -100.4555198730823,20.63603669491381,0 -100.4543467345377,20.63642623260004,0 -100.4518190473943,20.63727935132752,0 -100.451143427715,20.63555139247371,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_LOMA REAL-CERRITO COLORADO</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4640552366312,20.63832885744033,0 -100.4641465710554,20.63901477410364,0 -100.4655035137947,20.63916363749596,0 -100.468326244522,20.63946681430375,0 -100.4682405112968,20.64026936634254,0 -100.4678975581454,20.64121600001651,0 -100.4703275417954,20.64175747822973,0 -100.4736451072099,20.64252526648088,0 -100.4749398153646,20.64168591411555,0 -100.4733190567062,20.63951479407749,0 -100.4733871088301,20.63938536251121,0 -100.4734890207078,20.63938510164271,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_LOMA REAL-MISIONFUNDADORES</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4733181230319,20.63951398749672,0 -100.4730063804416,20.63917617163075,0 -100.4727607771601,20.63879423284104,0 -100.4721644292748,20.63807503300436,0 -100.4711652274908,20.63685544902025,0 -100.4691024010775,20.63427860545886,0 -100.4670845884287,20.63163096959804,0 -100.464266197574,20.63261304264618,0 -100.4618143226232,20.63345061334177,0 -100.4617064406941,20.63324467607463,0 -100.461699614881,20.63322077914738,0 -100.4595458179155,20.62950895667958,0 -100.4577595243645,20.62979582473497,0 -100.4576008730088,20.62886605981407,0 -100.4575097684112,20.62834035255981,0 -100.4574786668337,20.62808972232278,0 -100.4576099148805,20.62728402597223,0 -100.4551832382959,20.62668253627555,0 -100.454939896343,20.6264680948996,0 -100.4548915282082,20.62546591991959,0 -100.4548408702303,20.62510805801287,0 -100.4537436540832,20.62517055102783,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_CERITO COLORADO-EMPALME</name>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4641457883524,20.63901336090044,0 -100.464166623665,20.63917729195396,0 -100.4637733951502,20.64184956548215,0 -100.4632329852394,20.64181719804789,0 -100.462554848204,20.64179527511017,0 -100.4625318476803,20.64225227350595,0 -100.4617297844818,20.64219833806403,0 -100.4607516775853,20.64214181833969,0 -100.4599502570692,20.64210563724665,0 -100.4589393977354,20.64205550271818,0 -100.4583991476079,20.64201959296399,0 -100.4576513259175,20.64198864241232,0 -100.4574573235057,20.64200296550046,0 -100.457006228255,20.64193883908675,0 -100.4563171790628,20.64174764506531,0 -100.4551453594535,20.64135295209636,0 -100.4542560858347,20.64106264269502,0 -100.4535314295467,20.64063353378511,0 -100.4532719311877,20.64040135017982,0 -100.4530338502199,20.63998655514083,0 -100.4505644781284,20.6408138916467,0 -100.4481022099702,20.64169566959428,0 -100.4456694851027,20.64253721059484,0 -100.4452594510217,20.6415356317495,0 -100.444520766665,20.64182588114312,0 -100.4443026725004,20.6410972997488,0 -100.444152507652,20.64008710567761,0 -100.4439394899534,20.63912509761555,0 -100.4436913762159,20.63732928283071,0 -100.4436616462739,20.63606182204625,0 -100.4435898234253,20.63420046058259,0 -100.4434462493652,20.63317466807219,0 -100.4431673251183,20.63250926403081,0 -100.4429069796978,20.63174714496198,0 -100.4427529332671,20.63178656949046,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_EMPALME GARAMBULLO-EMPALME CERRITO</name>
+			<styleUrl>#m_ylw-pushpin09</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4427860976738,20.63179131001519,0 -100.4418058142573,20.63225202329293,0 -100.4408259098038,20.63266897473647,0 -100.4403140234713,20.63147962400726,0 -100.4392617461799,20.62879360298721,0 -100.4384032894393,20.62658813609401,0 -100.4374126204372,20.62397856287453,0 -100.4362413910652,20.62128154608781,0 -100.43540580675,20.61928814627677,0 -100.4344852880201,20.61672734025277,0 -100.4314651229593,20.61723417136155,0 -100.4292057192762,20.617585912268,0 -100.429173299482,20.61758570824464,0 -100.4286712070119,20.6176230292026,0 -100.4286054149256,20.61763854943829,0 -100.4273694919894,20.61787501971821,0 -100.4221160171144,20.61900780808266,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_EMPALME-SWICHT</name>
+			<styleUrl>#msn_ylw-pushpin18</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4221009400994,20.61900957157934,0 -100.4221890550822,20.61930786177933,0 -100.4215833619346,20.61945133352258,0 -100.4215691478937,20.61944680946406,0 -100.4212473265743,20.61874003393891,0 -100.4210298240181,20.61814479926229,0 -100.4207174766683,20.61758178584845,0 -100.4202639248069,20.61677150560011,0 -100.4197467294111,20.61588259770549,0 -100.4195487162355,20.61564193977711,0 -100.4190051559533,20.61514831533401,0 -100.4183395689609,20.61460885537803,0 -100.4184334759918,20.61382243160489,0 -100.4184388730717,20.61371110567974,0 -100.4181073286674,20.61378649067965,0 -100.4179002903764,20.61376580463367,0 -100.4177560768,20.61374061718688,0 -100.4168944976742,20.6128148412572,0 -100.4167666079659,20.61292204249925,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_SWICHT-IUSACEL</name>
+			<styleUrl>#msn_ylw-pushpin15</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4183522526577,20.61461139506936,0 -100.418052701901,20.61453919979432,0 -100.4180392661972,20.61453028799985,0 -100.4176855987676,20.61453345907135,0 -100.4172301078759,20.61450649174079,0 -100.4168330072137,20.61445948702252,0 -100.4164842428877,20.61440868500459,0 -100.4165033891427,20.61597244673838,0 -100.4165295073393,20.61692454506571,0 -100.4165400560261,20.61703348785313,0 -100.4166054275895,20.61727474649839,0 -100.4171073023279,20.61711929478872,0 -100.4171219938541,20.61714460521554,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_SWICHT-EMPALME</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4184327460721,20.61370910019974,0 -100.4197344111227,20.6131789500199,0 -100.4198810521124,20.6131154179802,0 -100.41863964174,20.60880716932611,0 -100.4190453925146,20.60907797246227,0 -100.4182152607653,20.60633561020356,0 -100.4183653154203,20.60631050842163,0 -100.4178243246451,20.60429252928255,0 -100.4165321359491,20.59963502383958,0 -100.4159507434845,20.59781093508541,0 -100.4153863293711,20.59577870693743,0 -100.4149559238341,20.59580325360583,0 -100.4141381002024,20.59282526740397,0 -100.4134221984645,20.59035139133452,0 -100.4129199841248,20.58873950820728,0 -100.4125786126608,20.5874726597958,0 -100.4123846956099,20.58716859645115,0 -100.4118851975075,20.58644471116362,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_PVSANTIAGO-EMPALME</name>
+			<styleUrl>#msn_ylw-pushpin25</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4149906342246,20.58803046266082,0 -100.4149902167831,20.58808183439801,0 -100.4153588204617,20.58811321110426,0 -100.4157088807563,20.58703662381389,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_IUSA-BESTEL</name>
+			<styleUrl>#msn_ylw-pushpin24</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4164805631586,20.61440438106001,0 -100.4160907530897,20.61430862190074,0 -100.4156309233745,20.61416107381544,0 -100.4153272066162,20.61399062066297,0 -100.4149329409075,20.61350326526065,0 -100.4137969014691,20.61212655640035,0 -100.4129185868595,20.61114354703527,0 -100.4119316948434,20.6100121739802,0 -100.4112667837707,20.60905851513236,0 -100.4104496378628,20.60755531264624,0 -100.4102641994024,20.60716491503538,0 -100.40867583258,20.60573241549065,0 -100.4085978767295,20.60568355243688,0 -100.4090685857969,20.60544242090998,0 -100.4094603005322,20.60525542327303,0 -100.4093908483753,20.60513116082736,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_BESTEL-RUTA</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.409472120115,20.60526177124886,0 -100.4101286864019,20.60493049129237,0 -100.4107324472552,20.60475729153671,0 -100.4107368961755,20.60474484358144,0 -100.4127184158187,20.60462843533262,0 -100.4145233992504,20.60453436103141,0 -100.4167155037867,20.60442754191069,0 -100.4173181402956,20.60439653516885,0 -100.4178319096009,20.60429653362619,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_SWICHT-RUTA</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.416907242606,20.61279515537355,0 -100.4156743852382,20.61137190950329,0 -100.4190604565855,20.61029910191682,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_SWICHT-PACIFICO</name>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4155708088729,20.61412271477775,0 -100.4157488359046,20.6152719388753,0 -100.416012155577,20.61704509682971,0 -100.4158170327802,20.61707407937694,0 -100.4154045657112,20.61717148256654,0 -100.4153922704218,20.61717243925565,0 -100.4151386282976,20.61728422590021,0 -100.4146834206871,20.61746090802675,0 -100.4142392371318,20.61761034208178,0 -100.4134791518765,20.61778188840093,0 -100.413030119253,20.61785010021497,0 -100.4113269293052,20.61797820702305,0 -100.4111977208244,20.61883567365776,0 -100.4104455129455,20.61860858214915,0 -100.4105233319316,20.61972656787849,0 -100.4106003453002,20.6202987334369,0 -100.4108093973256,20.62069214981082,0 -100.4105789736287,20.62074873298142,0 -100.4107392747409,20.62100908563939,0 -100.4108651489117,20.6211973345881,0 -100.4109651465748,20.62146259984847,0 -100.4116092889266,20.6232096265834,0 -100.4101508253042,20.62352089331991,0 -100.408809448318,20.62380723065841,0 -100.4079631975915,20.6239668157764,0 -100.4080911708735,20.62459889206312,0 -100.4077368129454,20.62466795660479,0 -100.4077225700854,20.62461749475011,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>SITIO PACIFICO</name>
+			<LookAt>
+				<longitude>-100.4077943242961</longitude>
+				<latitude>20.62461075543856</latitude>
+				<altitude>0</altitude>
+				<heading>-4.864837229067314</heading>
+				<tilt>1.695393873421066</tilt>
+				<range>281.7746081055217</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO16</styleUrl>
+			<Point>
+				<coordinates>-100.407719883017,20.62461380192816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FO_PACIFICO-AMPLIACION PACIFICO</name>
+			<styleUrl>#msn_ylw-pushpin27</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4077385620532,20.62466629838765,0 -100.4072788183859,20.62477180239072,0 -100.4069331688546,20.62485062864871,0 -100.407027494429,20.62559124748129,0 -100.4060978000802,20.62566502789115,0 -100.4062374971717,20.62677664953739,0 -100.4063819348447,20.62776717503823,0 -100.406495736368,20.62844764243366,0 -100.4065704689824,20.62958972558628,0 -100.406473450991,20.63020219920772,0 -100.4063624939576,20.63054520701664,0 -100.4059927281991,20.63196168951667,0 -100.4056576382912,20.63304531992778,0 -100.4056390419443,20.63364863921865,0 -100.4058042311226,20.63433111676497,0 -100.4059275905707,20.63472200847774,0 -100.4060005149894,20.63525359780648,0 -100.4059592679159,20.63618584658132,0 -100.4057652324325,20.63888681743496,0 -100.4056178171376,20.64068954204299,0 -100.4055172918197,20.64177509959291,0 -100.4052048861603,20.64385882957877,0 -100.4048639541568,20.64582913251384,0 -100.4043999084422,20.64837478063619,0 -100.4038473929041,20.65133175716999,0 -100.4010458950801,20.65087026865169,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO-UNIVERSIDAD TECNOLOGICA DE QUERETARO</name>
+			<styleUrl>#m_ylw-pushpin09</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4009190601184,20.65170984540482,0 -100.4008170613971,20.65234925424386,0 -100.4007557794366,20.65260065382319,0 -100.4020353990595,20.65280262882431,0 -100.4030840528149,20.65299071917622,0 -100.4030219872991,20.65341853176126,0 -100.4026819293935,20.65540419264494,0 -100.4030871564029,20.65549594235923,0 -100.4037414096776,20.65527355661382,0 -100.404851321576,20.65507836910673,0 -100.4048233883179,20.65494829260687,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>UNIVERSIDAD TECNOLOGICA DE QUERETARO</name>
+			<LookAt>
+				<longitude>-100.404704761387</longitude>
+				<latitude>20.65441781356072</latitude>
+				<altitude>0</altitude>
+				<heading>-1.459451790220746</heading>
+				<tilt>9.289038733074742</tilt>
+				<range>348.7959108676143</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION0</styleUrl>
+			<Point>
+				<coordinates>-100.4048199516327,20.65496369076651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FO_AMESA</name>
+			<styleUrl>#msn_ylw-pushpin16</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4148774860547,20.59551702513702,0 -100.4148621970457,20.59550744991615,0 -100.4148313508832,20.595472772537,0 -100.4148213439987,20.59546460220141,0 -100.4146937202048,20.59534493588813,0 -100.4146825495017,20.5953349371492,0 -100.4145092377435,20.5952933415673,0 -100.4141559429339,20.59532344900083,0 -100.4138294963744,20.59534028734351,0 -100.4138145395299,20.59532654213096,0 -100.4132087004244,20.59459208113942,0 -100.4130868186764,20.59446235704174,0 -100.4129801500866,20.59451649313798,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>AMESA</name>
+			<LookAt>
+				<longitude>-100.4141200403768</longitude>
+				<latitude>20.59508794536714</latitude>
+				<altitude>0</altitude>
+				<heading>-1.462772325894532</heading>
+				<tilt>9.295857921482869</tilt>
+				<range>332.6108909542857</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION00</styleUrl>
+			<Point>
+				<coordinates>-100.4129834399664,20.5945196338065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FO_IENTC</name>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4150252565477,20.61732958955942,0 -100.4150480547795,20.61761039671092,0 -100.4150585540507,20.61779916187995,0 -100.4150564902145,20.6179514457349,0 -100.4150782383198,20.61825073082004,0 -100.4150711750611,20.61839470945073,0 -100.4151644703706,20.61844400554784,0 -100.4152381264799,20.61843427508942,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>IENTC S DE RL</name>
+			<LookAt>
+				<longitude>-100.4146087425763</longitude>
+				<latitude>20.61752978560466</latitude>
+				<altitude>0</altitude>
+				<heading>2.252643422903524</heading>
+				<tilt>21.3238072686524</tilt>
+				<range>323.8506274237438</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION2</styleUrl>
+			<Point>
+				<coordinates>-100.415235476049,20.61842471759887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ERICSSON TELECOM</name>
+			<LookAt>
+				<longitude>-100.4242074781819</longitude>
+				<latitude>20.61691504081787</latitude>
+				<altitude>0</altitude>
+				<heading>-0.000188763260940307</heading>
+				<tilt>17.63179965854566</tilt>
+				<range>327.5826259253394</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#ms_ylw-pushpin21</styleUrl>
+			<Point>
+				<coordinates>-100.4238292365912,20.61664465983865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FO-ERICSSON TELECOM</name>
+			<styleUrl>#m_ylw-pushpin09</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4221029609894,20.61901547928047,0 -100.4251751810961,20.61833299448879,0 -100.4251187162357,20.61816357504099,0 -100.4247190892672,20.61660438356708,0 -100.424168335692,20.61659432976451,0 -100.4238313840335,20.6166790526282,0 -100.4238262681907,20.61666203296867,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>UNIVERSIDAD AUTONOMA DE QUERETARO</name>
+			<LookAt>
+				<longitude>-100.4113090163389</longitude>
+				<latitude>20.59258329042038</latitude>
+				<altitude>0</altitude>
+				<heading>0.002152190037206182</heading>
+				<tilt>0</tilt>
+				<range>424.2582855196979</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION0</styleUrl>
+			<Point>
+				<coordinates>-100.4107805663759,20.59180746617738,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FO-UNIVERSIDAD AUTONOMA DE QUERETARO</name>
+			<styleUrl>#m_ylw-pushpin09</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4130851295067,20.59446695468324,0 -100.4127924603644,20.59410204391923,0 -100.4127182134598,20.59413828895018,0 -100.4124747553938,20.59321944953574,0 -100.4121983700817,20.59225832001345,0 -100.4119765314281,20.59233738767791,0 -100.4118230455981,20.59232933171365,0 -100.4117557214401,20.59237022335821,0 -100.4113762663073,20.59201082348771,0 -100.4113042405403,20.59172042745272,0 -100.4112032218776,20.59174794578184,0 -100.4112224998666,20.59181130761602,0 -100.4107854018581,20.59180762612887,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>AVANTE INGENIEROS, S.A. DE C.V.</name>
+			<LookAt>
+				<longitude>-100.4107785310292</longitude>
+				<latitude>20.60770658784426</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003610496979171234</heading>
+				<tilt>25.63435347478307</tilt>
+				<range>475.1058878861398</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.4116680974121,20.60852452345935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FO_Avante Ingenieros, S.A. de C.V.</name>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4114595620457,20.60933739136881,0 -100.4115109930502,20.60929454261343,0 -100.4109553783183,20.60832049501802,0 -100.4111194206711,20.60834019336765,0 -100.4111577837845,20.60834959115572,0 -100.4112455831388,20.60850286200303,0 -100.4115117068046,20.60852960145412,0 -100.4115552808879,20.60849719124297,0 -100.4116146723101,20.60857076230448,0 -100.4116681581056,20.60854448046531,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_CONSORCIO HOGAR (QUERÉTARO)</name>
+			<styleUrl>#m_ylw-pushpin01</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4745872286848,20.64190582299539,0 -100.4762909687007,20.64401465545743,0 -100.4768768193592,20.64484269514068,0 -100.4774692398867,20.64557026873617,0 -100.4774930740951,20.64559260113931,0 -100.4780728776727,20.64642724206208,0 -100.4784276630367,20.64627790768415,0 -100.4786931859989,20.64666983318959,0 -100.4788621562661,20.64712640209575,0 -100.4791973038102,20.64732524090447,0 -100.4824561954551,20.64607613240891,0 -100.4882194965833,20.64382516249516,0 -100.4897856056057,20.64328322332332,0 -100.4898301766028,20.64337167851497,0 -100.4899571413719,20.64367842385014,0 -100.4900151463507,20.6436610515813,0 -100.4900361318647,20.64370231296864,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>CONSORCIO HOGAR (QUERÉTARO)</name>
+			<LookAt>
+				<longitude>-100.4900503548046</longitude>
+				<latitude>20.64393947221459</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003522635587211807</heading>
+				<tilt>36.42731351831541</tilt>
+				<range>128.8934385094923</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.4900352987378,20.64369807898595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALESTRA</name>
+			<LookAt>
+				<longitude>-100.2813174963831</longitude>
+				<latitude>20.56665853785583</latitude>
+				<altitude>0</altitude>
+				<heading>-1.664841523477119</heading>
+				<tilt>17.07341955348163</tilt>
+				<range>340.3498640527159</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_DERIVACION</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.282069504217,20.56699819774189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FO_INMOBILLIARIA PARANCO</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.3726985574603,20.58507778828835,0 -100.3730229076897,20.58501951096346,0 -100.3740951036666,20.58481571586395,0 -100.3744854518185,20.58475110630615,0 -100.3746625177396,20.58473435286424,0 -100.3746445440722,20.58457768508362,0 -100.3754862374324,20.58451005735934,0 -100.3764137471808,20.58442744296278,0 -100.3767873741149,20.58438945663465,0 -100.376849339547,20.58439113366184,0 -100.3769065410024,20.58506932863688,0 -100.3769538252864,20.58549945656269,0 -100.3770406688656,20.58653466268359,0 -100.3774025472085,20.58648203599823,0 -100.3790261741225,20.5861871158755,0 -100.3798271574976,20.5860993211329,0 -100.3801349223543,20.58607887384604,0 -100.3802476523323,20.58606948884565,0 -100.3804852279533,20.58604707183467,0 -100.3806763173231,20.58603206450525,0 -100.3806678675852,20.58598163112024,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>INMOBILIARIA PARANCO</name>
+			<LookAt>
+				<longitude>-100.380746854338</longitude>
+				<latitude>20.58619754249724</latitude>
+				<altitude>0</altitude>
+				<heading>-1.928157947637143</heading>
+				<tilt>29.67231644872656</tilt>
+				<range>334.8061225341038</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.3806655679771,20.58596334203232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AXA EMPRESALIA</name>
+			<LookAt>
+				<longitude>-100.4241333454499</longitude>
+				<latitude>20.61652344199791</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0005061249844177445</heading>
+				<tilt>12.44075455469571</tilt>
+				<range>289.9492812608816</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.4242646157734,20.61624293440825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AXA EMPRESALIA</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.4220758961885,20.61901445769669,0 -100.4251757185001,20.61834943063425,0 -100.4246869358435,20.61648884729723,0 -100.424445031536,20.61654493510856,0 -100.4243617879133,20.61622439442401,0 -100.4242563018009,20.61624819125918,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>GLASSER S.A. DE C.V.</name>
+			<Camera>
+				<longitude>-100.2834867842601</longitude>
+				<latitude>20.56778098554738</latitude>
+				<altitude>1319.120669306423</altitude>
+				<heading>81.42229670383041</heading>
+				<tilt>0.03249376998671736</tilt>
+				<roll>89.30898016029697</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.2865076821407,20.5687808564061,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>EL MARQUES</name>
+		<Folder>
+			<name>KIO NETWORKS - QUERÉTARO</name>
+			<Placemark>
+				<name>FO_KIO NETWORKS QUERÉTARO</name>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-100.3720376334208,20.59672656142732,0 -100.3713967287667,20.59599613276307,0 -100.3706200910961,20.59523932234385,0 -100.3698842801519,20.59446261478836,0 -100.3694880728512,20.5941182970294,0 -100.3687114249163,20.59336070363063,0 -100.3681471866902,20.59276879257929,0 -100.3664626089865,20.59388083647427,0 -100.3662622958575,20.59376366007165,0 -100.3661540840859,20.59340025330397,0 -100.367041623186,20.59279208212152,0 -100.3658707083919,20.59168539478441,0 -100.3651949915642,20.59099559351451,0 -100.3647352867124,20.59053678911088,0 -100.3640985736379,20.5901683366803,0 -100.3637571469376,20.59005864973929,0 -100.3631681856248,20.58996334004711,0 -100.3627147787328,20.58999036352284,0 -100.3623102338863,20.59008405531752,0 -100.3618763451355,20.59014400898621,0 -100.3615736876752,20.58936125266378,0 -100.3613475181869,20.58940798681077,0 -100.3607642077653,20.58958153367144,0 -100.3601125326763,20.58973239477063,0 -100.3592730156107,20.58966510338201,0 -100.3586120087962,20.58941297670692,0 -100.3581954853248,20.58920360533848,0 -100.3575336138784,20.58885344788208,0 -100.3568777766211,20.58848644114983,0 -100.3560034447172,20.58825205192543,0 -100.3556289120982,20.58827714969599,0 -100.3551145121879,20.58839568650195,0 -100.3542288264696,20.58864567049654,0 -100.3523916653859,20.58919939467998,0 -100.3522202037767,20.58940878000028,0 -100.3519591185488,20.5895854178833,0 -100.3516510238576,20.58961689203443,0 -100.3513263944087,20.58947196033275,0 -100.3512116406044,20.58933188772802,0 -100.350899084894,20.58931032415728,0 -100.3507593962834,20.58930414347639,0 -100.3506632995236,20.58942499709796,0 -100.3505059202673,20.58937649345922,0 -100.3505292722126,20.58925294498993,0 -100.3504347442101,20.58910875526879,0 -100.3503045838589,20.58903211260711,0 -100.3497461068992,20.58877899205558,0 -100.3491959612204,20.58850794934374,0 -100.3486326176431,20.5883713014183,0 -100.3478752627881,20.58840318020607,0 -100.3467635670415,20.58858099725966,0 -100.3458369419516,20.58873308253822,0 -100.3447203530503,20.58892829393281,0 -100.3436239594071,20.58910057556116,0 -100.3426441831831,20.58915118705876,0 -100.3422239265796,20.58915870852753,0 -100.3417301308133,20.58901266085728,0 -100.341266487605,20.58879503636175,0 -100.340997799786,20.58858522017178,0 -100.3408183523816,20.58828996542516,0 -100.3406534123842,20.58800940794185,0 -100.3409199250436,20.58745071252428,0 -100.3409580585426,20.58714516816179,0 -100.3412667515625,20.58635526745907,0 -100.3415339960229,20.58581876997068,0 -100.3420855397855,20.58468866526226,0 -100.3424780771372,20.58364378083447,0 -100.3427566330265,20.58282367234308,0 -100.342856504803,20.58215817008512,0 -100.3426790125019,20.58147107248363,0 -100.3419735157884,20.58064405079876,0 -100.341658283794,20.58052825220732,0 -100.3399927484024,20.5787248890948,0 -100.3393452806662,20.57836273561019,0 -100.3383200421924,20.57808935164616,0 -100.3374215454872,20.57770896760489,0 -100.3362355523925,20.57647984069046,0 -100.3362723086619,20.57635530355629,0 -100.3359157712477,20.5760193508911,0 -100.3356050824594,20.57584162784129,0 -100.3354694221956,20.57593416916669,0 -100.3332781662462,20.57593332379393,0 -100.332931814687,20.57608772915543,0 -100.3327152093826,20.57658091427255,0 -100.3322370841839,20.57638527409492,0 -100.3314530473471,20.57633003392468,0 -100.3295619425529,20.57598157372632,0 -100.3278402508984,20.57556653550644,0 -100.3260043311796,20.57516940908012,0 -100.3260354147803,20.57474062446205,0 -100.326044315193,20.57443163833051,0 -100.3253683481779,20.57421361337711,0 -100.3237355878953,20.57368069266114,0 -100.3220609811075,20.57302668640746,0 -100.3206950597798,20.57265888888826,0 -100.3193050665298,20.57231237545297,0 -100.3182026449582,20.57214202538046,0 -100.3177479273267,20.57207535081032,0 -100.3173101908033,20.57191923077752,0 -100.3167855452267,20.57174852687805,0 -100.3163299452475,20.57156142209702,0 -100.3155129427844,20.57137075863058,0 -100.3148839629883,20.57121010361835,0 -100.3144430301579,20.57114028376871,0 -100.3138077549915,20.5709640519078,0 -100.3127449325238,20.57069948463987,0 -100.3107082319053,20.57029735439241,0 -100.3097278350938,20.57004565230511,0 -100.3082275793427,20.56995370617155,0 -100.3061015746283,20.56995118320663,0 -100.3036489091359,20.56992908361583,0 -100.3009812381772,20.56991485043711,0 -100.2987290652974,20.57022487855485,0 -100.2959002514272,20.57089560928167,0 -100.2932999034872,20.57142718898659,0 -100.2930685786262,20.57136780366538,0 -100.2912968092667,20.57137778023231,0 -100.290506670385,20.57140132518456,0 -100.2876916834396,20.57146161430406,0 -100.286647130815,20.57146310686434,0 -100.2865233905313,20.57157095743756,0 -100.2855682578683,20.57160780226802,0 -100.2838265138116,20.57163492500555,0 -100.2822404459671,20.5716588212843,0 -100.2805529324044,20.57166486962705,0 -100.2775158275445,20.57169252505039,0 -100.2749720424829,20.57175219855065,0 -100.2702426664345,20.57188909985503,0 -100.2664735824278,20.57191368801183,0 -100.2640812577444,20.57194452965927,0 -100.2618971644547,20.57195873373069,0 -100.2605642784982,20.5720798695348,0 -100.2600234309653,20.57215873079963,0 -100.2595837490149,20.57212144339079,0 -100.2595974752846,20.57161474209761,0 -100.2590964016472,20.57162333925548,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>POP ALESTRA - KIO</name>
+			<Placemark>
+				<name>FO_POP ALESTRA - EL MARQUES</name>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-100.2820726700502,20.5669926393216,0 -100.2818390916245,20.56704390829678,0 -100.2818207147845,20.56697726102192,0 -100.2815432465687,20.56704193552526,0 -100.2814330518976,20.56658398471543,0 -100.2813719644483,20.56669055580472,0 -100.281149086412,20.56676717818584,0 -100.2809637400055,20.56681517465664,0 -100.2807784349643,20.56686076005401,0 -100.2805719658961,20.5669252107159,0 -100.2803844533202,20.566965920275,0 -100.2801787107423,20.56701430785896,0 -100.2799569075569,20.56707488578427,0 -100.2796514571201,20.56712230332874,0 -100.2793536062376,20.56715142517857,0 -100.2789953423118,20.56716636509394,0 -100.2785312810533,20.56717017203322,0 -100.278150750882,20.56719352286529,0 -100.2778104997429,20.56723593369851,0 -100.2773416964462,20.56729052525549,0 -100.2771006096036,20.56738188872339,0 -100.2768181569399,20.56747333835821,0 -100.2763916118459,20.56756574938579,0 -100.2759335021232,20.5676969149985,0 -100.2754319849177,20.56783412301009,0 -100.2750394671319,20.56791392234536,0 -100.2746213970383,20.56789642244115,0 -100.2741009282459,20.5678294065242,0 -100.2734515183524,20.56769227588496,0 -100.2725676542011,20.56752957410034,0 -100.2720511482886,20.56744538565382,0 -100.2716427244353,20.56741603946851,0 -100.2713891179697,20.5673970617284,0 -100.2711289758124,20.56733863932866,0 -100.2701840264477,20.56689785853619,0 -100.2690331942557,20.56631435104117,0 -100.268685949468,20.56630085837046,0 -100.2688533706351,20.56580587072696,0 -100.2689953365415,20.56522202711614,0 -100.2690294539349,20.56470505810833,0 -100.2689451983208,20.56414090771663,0 -100.2689374228006,20.56368217491265,0 -100.2690086188147,20.56327985997502,0 -100.2693416156315,20.56325022732328,0 -100.2698211866734,20.56325468979597,0 -100.2701824114548,20.56326309030386,0 -100.2709973203471,20.56324621972834,0 -100.2714866470121,20.56319635824395,0 -100.2720284282761,20.56321847439727,0 -100.2725441477094,20.56322326591527,0 -100.2728324215294,20.56322717004608,0 -100.2728351319616,20.5630642866035,0 -100.272461985661,20.56305830703321,0 -100.2723307609197,20.5629503088239,0 -100.2723452195958,20.56266561298077,0 -100.2723064786494,20.56211744476684,0 -100.2723143215853,20.56176789519464,0 -100.2723292752803,20.56165103006349,0 -100.2717126419138,20.56168146282006,0 -100.2712224286269,20.56166889404208,0 -100.2707530752267,20.56168633931937,0 -100.2702331637307,20.56167939812379,0 -100.2697375519663,20.56170951435881,0 -100.2687855291841,20.56170989312643,0 -100.2684552672803,20.56172205475009,0 -100.2680742522686,20.56172505714601,0 -100.2680708481384,20.5615371123554,0 -100.2679242302745,20.5615248515705,0 -100.267783940064,20.56144428824403,0 -100.267455468265,20.56145339152224,0 -100.2675014351938,20.56154640304929,0 -100.2676032236535,20.56243352850977,0 -100.2677515838858,20.56361231515873,0 -100.267774763884,20.56398976638997,0 -100.2678091510422,20.56444318095148,0 -100.2678223153156,20.56485869735849,0 -100.2677779517926,20.56519767871677,0 -100.267667849438,20.56552696291177,0 -100.2675126046211,20.56585979506661,0 -100.2672233780939,20.56627706168154,0 -100.2668123305615,20.56666120779786,0 -100.2662279401914,20.56703589838068,0 -100.265329859428,20.5674393859799,0 -100.2645776009184,20.56775476005579,0 -100.2638312464614,20.56813990279263,0 -100.263252290776,20.56837912483328,0 -100.2624800376484,20.56872020801379,0 -100.2618992608343,20.56898507287741,0 -100.2613687266843,20.56923287132181,0 -100.2608460912188,20.56955512403181,0 -100.2603428668531,20.57009133179681,0 -100.2598435170252,20.5705875182542,0 -100.2594754880799,20.57094743699187,0 -100.2593078365568,20.57113174849287,0 -100.2587763554145,20.57148415156139,0 -100.259088727499,20.57161243116081,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>EMPALME</name>
+				<LookAt>
+					<longitude>-100.2818558717532</longitude>
+					<latitude>20.56696099968143</latitude>
+					<altitude>0</altitude>
+					<heading>-7.811725746168936</heading>
+					<tilt>23.55024484833556</tilt>
+					<range>285.0659426281402</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_EMPALME-MAXCOM6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.2815469159893,20.56703475657183,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GLASSER S.A. DE C.V.</name>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-100.2815497439354,20.56704068402155,0 -100.2818187453592,20.56697770067454,0 -100.2818333389115,20.56704319317331,0 -100.2818862090517,20.56728761174166,0 -100.2819015488576,20.56796159283223,0 -100.2819187100018,20.56919823294948,0 -100.2819368510735,20.56960842807872,0 -100.2819399209764,20.57020427448635,0 -100.2819770264134,20.57008735689495,0 -100.2820758710828,20.57000008001142,0 -100.2824678164896,20.56982039551471,0 -100.2829641309602,20.56956269310852,0 -100.283064610073,20.56953349966388,0 -100.2831875904833,20.56951047463837,0 -100.2835101487857,20.5694992117779,0 -100.2838426753,20.56948766575941,0 -100.2844379710607,20.56948797888186,0 -100.2855810640712,20.5694578812327,0 -100.2867932228772,20.56940521209782,0 -100.2865348916201,20.56922798858013,0 -100.2865118699004,20.56878109431244,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>EMPALME</name>
+				<LookAt>
+					<longitude>-100.2598344480086</longitude>
+					<latitude>20.57093824706108</latitude>
+					<altitude>0</altitude>
+					<heading>-1.085519074137795e-005</heading>
+					<tilt>0</tilt>
+					<range>571.9213653097964</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_EMPALME-MAXCOM6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-100.2591000328611,20.57162316458233,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

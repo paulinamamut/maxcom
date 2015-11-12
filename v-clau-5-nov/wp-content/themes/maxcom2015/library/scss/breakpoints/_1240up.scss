@@ -1,0 +1,86 @@
+/******************************************************************
+Site Name: 
+Author: 
+
+Stylesheet: Super Large Monitor Stylesheet
+
+You can add some advanced styles here if you like. This kicks in
+on larger screens.
+
+******************************************************************/
+
+/*********************
+GENERAL
+*********************/
+.elements-container{
+	.element{
+		&.onimage{
+			.info-container{
+				h3{ padding: 10px 0;}
+			}
+		}
+
+		.info-container{
+		
+			p{ 
+				&.excerpt{ line-height: 2rem;} 
+			} 
+		}
+
+		.active-on-hover{
+
+			h4{font-size:3.214rem;  margin:0px;}
+			small{font-size: 1.429rem;}
+			ul{
+				li{
+					font-size:1.2rem;
+				}
+				&.single{
+					li{
+						font-size:1.2rem;
+					}
+				}
+			}
+
+
+		}
+
+
+		h3{
+			&.bigger{
+			font-size: 2.2em;
+			}
+
+		}
+
+	}
+	&.maxcom-for-business{
+		&.nospace{
+			.element{
+				.info-container{padding: 0rem 4rem;}
+			}
+		}
+	}
+
+
+}
+
+#content{
+	.inner-head{
+		.business4ulogo{
+			right: 20rem; 
+		}
+	}
+
+}
+.tarifas-container{
+	&.maxdiversion-container{
+
+		.row{
+			.tarifa{
+				line-height:140px;
+				h4{font-size: 30px; margin: 0;}
+				}
+			}
+		}
+	}

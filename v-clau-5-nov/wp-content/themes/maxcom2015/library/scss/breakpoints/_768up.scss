@@ -1,0 +1,326 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Tablet & Small Desktop Stylesheet
+
+Here's where you can start getting into the good stuff.
+This size will work on iPads, other tablets, and desktops.
+So you can start working with more styles, background images,
+and other resources. You'll also notice the grid starts to
+come into play. Have fun!
+
+******************************************************************/
+
+
+/*********************
+GENERAL STYLES
+*********************/
+
+body {
+	
+	&.page-id-20, &.page-id-83,  &.page-id-31, &.page-id-238{
+		.mapa-container{
+			.regiones-container{
+				position:absolute; max-width: 450px;
+			}
+		}
+
+	}
+}
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+.wrap {
+	width: 760px;
+}
+
+#content{
+	.parallax-window {
+	     min-height: 400px;
+	}
+
+	.inner-parallax-window{
+	}
+
+	.triangle{
+		h3{
+			font-size: 4rem;  padding: 1.4rem 4rem; text-align: right; 
+		}
+	}
+
+	.half{width:50%; display: inline-block; float: left; }
+	.single-container{
+		.s-content{
+			>p, li{
+				font-size: 1.714rem;
+			}
+		}
+	}
+	.single-container,.page-info-container{
+		padding:80px 90px 120px; 
+		.head{
+			h1{
+				font-size: 3.857rem;
+				span{ font-size: 3.857rem; }
+			}
+			a{  margin: 4rem auto;}
+		}
+
+		.s-content{
+
+			.heady{
+				color: $grey;  font-size: 2.429rem;
+				span{
+					color: $red;  font-size: 2.429rem; font-weight: 800;
+				}
+			}
+
+			ul{
+				list-style-type: disc; list-style-position: inside; padding:20px;
+					-webkit-column-count: 2; /* Chrome, Safari, Opera */
+				    -moz-column-count: 2; /* Firefox */
+				    column-count: 2;
+				li{
+
+				}
+			}
+		}
+	}
+
+	.mfb-head-info{
+		padding: 5rem;
+	}
+	.mfb-info-container{
+		>div{
+			padding: 5rem 5rem;
+		}
+	}
+}
+
+/*********************
+HEADER STYLES
+*********************/
+.header {
+	.nav{
+		.logo{ 
+			h1{ background-size:70% !important; }
+		}
+		
+	}
+}
+
+.elements-container{
+	&.elements-1{
+		.element{
+			width:100% !important;
+		}
+	}
+	.element{
+		float:left; width:33.33%;
+		.active-on-hover{
+			display:block;
+			.element{
+				padding: 2.857rem 5rem;
+			}
+		}
+	}
+	&.mfb-single{
+    	min-height: 400px;
+	}
+
+	&.to-hide-mobile-container{
+		.inactive{
+			display:block;
+		}
+	}
+	&.to-show-mobile-container{
+		display:none;
+	}
+}
+
+.home-maxcom-for-business{
+
+	.elements-container{
+		width: 100%; margin:0 auto;
+		.element{
+			width: 33.33%;
+
+			&.ec{
+				margin: 0 0.5%;
+			}
+		}
+
+		&.maxcom-for-business{
+			&.nospace{
+				width:100%;
+				.element{
+					width:33.33%;
+					margin:0 !important;
+					
+					.info-container{
+						min-height: 112px;
+						h3{
+							text-align: left; vertical-align: top; position: relative;
+							&:after{display:inline-block; position: absolute; top:-10px; right:0px;}
+						}
+					}
+				}
+			}
+		}
+	}
+	.parallax-window {
+		.mainText{
+			.text-phrase{
+				small{text-align: right; }
+			}
+		}
+
+	}
+
+}
+.sb-search {
+	h3{ a{color:$text-color; font-size:20px;}}
+	display: inline-block;
+    top: 10px;
+	position: absolute;
+	right: 0px;
+    width: 0%;
+    min-width: 30px;
+    height: 30px;
+    float: left;
+    overflow: hidden;
+    -webkit-transition: width 0.3s;
+    -moz-transition: width 0.3s;
+    transition: width 0.3s;
+    -webkit-backface-visibility: hidden;
+
+    &.toogle{
+    	width:180px;
+
+    	.sb-search-input{
+    		opacity:1;
+
+    	}
+    }
+	.sb-search-input {
+		position: absolute;
+		top: 0;
+		left: 0;
+		outline: none;
+		background: #fff;
+		width: 140px;
+		height: 22px;
+		margin: 4px 35px;
+		z-index: 10;
+		font-family: inherit;
+		font-size: 15px;
+		color: $text-color;
+		padding: 0px 12px 0px 12px;
+		opacity:0;
+		border-radius: 0 !important;
+		border: 1px solid $text-color;
+	}
+
+	input[type="search"].sb-search-input {
+		/*-webkit-appearance: none;
+		-webkit-border-radius: 0px;*/
+	}
+	.sb-icon-search,
+	.sb-search-submit  {
+		width: 30px;
+		height: 30px;
+		display: block;
+		position: absolute;
+		left: 0;
+		top: 0;
+		padding: 0;
+		margin: 0;
+		line-height: 60px;
+		text-align: center;
+		cursor: pointer;
+	}
+
+	.sb-search-submit {
+		background: #fff; /* IE needs this */
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"; /* IE 8 */
+	    filter: alpha(opacity=0); /* IE 5-7 */
+	    opacity: 0;
+		color: transparent;
+		border: none;
+		outline: none;
+		z-index: -1;
+	}
+
+	.sb-icon-search {
+		color: #fff;
+		z-index: 90;
+		font-size: 22px;
+		speak: none;
+		font-style: normal;
+		font-weight: normal;
+		font-variant: normal;
+		text-transform: none;
+		-webkit-font-smoothing: antialiased;
+	}
+
+	.sb-icon-search:before {
+		content: ""; width:100%; height:100%; display:block; background: url(#{$images_path}/sprite.png) -12px -430px no-repeat;
+	}
+}
+
+
+
+/*********************
+FOOTER STYLES
+*********************/
+
+/*
+you'll probably need to do quite a bit
+of overriding here if you styled them for
+mobile. Make sure to double check these!
+*/
+.footer-links {
+	ul {
+		li {
+			a {
+				&:hover {}
+			}
+			/*
+			be careful with the depth of your menus.
+			it's very rare to have multi-depth menus in
+			the footer.
+			*/
+			ul {}
+		}
+	}
+} /* end .footer-links */
+.footer{
+	.wrap{overflow: hidden;}
+	#inner-footer{
+		>div{
+			ul{
+				overflow:hidden;
+				 li{ 
+				 	display:inline-block; float:left;
+				 	&.copyright{float:right; }
+				}
+			}
+
+			.redes-container{
+				.redes-sociales
+				 {
+				 	li{
+
+				 		a{
+				 			font-size:1rem;
+				 		}
+				 	}
+
+				 }
+			}
+		}
+	}
+}

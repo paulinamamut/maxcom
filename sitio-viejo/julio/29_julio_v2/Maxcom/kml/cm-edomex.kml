@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ESTADO DE MEXICO.kml</name>
+	<open>1</open>
+	<StyleMap id="msn_M1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_M0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_M2">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_M0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_M2">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_M1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>ESTADO DE MEXICO</name>
+		<open>1</open>
+		<Folder>
+			<name>CASAS MAXCOM</name>
+			<Placemark>
+				<name>CM IMPULSORA (FUENTES DE ARAGON)</name>
+				<description>Hda. Torrecillas No. 100, Col. Impulsora Popular Av&iacute;cola, Nezahualcoyotl</description>
+				<LookAt>
+					<longitude>-99.04821272944426</longitude>
+					<latitude>19.48167504346677</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002530770520502404</heading>
+					<tilt>0</tilt>
+					<range>102.4955382837</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M2</styleUrl>
+				<Point>
+					<coordinates>-99.04808108075093,19.4815306099674,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM PANTITLAN</name>
+				<description>Av. Vicente Riva Palacio No. 72 72 Mz 5 Lt 36, Col. Ju&aacute;rez Pantitl&aacute;n, Nezahualcoyotl</description>
+				<LookAt>
+					<longitude>-99.04902713646258</longitude>
+					<latitude>19.39998163096464</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002743919907438783</heading>
+					<tilt>0</tilt>
+					<range>83.67237813242103</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M2</styleUrl>
+				<Point>
+					<coordinates>-99.0489452060619,19.39986372173184,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM EL SOL</name>
+				<description>Calle 17 No. 149, Col. Del Sol, Nezahualcoyotl</description>
+				<LookAt>
+					<longitude>-99.04021689173092</longitude>
+					<latitude>19.43476153430877</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001590173675797897</heading>
+					<tilt>0</tilt>
+					<range>219.0813801356021</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M2</styleUrl>
+				<Point>
+					<coordinates>-99.04058401208744,19.43535202760693,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM LA PERLA</name>
+				<description>Pataguas No. 62, Col. La Perla, Nezahualcoyotl</description>
+				<LookAt>
+					<longitude>-98.99852085689201</longitude>
+					<latitude>19.38710074342185</latitude>
+					<altitude>0</altitude>
+					<heading>0.0140340765731639</heading>
+					<tilt>0</tilt>
+					<range>321.7265721449934</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M2</styleUrl>
+				<Point>
+					<coordinates>-98.99835061539378,19.38678817709774,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM LAS AGUILAS</name>
+				<description>Av. Pantitlan No. 718-A, Col: La Perla, Nezahualcoyotl</description>
+				<LookAt>
+					<longitude>-98.98668346907571</longitude>
+					<latitude>19.38008662235885</latitude>
+					<altitude>0</altitude>
+					<heading>24.85690413793117</heading>
+					<tilt>23.21699272483764</tilt>
+					<range>827.3333570053755</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M2</styleUrl>
+				<Point>
+					<coordinates>-98.98573493762825,19.37944726928498,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM CHALCO</name>
+				<description>Av. Emiliano Zapata No. 1066, Lt. 8, Col. San Isidro.</description>
+				<LookAt>
+					<longitude>-98.93084257105663</longitude>
+					<latitude>19.29124322317001</latitude>
+					<altitude>0</altitude>
+					<heading>90.89002310865399</heading>
+					<tilt>45.26038481343782</tilt>
+					<range>101.61619327975</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M1</styleUrl>
+				<Point>
+					<coordinates>-98.93080746904356,19.29114893443887,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM SAN ISIDRO</name>
+				<description>Av. Solidaridad  No. 56, Col. Uni&oacute;n de Guadalupe, Chalco</description>
+				<LookAt>
+					<longitude>-98.91554802966151</longitude>
+					<latitude>19.28681234126132</latitude>
+					<altitude>0</altitude>
+					<heading>0.04150417767392513</heading>
+					<tilt>0</tilt>
+					<range>142.3737700538514</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M1</styleUrl>
+				<Point>
+					<coordinates>-98.91534065749462,19.28676739709061,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM VILLA DE LAS FLORES (TPV)</name>
+				<description>Blvd. Coacalco No. 351, Col. Villa de las Flores, Coacalco</description>
+				<LookAt>
+					<longitude>-99.09628029603762</longitude>
+					<latitude>19.65011560833732</latitude>
+					<altitude>0</altitude>
+					<heading>95.87575121675081</heading>
+					<tilt>44.99996270617293</tilt>
+					<range>104.1878247674808</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-99.09624183221374,19.65014592356058,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM LOMAS DE LA HACIENDA (TPV)</name>
+				<description>Blvd. Cuautitl&aacute;n Izcalli No. 3, Col. Hacienda de la Luz, Atizap&aacute;n de Zaragoza</description>
+				<LookAt>
+					<longitude>-99.22566971763132</longitude>
+					<latitude>19.60189080167352</latitude>
+					<altitude>0</altitude>
+					<heading>-0.06182864576418282</heading>
+					<tilt>0</tilt>
+					<range>94.16091900456459</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-99.2256279929004,19.60187796120679,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM METROPOLITANA</name>
+				<description>Av. Adolfo L&oacute;pez Mateos No. 104-D,  Col. Metropolitana 1ª Secc., Nezahualcoyotl</description>
+				<LookAt>
+					<longitude>-99.03167455449199</longitude>
+					<latitude>19.39548837867321</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0002886067741651866</heading>
+					<tilt>0</tilt>
+					<range>99.4768864347034</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-99.03174733963594,19.39546118835287,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM MUZQUIZ</name>
+				<description>Av Chabacano No.3, Col. Solidaridad 90, Ecatepec</description>
+				<LookAt>
+					<longitude>-99.03070625980254</longitude>
+					<latitude>19.49762310936339</latitude>
+					<altitude>0</altitude>
+					<heading>-2.984138537241741e-05</heading>
+					<tilt>0</tilt>
+					<range>119.6770613842805</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-99.03076785446454,19.4976738117774,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM JARDINES DE MORELOS</name>
+				<description>Blvd. Jardines de Morelos No. 137, Col. Jardines de Morelos, Ecatepec</description>
+				<LookAt>
+					<longitude>-99.00792570407134</longitude>
+					<latitude>19.59752598086363</latitude>
+					<altitude>0</altitude>
+					<heading>-7.259086840832478e-05</heading>
+					<tilt>0</tilt>
+					<range>127.5420760531285</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-99.00781561534757,19.59751203656033,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM CD AZTECA</name>
+				<description>Blvd. De los Aztecas No. 11, Col. Cd. Azteca 1a Secc., Ecatepec</description>
+				<LookAt>
+					<longitude>-99.03549935668227</longitude>
+					<latitude>19.54133398955116</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002476987827653291</heading>
+					<tilt>0</tilt>
+					<range>221.8889526213778</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-99.03526928914857,19.54142193952471,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM VALLE CEYLAN</name>
+				<description>Av. Gran Piramide No. 119, Col. San Bartolo Tenayuca, Tlalnepantla</description>
+				<LookAt>
+					<longitude>-99.16932890841814</longitude>
+					<latitude>19.53264515467749</latitude>
+					<altitude>0</altitude>
+					<heading>4.889700418003699</heading>
+					<tilt>28.08533859198218</tilt>
+					<range>328.7482634047859</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M0</styleUrl>
+				<Point>
+					<coordinates>-99.16927903246828,19.53241662992222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM VICENTE VILLADA</name>
+				<description>San Angel No. 290, Col. Vicente Villada, Nezahualcoyotl</description>
+				<LookAt>
+					<longitude>-99.01394656064443</longitude>
+					<latitude>19.39287386471192</latitude>
+					<altitude>0</altitude>
+					<heading>-57.471011272006</heading>
+					<tilt>23.0942317758065</tilt>
+					<range>285.3228491977013</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M0</styleUrl>
+				<Point>
+					<coordinates>-99.01406505337368,19.39272342415504,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM EVOLUCION</name>
+				<description>Chimalhuacan No. 366 Mz. 20-A Lt. 25, Col. Ampliaci&oacute;n Evoluci&oacute;n, Nezahualcoyotl</description>
+				<LookAt>
+					<longitude>-99.01355045745102</longitude>
+					<latitude>19.4049564275413</latitude>
+					<altitude>0</altitude>
+					<heading>9.834762762790103</heading>
+					<tilt>11.27912003928717</tilt>
+					<range>769.9103716047836</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<coordinates>-99.01394103718403,19.40551972180565,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

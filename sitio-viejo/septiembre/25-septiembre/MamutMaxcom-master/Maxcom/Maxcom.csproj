@@ -1,0 +1,612 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AB7D15D1-F9F4-4D54-A088-0FAE033B0F8F}</ProjectGuid>
+    <ProjectTypeGuids>{E53F8FEA-EAE0-44A6-8774-FFD645390401};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Maxcom</RootNamespace>
+    <AssemblyName>Maxcom</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Recaptcha">
+      <HintPath>..\Recaptcha.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Configuration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Areas\AccesoClientes\AccesoClientesAreaRegistration.cs" />
+    <Compile Include="Areas\AccesoClientes\Controllers\AudioConferenciaController.cs" />
+    <Compile Include="Areas\AccesoClientes\Controllers\DetalleLlamadasController.cs" />
+    <Compile Include="Areas\AccesoClientes\Controllers\MailController.cs" />
+    <Compile Include="Areas\AccesoClientes\Controllers\MiCuentaController.cs" />
+    <Compile Include="Areas\AtencionAClientes\AtencionAClientesAreaRegistration.cs" />
+    <Compile Include="Areas\AtencionAClientes\Controllers\EnvianosUnMensajeController.cs" />
+    <Compile Include="Areas\AtencionAClientes\Controllers\LocalizadorController.cs" />
+    <Compile Include="Areas\AtencionAClientes\Controllers\PortabilidadController.cs" />
+    <Compile Include="Areas\AtencionAClientes\Controllers\TutorialesYGuiasController.cs" />
+    <Compile Include="Controllers\AccesoClientesController.cs" />
+    <Compile Include="Controllers\AtencionAClientesController.cs" />
+    <Compile Include="Controllers\AvisoDePrivacidadController.cs" />
+    <Compile Include="Controllers\EnTuEmpresaController.cs" />
+    <Compile Include="Controllers\EnTuHogarController.cs" />
+    <Compile Include="Controllers\GraciasController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\SuertudoController.cs" />
+    <Compile Include="Controllers\SitemapController.cs" />
+    <Compile Include="Controllers\SobreMaxcomController.cs" />
+    <Compile Include="Controllers\StaticContentController.cs" />
+    <Compile Include="Controllers\TerminosYCondicionesController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\HyphenatedRouteHandler.cs" />
+    <Compile Include="Helpers\MailSmtp.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Areas\AccesoClientes\Views\AudioConferencia\Index.aspx" />
+    <Content Include="Areas\AccesoClientes\Views\DetalleLlamadas\Index.aspx" />
+    <Content Include="Areas\AccesoClientes\Views\Mail\Index.aspx" />
+    <Content Include="Areas\AccesoClientes\Views\MiCuenta\Index.aspx" />
+    <Content Include="Areas\AccesoClientes\Views\MiCuenta\RecuperaContrasena.aspx" />
+    <Content Include="Areas\AccesoClientes\Views\MiCuenta\Registrate.aspx" />
+    <Content Include="Areas\AtencionAClientes\Views\EnvianosUnMensaje\Gracias.aspx" />
+    <Content Include="Areas\AtencionAClientes\Views\EnvianosUnMensaje\Index.aspx" />
+    <Content Include="Areas\AtencionAClientes\Views\EnvianosUnMensaje\QuieroSerCliente.aspx" />
+    <Content Include="Areas\AtencionAClientes\Views\EnvianosUnMensaje\YaSoyCliente.aspx" />
+    <Content Include="Areas\AtencionAClientes\Views\Localizador\Index.aspx" />
+    <Content Include="Areas\AtencionAClientes\Views\Portabilidad\Index.aspx" />
+    <Content Include="Areas\AtencionAClientes\Views\TutorialesYGuias\Index.aspx" />
+    <Content Include="css\lightbox.css" />
+    <Content Include="css\styles.css" />
+    <Content Include="Global.asax" />
+    <Content Include="img\about.png" />
+    <Content Include="img\added.png" />
+    <Content Include="img\bcg.png" />
+    <Content Include="img\btn-add.png" />
+    <Content Include="img\btn-add_d.png" />
+    <Content Include="img\btn-add_h.png" />
+    <Content Include="img\btn-h.png" />
+    <Content Include="img\btn-porta-h.png" />
+    <Content Include="img\btn-porta.png" />
+    <Content Include="img\btn-sombra-h.png" />
+    <Content Include="img\btn-sombra_bg-h.png" />
+    <Content Include="img\btn-sombra_bg.png" />
+    <Content Include="img\btn-sombra_l-h.png" />
+    <Content Include="img\btn-sombra_l.png" />
+    <Content Include="img\btn-sombra_r-h.png" />
+    <Content Include="img\btn-sombra_r.png" />
+    <Content Include="img\btn.png" />
+    <Content Include="img\btn_bg-h.png" />
+    <Content Include="img\btn_bg.png" />
+    <Content Include="img\btn_dl_l.png" />
+    <Content Include="img\btn_dl_r-h.png" />
+    <Content Include="img\btn_dl_r.png" />
+    <Content Include="img\btn_geo-h.png" />
+    <Content Include="img\btn_geo.png" />
+    <Content Include="img\btn_l-h.png" />
+    <Content Include="img\btn_l.png" />
+    <Content Include="img\btn_r-h.png" />
+    <Content Include="img\btn_r.png" />
+    <Content Include="img\btn_wide-add-h.png" />
+    <Content Include="img\btn_wide-add.png" />
+    <Content Include="img\btn_wide-add_d.png" />
+    <Content Include="img\btn_wide_bg-h.png" />
+    <Content Include="img\btn_wide_bg.png" />
+    <Content Include="img\btn_wide_l-h.png" />
+    <Content Include="img\btn_wide_l.png" />
+    <Content Include="img\btn_wide_r-h.png" />
+    <Content Include="img\btn_wide_r.png" />
+    <Content Include="img\card.png" />
+    <Content Include="img\cerrar.png" />
+    <Content Include="img\checked-alt.png" />
+    <Content Include="img\checked.png" />
+    <Content Include="img\clientes.png" />
+    <Content Include="img\clientes_h.png" />
+    <Content Include="img\config-arrow.png" />
+    <Content Include="img\config-pleca.png" />
+    <Content Include="img\contacto.png" />
+    <Content Include="img\contenido\1mb.png" />
+    <Content Include="img\contenido\2mb.png" />
+    <Content Include="img\contenido\3mb.png" />
+    <Content Include="img\contenido\4-play.png" />
+    <Content Include="img\contenido\4mb.png" />
+    <Content Include="img\contenido\8mb.png" />
+    <Content Include="img\contenido\about-empresa.png" />
+    <Content Include="img\contenido\about-hogar.png" />
+    <Content Include="img\contenido\about-inversionistas.png" />
+    <Content Include="img\contenido\acceso-clientes.png" />
+    <Content Include="img\contenido\acceso-icon.png" />
+    <Content Include="img\contenido\am517.png" />
+    <Content Include="img\contenido\am66.png" />
+    <Content Include="img\contenido\biz-grande.png" />
+    <Content Include="img\contenido\biz-mediana.png" />
+    <Content Include="img\contenido\biz-pyme.png" />
+    <Content Include="img\contenido\bloques-carta.png" />
+    <Content Include="img\contenido\call-center.png" />
+    <Content Include="img\contenido\canales\22.png" />
+    <Content Include="img\contenido\canales\52-mx.png" />
+    <Content Include="img\contenido\canales\a-and-e.png" />
+    <Content Include="img\contenido\canales\animal-planet.png" />
+    <Content Include="img\contenido\canales\axn.png" />
+    <Content Include="img\contenido\canales\baby-tv.png" />
+    <Content Include="img\contenido\canales\bandamax.png" />
+    <Content Include="img\contenido\canales\boomerang.png" />
+    <Content Include="img\contenido\canales\bw\22.png" />
+    <Content Include="img\contenido\canales\bw\52-mx.png" />
+    <Content Include="img\contenido\canales\bw\a-and-e.png" />
+    <Content Include="img\contenido\canales\bw\animal-planet.png" />
+    <Content Include="img\contenido\canales\bw\axn.png" />
+    <Content Include="img\contenido\canales\bw\baby-tv.png" />
+    <Content Include="img\contenido\canales\bw\bandamax.png" />
+    <Content Include="img\contenido\canales\bw\boomerang.png" />
+    <Content Include="img\contenido\canales\bw\cadena-tres.png" />
+    <Content Include="img\contenido\canales\bw\canal-cinco.png" />
+    <Content Include="img\contenido\canales\bw\canal-congreso.png" />
+    <Content Include="img\contenido\canales\bw\canal-estrellas.png" />
+    <Content Include="img\contenido\canales\bw\canal-estrellas2.png" />
+    <Content Include="img\contenido\canales\bw\cartoon-network.png" />
+    <Content Include="img\contenido\canales\bw\cbeebies.png" />
+    <Content Include="img\contenido\canales\bw\cine-canal.png" />
+    <Content Include="img\contenido\canales\bw\cine-latino.png" />
+    <Content Include="img\contenido\canales\bw\cinemax.png" />
+    <Content Include="img\contenido\canales\bw\cnn.png" />
+    <Content Include="img\contenido\canales\bw\cuarenta.png" />
+    <Content Include="img\contenido\canales\bw\de-pelicula.png" />
+    <Content Include="img\contenido\canales\bw\DHE.png" />
+    <Content Include="img\contenido\canales\bw\discovery-channel.png" />
+    <Content Include="img\contenido\canales\bw\discovery-civilization.png" />
+    <Content Include="img\contenido\canales\bw\discovery-kids.png" />
+    <Content Include="img\contenido\canales\bw\discovery-science.png" />
+    <Content Include="img\contenido\canales\bw\discovery-turbo.png" />
+    <Content Include="img\contenido\canales\bw\discovery.png" />
+    <Content Include="img\contenido\canales\bw\disney-junior.png" />
+    <Content Include="img\contenido\canales\bw\disney-xd.png" />
+    <Content Include="img\contenido\canales\bw\disney.png" />
+    <Content Include="img\contenido\canales\bw\distrito-comedia.png" />
+    <Content Include="img\contenido\canales\bw\e.png" />
+    <Content Include="img\contenido\canales\bw\edge.png" />
+    <Content Include="img\contenido\canales\bw\enlace.png" />
+    <Content Include="img\contenido\canales\bw\espn.png" />
+    <Content Include="img\contenido\canales\bw\espn2.png" />
+    <Content Include="img\contenido\canales\bw\espn3.png" />
+    <Content Include="img\contenido\canales\bw\fashion-one.png" />
+    <Content Include="img\contenido\canales\bw\film-zone.png" />
+    <Content Include="img\contenido\canales\bw\fox-life.png" />
+    <Content Include="img\contenido\canales\bw\fox-news.png" />
+    <Content Include="img\contenido\canales\bw\fox-sports.png" />
+    <Content Include="img\contenido\canales\bw\fox-sports2.png" />
+    <Content Include="img\contenido\canales\bw\fox-sports3.png" />
+    <Content Include="img\contenido\canales\bw\fox.png" />
+    <Content Include="img\contenido\canales\bw\fx.png" />
+    <Content Include="img\contenido\canales\bw\gala-tv.png" />
+    <Content Include="img\contenido\canales\bw\glitz.png" />
+    <Content Include="img\contenido\canales\bw\golden.png" />
+    <Content Include="img\contenido\canales\bw\hbo-family.png" />
+    <Content Include="img\contenido\canales\bw\hbo-plus-este.png" />
+    <Content Include="img\contenido\canales\bw\hbo-plus-oeste.png" />
+    <Content Include="img\contenido\canales\bw\hbo-signature.png" />
+    <Content Include="img\contenido\canales\bw\hbo.png" />
+    <Content Include="img\contenido\canales\bw\hbo2.png" />
+    <Content Include="img\contenido\canales\bw\history-channel.png" />
+    <Content Include="img\contenido\canales\bw\history-channel2.png" />
+    <Content Include="img\contenido\canales\bw\home-health.png" />
+    <Content Include="img\contenido\canales\bw\htv.png" />
+    <Content Include="img\contenido\canales\bw\id.png" />
+    <Content Include="img\contenido\canales\bw\ingenio-tv.png" />
+    <Content Include="img\contenido\canales\bw\isat.png" />
+    <Content Include="img\contenido\canales\bw\kw.png" />
+    <Content Include="img\contenido\canales\bw\lifetime.png" />
+    <Content Include="img\contenido\canales\bw\mariavision.png" />
+    <Content Include="img\contenido\canales\bw\max-prime.png" />
+    <Content Include="img\contenido\canales\bw\max.png" />
+    <Content Include="img\contenido\canales\bw\mc.png" />
+    <Content Include="img\contenido\canales\bw\milenio.png" />
+    <Content Include="img\contenido\canales\bw\mp-multiplayer.png" />
+    <Content Include="img\contenido\canales\bw\mtv.png" />
+    <Content Include="img\contenido\canales\bw\mundo-fox.png" />
+    <Content Include="img\contenido\canales\bw\natgeo-wild.png" />
+    <Content Include="img\contenido\canales\bw\ng-channel.png" />
+    <Content Include="img\contenido\canales\bw\nick-jr.png" />
+    <Content Include="img\contenido\canales\bw\nick-toons.png" />
+    <Content Include="img\contenido\canales\bw\nick.png" />
+    <Content Include="img\contenido\canales\bw\novelas.png" />
+    <Content Include="img\contenido\canales\bw\nu-music.png" />
+    <Content Include="img\contenido\canales\bw\once.png" />
+    <Content Include="img\contenido\canales\bw\paramount-channel.png" />
+    <Content Include="img\contenido\canales\bw\paromount-channel.png" />
+    <Content Include="img\contenido\canales\bw\premier.png" />
+    <Content Include="img\contenido\canales\bw\ritmoson.png" />
+    <Content Include="img\contenido\canales\bw\siete.png" />
+    <Content Include="img\contenido\canales\bw\sony.png" />
+    <Content Include="img\contenido\canales\bw\space.png" />
+    <Content Include="img\contenido\canales\bw\studio-universal.png" />
+    <Content Include="img\contenido\canales\bw\syfy.png" />
+    <Content Include="img\contenido\canales\bw\tbs.png" />
+    <Content Include="img\contenido\canales\bw\tcm.png" />
+    <Content Include="img\contenido\canales\bw\tdn-2.png" />
+    <Content Include="img\contenido\canales\bw\tdn.png" />
+    <Content Include="img\contenido\canales\bw\telehit.png" />
+    <Content Include="img\contenido\canales\bw\telemundo.png" />
+    <Content Include="img\contenido\canales\bw\tiin.png" />
+    <Content Include="img\contenido\canales\bw\tlnovelas.png" />
+    <Content Include="img\contenido\canales\bw\tnt-series.png" />
+    <Content Include="img\contenido\canales\bw\tnt.png" />
+    <Content Include="img\contenido\canales\bw\tooncast.png" />
+    <Content Include="img\contenido\canales\bw\travel-living.png" />
+    <Content Include="img\contenido\canales\bw\tru-tv.png" />
+    <Content Include="img\contenido\canales\bw\turbo.png" />
+    <Content Include="img\contenido\canales\bw\tv-azteca.png" />
+    <Content Include="img\contenido\canales\bw\tv-azteca2.png" />
+    <Content Include="img\contenido\canales\bw\tv-unam.png" />
+    <Content Include="img\contenido\canales\bw\tv3.png" />
+    <Content Include="img\contenido\canales\bw\una-voz-con-todos.png" />
+    <Content Include="img\contenido\canales\bw\unicable.png" />
+    <Content Include="img\contenido\canales\bw\universal-channel.png" />
+    <Content Include="img\contenido\canales\bw\vh1.png" />
+    <Content Include="img\contenido\canales\bw\vivid-tv.png" />
+    <Content Include="img\contenido\canales\bw\warnerbros.png" />
+    <Content Include="img\contenido\canales\bw\wobi.png" />
+    <Content Include="img\contenido\canales\cadena-tres.png" />
+    <Content Include="img\contenido\canales\canal-cinco.png" />
+    <Content Include="img\contenido\canales\canal-congreso.png" />
+    <Content Include="img\contenido\canales\canal-estrellas.png" />
+    <Content Include="img\contenido\canales\canal-estrellas2.png" />
+    <Content Include="img\contenido\canales\cartoon-network.png" />
+    <Content Include="img\contenido\canales\cbeebies.png" />
+    <Content Include="img\contenido\canales\cine-canal.png" />
+    <Content Include="img\contenido\canales\cine-latino.png" />
+    <Content Include="img\contenido\canales\cinemax.png" />
+    <Content Include="img\contenido\canales\cnn.png" />
+    <Content Include="img\contenido\canales\cuarenta.png" />
+    <Content Include="img\contenido\canales\de-pelicula.png" />
+    <Content Include="img\contenido\canales\DHE.png" />
+    <Content Include="img\contenido\canales\discovery-channel.png" />
+    <Content Include="img\contenido\canales\discovery-civilization.png" />
+    <Content Include="img\contenido\canales\discovery-kids.png" />
+    <Content Include="img\contenido\canales\discovery-science.png" />
+    <Content Include="img\contenido\canales\discovery-turbo.png" />
+    <Content Include="img\contenido\canales\discovery.png" />
+    <Content Include="img\contenido\canales\disney-junior.png" />
+    <Content Include="img\contenido\canales\disney-xd.png" />
+    <Content Include="img\contenido\canales\disney.png" />
+    <Content Include="img\contenido\canales\distrito-comedia.png" />
+    <Content Include="img\contenido\canales\e.png" />
+    <Content Include="img\contenido\canales\edge.png" />
+    <Content Include="img\contenido\canales\enlace.png" />
+    <Content Include="img\contenido\canales\espn.png" />
+    <Content Include="img\contenido\canales\espn2.png" />
+    <Content Include="img\contenido\canales\espn3.png" />
+    <Content Include="img\contenido\canales\fashion-one.png" />
+    <Content Include="img\contenido\canales\film-zone.png" />
+    <Content Include="img\contenido\canales\fox-life.png" />
+    <Content Include="img\contenido\canales\fox-news.png" />
+    <Content Include="img\contenido\canales\fox-sports.png" />
+    <Content Include="img\contenido\canales\fox-sports2.png" />
+    <Content Include="img\contenido\canales\fox-sports3.png" />
+    <Content Include="img\contenido\canales\fox.png" />
+    <Content Include="img\contenido\canales\fx.png" />
+    <Content Include="img\contenido\canales\gala-tv.png" />
+    <Content Include="img\contenido\canales\glitz.png" />
+    <Content Include="img\contenido\canales\golden.png" />
+    <Content Include="img\contenido\canales\hbo-family.png" />
+    <Content Include="img\contenido\canales\hbo-plus-este.png" />
+    <Content Include="img\contenido\canales\hbo-plus-oeste.png" />
+    <Content Include="img\contenido\canales\hbo-signature.png" />
+    <Content Include="img\contenido\canales\hbo.png" />
+    <Content Include="img\contenido\canales\hbo2.png" />
+    <Content Include="img\contenido\canales\history-channel.png" />
+    <Content Include="img\contenido\canales\history-channel2.png" />
+    <Content Include="img\contenido\canales\home-health.png" />
+    <Content Include="img\contenido\canales\htv.png" />
+    <Content Include="img\contenido\canales\id.png" />
+    <Content Include="img\contenido\canales\ingenio-tv.png" />
+    <Content Include="img\contenido\canales\isat.png" />
+    <Content Include="img\contenido\canales\kw.png" />
+    <Content Include="img\contenido\canales\lifetime.png" />
+    <Content Include="img\contenido\canales\mariavision.png" />
+    <Content Include="img\contenido\canales\max-prime.png" />
+    <Content Include="img\contenido\canales\max.png" />
+    <Content Include="img\contenido\canales\mc.png" />
+    <Content Include="img\contenido\canales\milenio.png" />
+    <Content Include="img\contenido\canales\mp-multiplayer.png" />
+    <Content Include="img\contenido\canales\mtv.png" />
+    <Content Include="img\contenido\canales\mundo-fox.png" />
+    <Content Include="img\contenido\canales\natgeo-wild.png" />
+    <Content Include="img\contenido\canales\ng-channel.png" />
+    <Content Include="img\contenido\canales\nick-jr.png" />
+    <Content Include="img\contenido\canales\nick-toons.png" />
+    <Content Include="img\contenido\canales\nick.png" />
+    <Content Include="img\contenido\canales\novelas.png" />
+    <Content Include="img\contenido\canales\nu-music.png" />
+    <Content Include="img\contenido\canales\once.png" />
+    <Content Include="img\contenido\canales\paramount-channel.png" />
+    <Content Include="img\contenido\canales\paromount-channel.png" />
+    <Content Include="img\contenido\canales\premier.png" />
+    <Content Include="img\contenido\canales\ritmoson.png" />
+    <Content Include="img\contenido\canales\siete.png" />
+    <Content Include="img\contenido\canales\sony.png" />
+    <Content Include="img\contenido\canales\space.png" />
+    <Content Include="img\contenido\canales\studio-universal.png" />
+    <Content Include="img\contenido\canales\syfy.png" />
+    <Content Include="img\contenido\canales\tbs.png" />
+    <Content Include="img\contenido\canales\tcm.png" />
+    <Content Include="img\contenido\canales\tdn-2.png" />
+    <Content Include="img\contenido\canales\tdn.png" />
+    <Content Include="img\contenido\canales\telehit.png" />
+    <Content Include="img\contenido\canales\telemundo.png" />
+    <Content Include="img\contenido\canales\tiin.png" />
+    <Content Include="img\contenido\canales\tlnovelas.png" />
+    <Content Include="img\contenido\canales\tnt-series.png" />
+    <Content Include="img\contenido\canales\tnt.png" />
+    <Content Include="img\contenido\canales\tooncast.png" />
+    <Content Include="img\contenido\canales\travel-living.png" />
+    <Content Include="img\contenido\canales\tru-tv.png" />
+    <Content Include="img\contenido\canales\turbo.png" />
+    <Content Include="img\contenido\canales\tv-azteca.png" />
+    <Content Include="img\contenido\canales\tv-azteca2.png" />
+    <Content Include="img\contenido\canales\tv-unam.png" />
+    <Content Include="img\contenido\canales\tv3.png" />
+    <Content Include="img\contenido\canales\una-voz-con-todos.png" />
+    <Content Include="img\contenido\canales\unicable.png" />
+    <Content Include="img\contenido\canales\universal-channel.png" />
+    <Content Include="img\contenido\canales\vh1.png" />
+    <Content Include="img\contenido\canales\vivid-tv.png" />
+    <Content Include="img\contenido\canales\warnerbros.png" />
+    <Content Include="img\contenido\canales\wobi.png" />
+    <Content Include="img\contenido\cellacom.png" />
+    <Content Include="img\contenido\celmax.png" />
+    <Content Include="img\contenido\cinema-ico.png" />
+    <Content Include="img\contenido\close.png" />
+    <Content Include="img\contenido\cloud-big.png" />
+    <Content Include="img\contenido\cloud.png" />
+    <Content Include="img\contenido\cobertura-ie.png" />
+    <Content Include="img\contenido\cobertura.jpg" />
+    <Content Include="img\contenido\comunicacion-big.png" />
+    <Content Include="img\contenido\comunicacion.png" />
+    <Content Include="img\contenido\conectividad-big.png" />
+    <Content Include="img\contenido\conectividad.png" />
+    <Content Include="img\contenido\conmutador.jpg" />
+    <Content Include="img\contenido\deportes-ico.png" />
+    <Content Include="img\contenido\disco-duro-ico.png" />
+    <Content Include="img\contenido\entretenimiento-ico.png" />
+    <Content Include="img\contenido\home-empresa.png" />
+    <Content Include="img\contenido\home-hogar.png" />
+    <Content Include="img\contenido\icon-bmv.png" />
+    <Content Include="img\contenido\icon-inversionistas.png" />
+    <Content Include="img\contenido\icon-oficinas.png" />
+    <Content Include="img\contenido\icon-sec.png" />
+    <Content Include="img\contenido\identidad.png" />
+    <Content Include="img\contenido\infraestructura.png" />
+    <Content Include="img\contenido\intelbras-01.png" />
+    <Content Include="img\contenido\intelbras-02.png" />
+    <Content Include="img\contenido\intelbras-03.png" />
+    <Content Include="img\contenido\linea-max.png" />
+    <Content Include="img\contenido\lineamax-logo.png" />
+    <Content Include="img\contenido\max-conexion.png" />
+    <Content Include="img\contenido\max-diversion-logo.png" />
+    <Content Include="img\contenido\max-internet.png" />
+    <Content Include="img\contenido\max-movil-logo.png" />
+    <Content Include="img\contenido\max-tv.png" />
+    <Content Include="img\contenido\maxcom-tv.png" />
+    <Content Include="img\contenido\maxinternet-logo.png" />
+    <Content Include="img\contenido\memoria-ram-ico.png" />
+    <Content Include="img\contenido\mensaje-icon.png" />
+    <Content Include="img\contenido\mi-tv.png" />
+    <Content Include="img\contenido\mision.png" />
+    <Content Include="img\contenido\mundo-cultura-ico.png" />
+    <Content Include="img\contenido\musica-ico.png" />
+    <Content Include="img\contenido\nacionales-ico.png" />
+    <Content Include="img\contenido\navegador-ico.png" />
+    <Content Include="img\contenido\ninos-ico.png" />
+    <Content Include="img\contenido\noticias-ico.png" />
+    <Content Include="img\contenido\oferta-hogar.png" />
+    <Content Include="img\contenido\oficina-df.jpg" />
+    <Content Include="img\contenido\oficina-puebla.jpg" />
+    <Content Include="img\contenido\oficina-queretaro.jpg" />
+    <Content Include="img\contenido\oficina-slp.jpg" />
+    <Content Include="img\contenido\procesador-ico.png" />
+    <Content Include="img\contenido\protocolos-ico.png" />
+    <Content Include="img\contenido\seguridad.png" />
+    <Content Include="img\contenido\seguro-desempleo.png" />
+    <Content Include="img\contenido\sistema-operativo-ico.png" />
+    <Content Include="img\contenido\smart-5.png" />
+    <Content Include="img\contenido\sobre.png" />
+    <Content Include="img\contenido\t702c.png" />
+    <Content Include="img\contenido\tab.png" />
+    <Content Include="img\contenido\tarjeta-red-ico.png" />
+    <Content Include="img\contenido\tutoriales-guias-icon.png" />
+    <Content Include="img\contenido\tutoriales-guias.png" />
+    <Content Include="img\contenido\tutoriales-icon.png" />
+    <Content Include="img\contenido\unidad-lectora-ico.png" />
+    <Content Include="img\contenido\vision.png" />
+    <Content Include="img\contenido\w-cloud-dark.png" />
+    <Content Include="img\contenido\w-cloud.png" />
+    <Content Include="img\contenido\w-comunicacion-dark.png" />
+    <Content Include="img\contenido\w-comunicacion.png" />
+    <Content Include="img\contenido\w-conectividad-dark.png" />
+    <Content Include="img\contenido\w-conectividad.png" />
+    <Content Include="img\contenido\watermark.png" />
+    <Content Include="img\contenido\wm01.png" />
+    <Content Include="img\contenido\zonda.png" />
+    <Content Include="img\contenido\zondazm.png" />
+    <Content Include="img\current_slide.png" />
+    <Content Include="img\empresa.png" />
+    <Content Include="img\favicon.ico" />
+    <Content Include="img\fb-h.png" />
+    <Content Include="img\fb.png" />
+    <Content Include="img\fija.png" />
+    <Content Include="img\fourth.png" />
+    <Content Include="img\hogar.png" />
+    <Content Include="img\internet.png" />
+    <Content Include="img\inversionistas.png" />
+    <Content Include="img\login.png" />
+    <Content Include="img\login_h.png" />
+    <Content Include="img\logo.png" />
+    <Content Include="img\marker.png" />
+    <Content Include="img\menu.png" />
+    <Content Include="img\menu_h.png" />
+    <Content Include="img\movil-m.png" />
+    <Content Include="img\movil.png" />
+    <Content Include="img\next.png" />
+    <Content Include="img\no-combo.png" />
+    <Content Include="img\patron-footer.png" />
+    <Content Include="img\patron.png" />
+    <Content Include="img\prev.png" />
+    <Content Include="img\row.png" />
+    <Content Include="img\shadow.png" />
+    <Content Include="img\slide_control.png" />
+    <Content Include="img\sub.png" />
+    <Content Include="img\tab_bg.png" />
+    <Content Include="img\tab_l.png" />
+    <Content Include="img\tab_r.png" />
+    <Content Include="img\tail.png" />
+    <Content Include="img\tv-m.png" />
+    <Content Include="img\tv.png" />
+    <Content Include="img\tw-h.png" />
+    <Content Include="img\tw.png" />
+    <Content Include="img\unchecked-alt.png" />
+    <Content Include="img\unchecked.png" />
+    <Content Include="img\unselected.png" />
+    <Content Include="img\uploads\el-financiero-03.jpg" />
+    <Content Include="img\uploads\hbo-02.jpg" />
+    <Content Include="img\uploads\wobi-01.jpg" />
+    <Content Include="img\x-red.png" />
+    <Content Include="img\x.png" />
+    <Content Include="img\yt-h.png" />
+    <Content Include="img\yt.png" />
+    <Content Include="js\canales.js" />
+    <Content Include="js\forms.js" />
+    <Content Include="js\jquery-1.11.1.min.js" />
+    <Content Include="js\jquery.touchSwipe.min.js" />
+    <Content Include="js\lightbox.js" />
+    <Content Include="js\mapa.js" />
+    <Content Include="js\oferta.js" />
+    <Content Include="js\slider.js" />
+    <Content Include="Views\AccesoClientes\Index.aspx" />
+    <Content Include="Views\AtencionAClientes\Index.aspx" />
+    <Content Include="Views\AvisoDePrivacidad\Index.aspx" />
+    <Content Include="Views\EnTuEmpresa\ContactoComercial.aspx" />
+    <Content Include="Views\EnTuEmpresa\Index.aspx" />
+    <Content Include="Views\EnTuEmpresa\SolucionesCompartidas.aspx" />
+    <Content Include="Views\EnTuEmpresa\SolucionesDeComunicacion.aspx" />
+    <Content Include="Views\EnTuEmpresa\SolucionesDeConectividad.aspx" />
+    <Content Include="Views\EnTuHogar\Index.aspx" />
+    <Content Include="Views\EnTuHogar\MaxConexion.aspx" />
+    <Content Include="Views\EnTuHogar\MaxDiversion.aspx" />
+    <Content Include="Views\EnTuHogar\MaxMovil.aspx" />
+    <Content Include="Views\Gracias\Index.aspx" />
+    <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Suertudo\Index.aspx" />
+    <Content Include="Views\Sitemap\Index.aspx" />
+    <Content Include="Views\SobreMaxcom\Index.aspx" />
+    <Content Include="Views\SobreMaxcom\OficinasCorporativas.aspx" />
+    <Content Include="Views\StaticContent\PageNotFound.aspx" />
+    <Content Include="Views\TerminosYCondiciones\Index.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Web.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Areas\AtencionAClientes\Views\Web.config" />
+    <Content Include="Areas\AccesoClientes\Views\Web.config" />
+    <None Include="img\.DS_Store" />
+    <None Include="img\contenido\.DS_Store" />
+    <None Include="img\contenido\canales\.DS_Store" />
+    <None Include="img\contenido\canales\bw\.DS_Store" />
+    <None Include="img\uploads\.DS_Store" />
+    <None Include="kml\cac-edomex.kml" />
+    <None Include="kml\cac-puebla.kml" />
+    <None Include="kml\cac-queretaro.kml" />
+    <None Include="kml\cac-sanluis.kml" />
+    <None Include="kml\cm-edomex.kml" />
+    <None Include="kml\cm-puebla.kml" />
+    <None Include="kml\cm-queretaro.kml" />
+    <None Include="kml\cm-sanluis.kml" />
+    <None Include="kml\df.kml" />
+    <None Include="kml\edomex.kml" />
+    <None Include="kml\oficinas-df.kml" />
+    <None Include="kml\puebla.kml" />
+    <None Include="kml\queretaro.kml" />
+    <None Include="kml\sanluis.kml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>55192</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SAN LUIS POTOSI.kml</name>
+	<open>1</open>
+	<Style id="sh_M">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_M">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_M</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_M</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_M">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/M-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>SAN LUIS POTOSI</name>
+		<open>1</open>
+		<Folder>
+			<name>CASAS MAXCOM</name>
+			<Placemark>
+				<name>CM 21 DE MARZO</name>
+				<description>Av. Ricardo B Anaya No.1821-A, Col. Ricardo B. Anaya 1° Secci&oacute;n, Soledad de Graciano S&aacute;nchez</description>
+				<LookAt>
+					<longitude>-100.9301205283512</longitude>
+					<latitude>22.1417224711225</latitude>
+					<altitude>0</altitude>
+					<heading>8.169023951295154</heading>
+					<tilt>20.46397445368447</tilt>
+					<range>403.0539863636578</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-100.9305707054235,22.14160226909102,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM AEROPUERTO</name>
+				<description>Calle 4 No. 1201, Col. Industrial Aviaci&oacute;n, San Luis Potos&iacute;</description>
+				<LookAt>
+					<longitude>-100.9923580136774</longitude>
+					<latitude>22.17206652093142</latitude>
+					<altitude>0</altitude>
+					<heading>-0.00306933225897578</heading>
+					<tilt>0</tilt>
+					<range>140.8182334955088</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-100.9924039147006,22.17206845077302,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM MORALES</name>
+				<description>Prolongaci&oacute;n Azufre No. 515, Col. Morales I, San Luis Potos&iacute;</description>
+				<LookAt>
+					<longitude>-101.0193765186916</longitude>
+					<latitude>22.16062797726375</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002968792082197665</heading>
+					<tilt>0</tilt>
+					<range>84.87369204773729</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-101.0194214576931,22.16069362278024,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM QUINTAS DE LA HACIENDA</name>
+				<description>Av. Ricardo B Anaya No. 3660-B, Col. Fracc. La Libertad, Soledad de Graciano S&aacute;nchez</description>
+				<LookAt>
+					<longitude>-100.9089530183463</longitude>
+					<latitude>22.13969665037663</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0003696382840527906</heading>
+					<tilt>0</tilt>
+					<range>127.3914918199162</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-100.908978393066,22.13975584395381,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM RANCHO PAVON</name>
+				<description>Allende No. 194, Col. Centro, Soledad de Graciano S&aacute;nchez</description>
+				<LookAt>
+					<longitude>-100.9402374876382</longitude>
+					<latitude>22.18731861184549</latitude>
+					<altitude>0</altitude>
+					<heading>0.002199613904167961</heading>
+					<tilt>0</tilt>
+					<range>45.2295699946681</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-100.9401764296674,22.18732735564907,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM SAUCITO</name>
+				<description>Av. Del Sauce No. 455 Col. San Antonio del Saucito, San Luis Potos&iacute;</description>
+				<Camera>
+					<longitude>-101.0012259875279</longitude>
+					<latitude>22.18963658087501</latitude>
+					<altitude>157.7302492480854</altitude>
+					<heading>-22.96457675880018</heading>
+					<tilt>3.245081270477903</tilt>
+					<roll>-14.30471897439923</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-101.0013950908204,22.18979041853735,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CM VALLE TECNOLOGICO</name>
+				<description>Prol. Mu&ntilde;oz No. 2767 Loc A, Col. Tecnol&oacute;gico, San Luis Potos&iacute;</description>
+				<LookAt>
+					<longitude>-101.0133545969214</longitude>
+					<latitude>22.17362777538549</latitude>
+					<altitude>0</altitude>
+					<heading>-2.019102836772679e-06</heading>
+					<tilt>0</tilt>
+					<range>96.56051745232151</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_M</styleUrl>
+				<Point>
+					<coordinates>-101.0133909352239,22.17370167531014,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

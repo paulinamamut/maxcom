@@ -1,0 +1,115 @@
+var slider, body, tray, slides, controles, main, main_nav, header, mn_height;
+$(function(){
+    var tiempo = 8;
+     controles = $('#slide_control a');
+     main = $('#main_items a');
+    main_nav = $('#main_nav');
+    header = $('header, #header');
+    mn_height = main_nav.height();
+    tray = $('#tray');
+    $('.slide').first().clone().appendTo(tray);
+    slider = $('#slider'), body = $('body'), slides = $('.slide');
+    controles.first().addClass('current');
+    tray.css({width:(slides.length * 100)+'%'})
+    slides.each(function(){
+        $(this).css({width:(100/slides.length)+'%'})
+    });
+    //var slideInt = setInterval(control, tiempo*1000);
+    $('.slide_control').on({click:function(ev){
+        ev.preventDefault();
+        //clearInterval(slideInt);
+        //slideInt = setInterval(control, tiempo*1000);
+        control($(this).attr('id'));
+    }})
+    controles.on({click:function(ev){
+        ev.preventDefault();
+        //clearInterval(slideInt);
+        //slideInt = setInterval(control, tiempo*1000);
+        skipTo($(this), controles);
+    }})
+    main.on({click:function(ev){
+        ev.preventDefault();
+        //clearInterval(slideInt);
+        //slideInt = setInterval(control, tiempo*1000);
+        skipTo($(this), main);
+    }})
+    $('#menu_toggle').on({click:function(ev){
+        toggleMenu(ev);
+    }}) 
+    $(window).on({resize:adjust})
+})
+
+function toggleMenu(ev){
+    ev.preventDefault();
+    var el = $(ev.target);
+    if(el.is('.cerrar')){
+        var op = 0;
+        el.text('Menú').removeClass('cerrar');
+    }else{
+        var op = 1;
+        el.text('Cerrar').addClass('cerrar');
+    }
+    
+    el.off();
+    
+    setTimeout(function(){
+       header.animate({height:header.height()+(mn_height * ((op*2)-1) )}, function(){
+        if(op==0)
+            main_nav.removeAttr('style');
+       })
+    }, (1-op)*500)
+    setTimeout(function(){
+        main_nav.css({display:(op==1?'block':'none')})
+    }, (1-op)*500)
+    setTimeout(function(){
+        main_nav.animate({opacity:op});
+    }, (op)*500)
+    
+    setTimeout(function(){
+        el.on({click:function(ev){
+            toggleMenu(ev);
+        }}) 
+    },500)
+    
+}
+
+function adjust(){
+    var newS = Math.floor(slider.scrollLeft()/$(window).width())*$(window).width();
+    slider.scrollLeft(newS);
+    mn_height = main_nav.height();
+}
+
+function skipTo(el, collection){
+    var  i = collection.index(el);
+    control(i);
+}
+
+function control(direction){
+    var controles = $('#slide_control a');
+    if(typeof direction ==='undefined')
+        direction = 'next';
+    var index = controles.index(controles.filter('.current'));
+    if(typeof direction != 'number'){
+        var newIndex = direction == 'next' ? (index+1 < controles.length ? index+1:0) : (index-1 >= 0 ? index-1:controles.length-1);
+        var slideTo = direction;
+    }else{
+        var newIndex = direction;
+        var slideTo = direction*body.width();   
+    }
+    var newEl = $(controles[newIndex]);
+    controles.filter('.current').removeClass('current')
+    newEl.addClass('current');
+    slide(slideTo);
+}
+
+function slide(direction){
+    if(direction == 'prev' && slider.scrollLeft() == 0)
+        slider.scrollLeft(slider.get(0).scrollWidth-body.width());
+    if(direction == 'next' && slider.scrollLeft() >= slider.get(0).scrollWidth-body.width())
+        slider.scrollLeft(0);
+    if(typeof direction === 'number'){
+        var scroll = direction;
+    }else
+        var scroll = slider.scrollLeft() + (direction == 'next'?body.width():-body.width());
+    slider.stop().animate({scrollLeft:scroll+'px'}, 1000);
+}

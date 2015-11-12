@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FO_SAN LUIS POTOSI.kml</name>
+	<open>1</open>
+	<Style id="sn_SITIO5">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_SITIO9">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_SITIO0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_SITIO22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_SITIO11">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_SITIO4">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_SITIO">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_SITIO21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_SITIO3">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_SITIO7">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO10">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO24">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_SITIO17">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO23">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO16">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_SITIO24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_SITIO2">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_SITIO0">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_SITIO2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_SITIO5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_SITIO18">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_SITIO17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_SITIO</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_SITIO18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_SITIO">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_SITIO4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_SITIO">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_SITIO16">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_SITIO7">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_SITIO25">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_SITIO1">
+		<IconStyle>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_SITIO1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/San Luis Potosi/FO_SLP/Google Earth/ICONOS/SITIO.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>FO_SAN LUIS POTOSI</name>
+		<open>1</open>
+		<Placemark>
+			<name>SITIO SAUCITO</name>
+			<LookAt>
+				<longitude>-100.9997172197293</longitude>
+				<latitude>22.1950642375503</latitude>
+				<altitude>0</altitude>
+				<heading>0.3827828447355328</heading>
+				<tilt>0</tilt>
+				<range>142.7993753644664</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO1</styleUrl>
+			<Point>
+				<coordinates>-100.9999959725251,22.19527413995947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO VALLE TECNOLOGICO</name>
+			<LookAt>
+				<longitude>-101.013635476807</longitude>
+				<latitude>22.17592895266804</latitude>
+				<altitude>0</altitude>
+				<heading>0.3775283470070978</heading>
+				<tilt>0</tilt>
+				<range>125.1908605490172</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO8</styleUrl>
+			<Point>
+				<coordinates>-101.013610696229,22.17586308023379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO MORALES</name>
+			<LookAt>
+				<longitude>-101.0161376441715</longitude>
+				<latitude>22.16624626951492</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003523427723844777</heading>
+				<tilt>0</tilt>
+				<range>147.9415293172145</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO</styleUrl>
+			<Point>
+				<coordinates>-101.016188449437,22.16613870757709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>POP MAXCOM</name>
+			<LookAt>
+				<longitude>-100.9998068401436</longitude>
+				<latitude>22.15249385092579</latitude>
+				<altitude>0</altitude>
+				<heading>0.003122503751376944</heading>
+				<tilt>0</tilt>
+				<range>346.3181842632091</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO22</styleUrl>
+			<Point>
+				<coordinates>-100.9992680085381,22.15225917216686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO OFICINAS MAXCOM</name>
+			<LookAt>
+				<longitude>-100.9875836074073</longitude>
+				<latitude>22.15135129479618</latitude>
+				<altitude>0</altitude>
+				<heading>-10.33969781623827</heading>
+				<tilt>0</tilt>
+				<range>544.8487944008356</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO24</styleUrl>
+			<Point>
+				<coordinates>-100.9875775949536,22.1510686348059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO AEROPUERTO</name>
+			<LookAt>
+				<longitude>-100.9934141122727</longitude>
+				<latitude>22.16978104762972</latitude>
+				<altitude>0</altitude>
+				<heading>0.005401715846357845</heading>
+				<tilt>0</tilt>
+				<range>82.28785302264683</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO5</styleUrl>
+			<Point>
+				<coordinates>-100.9934791386979,22.16976111932853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BODEGA MAXCOM</name>
+			<LookAt>
+				<longitude>-100.9800681614534</longitude>
+				<latitude>22.17052238825737</latitude>
+				<altitude>0</altitude>
+				<heading>0.008650771749313918</heading>
+				<tilt>0</tilt>
+				<range>101.3244722136828</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO11</styleUrl>
+			<Point>
+				<coordinates>-100.9801227864196,22.17055510129358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO RANCHO PAVON</name>
+			<LookAt>
+				<longitude>-100.9483415633575</longitude>
+				<latitude>22.18059234852824</latitude>
+				<altitude>0</altitude>
+				<heading>0.01879999851674839</heading>
+				<tilt>0</tilt>
+				<range>37.3567965527692</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO17</styleUrl>
+			<Point>
+				<coordinates>-100.9483597145875,22.18058140285216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO MAQUINARIA</name>
+			<LookAt>
+				<longitude>-100.9515125891124</longitude>
+				<latitude>22.17166674041786</latitude>
+				<altitude>0</altitude>
+				<heading>0.01160992400929815</heading>
+				<tilt>0</tilt>
+				<range>87.57748565145987</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO23</styleUrl>
+			<Point>
+				<coordinates>-100.9514795870946,22.17154527528357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO 21 DE MARZO</name>
+			<LookAt>
+				<longitude>-100.9297402457562</longitude>
+				<latitude>22.14717019387206</latitude>
+				<altitude>0</altitude>
+				<heading>0.01982048878120516</heading>
+				<tilt>0</tilt>
+				<range>140.7072382721851</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO12</styleUrl>
+			<Point>
+				<coordinates>-100.9296321407462,22.14722411929248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO POLVORIN</name>
+			<LookAt>
+				<longitude>-100.9482756621014</longitude>
+				<latitude>22.15878161719267</latitude>
+				<altitude>0</altitude>
+				<heading>0.01283110678719394</heading>
+				<tilt>0</tilt>
+				<range>73.56379641791638</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO4</styleUrl>
+			<Point>
+				<coordinates>-100.9483193730229,22.15878459748198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITIO QUINTASDE LA HACIENDA</name>
+			<LookAt>
+				<longitude>-100.9098344779379</longitude>
+				<latitude>22.14221148493321</latitude>
+				<altitude>0</altitude>
+				<heading>0.02732375919870489</heading>
+				<tilt>0</tilt>
+				<range>106.3487183203789</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_SITIO21</styleUrl>
+			<Point>
+				<coordinates>-100.90987681894,22.14201534306232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FO.SAUCITO-VALLE TECNOLOGICO</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.9999931314163,22.19527841403128,0 -100.999987326804,22.19527842082515,0 -100.9999311858376,22.19529107864886,0 -100.9996060428653,22.19478588122583,0 -100.999749364062,22.19431267479468,0 -100.9999958924263,22.19362754946535,0 -101.0001977912588,22.1930359774054,0 -101.0007883704659,22.19139446750265,0 -101.00062160642,22.19069203040634,0 -101.0004539630962,22.18995411916362,0 -101.0003682604433,22.18951469502662,0 -100.9999732150956,22.18785787590851,0 -100.9997564885175,22.18691990274493,0 -100.9996251035735,22.18649618627848,0 -100.9993362137879,22.18605573825517,0 -101.0001787714071,22.18585567298392,0 -101.0008422590415,22.18573428215343,0 -101.0011707504158,22.18572024509362,0 -101.0013517582902,22.18566405543234,0 -101.0020886294219,22.18544089712475,0 -101.0028525780716,22.18537581653599,0 -101.0035713294497,22.18513607822719,0 -101.0044617008395,22.18490142402732,0 -101.0051789998305,22.184704327758,0 -101.0062608109287,22.18442548474335,0 -101.0069082838289,22.18420193831281,0 -101.0073300786218,22.18409741139647,0 -101.0095122584663,22.18349203767895,0 -101.0129092283483,22.18250756862646,0 -101.0128225042291,22.18140040674257,0 -101.0127890716147,22.18077847455632,0 -101.0125380725226,22.17726003613592,0 -101.0119959545465,22.17605508462745,0 -101.0128499980061,22.17513358094563,0 -101.013644768133,22.1758306469772,0 -101.0136097250821,22.17585716920785,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_VALLE TECNOLOGICO-MORALES</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-101.0136458507368,22.17582930525055,0 -101.0139371989171,22.17610458987983,0 -101.0159901323843,22.17606100462615,0 -101.0138284978538,22.1740261598117,0 -101.013816648165,22.17399973255526,0 -101.0141897249739,22.17359206935713,0 -101.0155473939206,22.17208120084698,0 -101.0162054932725,22.17135929491833,0 -101.0177510911298,22.16957797726376,0 -101.0191984657178,22.16794793076424,0 -101.0193402264118,22.16773332290588,0 -101.0194453204935,22.16739967333558,0 -101.0182809117091,22.1675858117919,0 -101.0178199041049,22.16763366782537,0 -101.0169799645305,22.16650752669718,0 -101.0164844712783,22.16651225656125,0 -101.0161972384836,22.16614778674987,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_SAUCITO-AEROPUERTRO</name>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.9996023156664,22.19478037290227,0 -100.9989453279083,22.19356917105095,0 -100.9985961552837,22.19296160845292,0 -100.9981225067225,22.19210532411254,0 -100.9977183377211,22.19136576257077,0 -100.9974323954531,22.1908598872861,0 -100.9973193675476,22.19011745039049,0 -100.9966184721073,22.19022755198997,0 -100.9963517632529,22.18912965875099,0 -100.9959747905534,22.18735178958368,0 -100.9953569556843,22.18494666651315,0 -100.9962127437351,22.18376743733258,0 -100.9971230757023,22.18257888556629,0 -100.9973019450009,22.18234970591472,0 -100.9973972478394,22.1822833892619,0 -100.9973946404053,22.18128773562379,0 -100.9956778329143,22.1802257949068,0 -100.9950719533628,22.17975458442325,0 -100.9959516400703,22.17843808904635,0 -100.9970047317241,22.17701398548844,0 -100.997813158876,22.17595606298255,0 -100.9982766329135,22.17533169089281,0 -100.9992695025642,22.17399399551757,0 -101.0004527929746,22.17238321073843,0 -101.0010419643299,22.17155300775917,0 -100.9996229451718,22.17064049400022,0 -100.9996134209477,22.17050926136139,0 -100.997290060693,22.1708295902691,0 -100.9946871952123,22.17117553453419,0 -100.9945484968462,22.17127216898856,0 -100.9939725078447,22.17136151873785,0 -100.9932685092477,22.16975299964463,0 -100.9934738104377,22.16973779870974,0 -100.9934787507025,22.16975880380858,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_AEROPUERTO-BODEGA</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.9932716145192,22.16975932110498,0 -100.993176094984,22.16960018096405,0 -100.9930003750383,22.16935639137739,0 -100.992827803786,22.16909847528083,0 -100.992415381515,22.16933574961373,0 -100.9923339938083,22.16938349958885,0 -100.9922100325597,22.16941538315948,0 -100.9924858019299,22.1712264979269,0 -100.990864607715,22.17146957626596,0 -100.9910715201024,22.17178113132946,0 -100.9878815851275,22.1722376993601,0 -100.9878443809671,22.17212810389264,0 -100.985358128925,22.17248657462399,0 -100.9841417695929,22.17273187321208,0 -100.9822744605139,22.17148331216803,0 -100.9823650986006,22.17130893279249,0 -100.9821555210523,22.17105053765978,0 -100.9819309816662,22.17065605989411,0 -100.9817680725427,22.16999966256939,0 -100.9814303790918,22.16997792567826,0 -100.9800744361562,22.17042941060445,0 -100.9801207973691,22.1705589092449,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_TECNOLOGICO-AEROPUERTO</name>
+			<styleUrl>#msn_ylw-pushpin7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-101.0120033646089,22.17605260206264,0 -101.0118222843135,22.17595139628486,0 -101.0118149306586,22.1759446384265,0 -101.0110460749494,22.17602410481099,0 -101.0109281212536,22.176027417807,0 -101.010873595809,22.17552408029955,0 -101.0089984396039,22.17564394325756,0 -101.0089014160332,22.17571160061236,0 -101.0083045236349,22.1756118230055,0 -101.0080305041373,22.17551830074477,0 -101.0073893462956,22.1751586835878,0 -101.006526831652,22.17468283501806,0 -101.0052948041894,22.17399983057836,0 -101.0028346842405,22.17262775097051,0 -101.0010397381893,22.17155306860697,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_AEROPUERTO RED</name>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.9939547055909,22.17134786457328,0 -100.9910695177581,22.17177664109532,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_AEROPUERTO-RANCHO PAVON</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.9800717794595,22.17042600862573,0 -100.979421127044,22.1706494643695,0 -100.9783838843398,22.17102921329672,0 -100.977388611186,22.17134951320495,0 -100.9761937991536,22.17173438836112,0 -100.9758032894831,22.17184464584134,0 -100.975661277203,22.17187044757986,0 -100.9747485481846,22.17183335299492,0 -100.9746412892492,22.17183267013401,0 -100.9745697009975,22.17123894260532,0 -100.9742587575744,22.17136782511121,0 -100.9737862981327,22.17173122403296,0 -100.9738055283319,22.17060362098098,0 -100.972968326654,22.17065353229406,0 -100.9716109383966,22.17108539458816,0 -100.9708520973706,22.17132637607962,0 -100.970451207364,22.17127142237645,0 -100.9700946732602,22.1712208769827,0 -100.9693073343094,22.17129348137513,0 -100.9682513316427,22.171545270347,0 -100.9678057721248,22.17166402851258,0 -100.9673753514907,22.17172757583938,0 -100.9664431114197,22.17216287116341,0 -100.9658679202362,22.17295178298523,0 -100.9639454254351,22.17239066532994,0 -100.9623606958767,22.17442587749754,0 -100.9609281333303,22.17641191044649,0 -100.9593617242753,22.17839777522175,0 -100.9575814632402,22.18074842407406,0 -100.9575866805466,22.18088115288431,0 -100.9565540018371,22.18151050184059,0 -100.9547363921893,22.18262716885366,0 -100.9540093626438,22.18308733826392,0 -100.9534553825785,22.18340180444553,0 -100.9529041028655,22.18375006747723,0 -100.952423026944,22.18392277352481,0 -100.9518215678115,22.18407281528912,0 -100.9511407666672,22.18419548684595,0 -100.9504591317624,22.18427988287414,0 -100.9497619275405,22.18543383926588,0 -100.9496781128405,22.1855556162557,0 -100.9479299568143,22.1883381122585,0 -100.9454692044235,22.18883772025789,0 -100.9436288914541,22.1891958798854,0 -100.9424337398588,22.18322490245755,0 -100.9449292383216,22.1827198504953,0 -100.9456292416906,22.18131920218477,0 -100.9461999217035,22.18132743688988,0 -100.9470128169952,22.18127851142567,0 -100.9481306113425,22.18122377748706,0 -100.9482171360178,22.18060810972315,0 -100.9483474790173,22.1806270523633,0 -100.9483524260088,22.18057834512457,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_RANCHOPAVON-MAQUINARIA</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.948217617923,22.18060933576393,0 -100.9482631107118,22.18033655966158,0 -100.9483638182506,22.17985859575689,0 -100.9489374654397,22.17995067519027,0 -100.9499316881352,22.18014191502554,0 -100.9500302835684,22.18016582422181,0 -100.9500771681721,22.17995188465046,0 -100.9501325171644,22.17969544132331,0 -100.9502308190308,22.17928812645381,0 -100.9503259851022,22.17891087103668,0 -100.9503299560712,22.17828893280838,0 -100.9511733669135,22.17822913291551,0 -100.9520957409006,22.17819624770829,0 -100.9520423016715,22.17781014981792,0 -100.9520242465147,22.17769909000248,0 -100.9528351697135,22.17656989047399,0 -100.9527993401712,22.17608902930466,0 -100.9527269430446,22.17509802060454,0 -100.9526343856002,22.1738497053859,0 -100.952414642307,22.1734011083022,0 -100.9523764397684,22.17333270158751,0 -100.9523982965316,22.17315572010042,0 -100.9524252928961,22.17292887939548,0 -100.9523876028003,22.17171963166508,0 -100.9511192127186,22.17200786458593,0 -100.9510212004866,22.17202300660622,0 -100.951397257582,22.17148999733409,0 -100.9514790710343,22.17153663675684,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_MAQUINARIA-POLVORIN</name>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.9513980507554,22.17149170542448,0 -100.9517955045497,22.17101861459506,0 -100.9512858843651,22.17067826251006,0 -100.95145740879,22.17047048117357,0 -100.9514840499503,22.1702228764936,0 -100.9513771877766,22.16968435098687,0 -100.9512690787052,22.16907296691214,0 -100.9499711046923,22.1691037229141,0 -100.9498456351263,22.16908842913055,0 -100.9498374775889,22.16790553488887,0 -100.9483619854883,22.16791118722149,0 -100.948245212765,22.16792528049869,0 -100.9479897347934,22.16710526696983,0 -100.9478128819711,22.16660561785155,0 -100.9473129936784,22.16506317668568,0 -100.9467840655561,22.16327666150306,0 -100.9466370790775,22.16183137593749,0 -100.9476404216385,22.16174910713122,0 -100.9473679631373,22.15891354717182,0 -100.9483251309384,22.15884555422786,0 -100.9483194385864,22.1587797974448,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_POLVORIN-QUINTAS</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.9466351323846,22.16183173618392,0 -100.9460505954339,22.16188715837077,0 -100.9452870428906,22.16195086117816,0 -100.9442461183172,22.16203482902203,0 -100.9431398342093,22.1622064607276,0 -100.9421932464276,22.16233080359249,0 -100.9420099534524,22.16228793255593,0 -100.9418639092615,22.16246887082725,0 -100.9404499262218,22.16279693267899,0 -100.9404033583453,22.16280636799292,0 -100.9402508025914,22.16228127832391,0 -100.9371298810052,22.16301925634321,0 -100.9373653404279,22.16387540287962,0 -100.935375120311,22.16432820383727,0 -100.9340464980028,22.16465442421416,0 -100.9315938911805,22.16525929799938,0 -100.9313953312346,22.16455784758388,0 -100.9310100988263,22.1646277619235,0 -100.9308248794955,22.16463479682131,0 -100.9306377456779,22.16452211869395,0 -100.9303025422257,22.16447899207074,0 -100.9295032066561,22.16214316952595,0 -100.9256220485129,22.16298073698505,0 -100.9247929356781,22.16053781868275,0 -100.9209193454075,22.15998350397679,0 -100.9207962171664,22.15994347530205,0 -100.9207041309012,22.16012024013744,0 -100.9198041923944,22.15679734207541,0 -100.918928223214,22.15688590082356,0 -100.9184499385736,22.15698720742819,0 -100.9173670061629,22.15724239434464,0 -100.9148299489776,22.15768287928041,0 -100.9147926116257,22.15670340269902,0 -100.9144719663828,22.1565621201752,0 -100.9144116925467,22.15551095902646,0 -100.9142232994891,22.1551896181873,0 -100.9138740384291,22.15502778722501,0 -100.9135453853069,22.15497560376768,0 -100.9121669291041,22.15514465871935,0 -100.9115047548709,22.15520339795507,0 -100.9113899205662,22.15489291134199,0 -100.9105151996239,22.15498613080699,0 -100.91048350347,22.15389295570222,0 -100.9104682565386,22.15159880622803,0 -100.9098333437734,22.15164461559435,0 -100.9098050533995,22.15129435380153,0 -100.9097185079179,22.15123260039927,0 -100.9096762693215,22.1508503399292,0 -100.9095890465378,22.14985393348339,0 -100.9095297499178,22.14908331738321,0 -100.9094390587895,22.14826673606792,0 -100.9093982221841,22.14801324829108,0 -100.9088518919419,22.14663950625793,0 -100.9099722535008,22.14651214283635,0 -100.9099144123753,22.14535271289749,0 -100.9098049252221,22.1442211867544,0 -100.9094595715015,22.14421598681028,0 -100.9100040421503,22.14204162885774,0 -100.9098782072707,22.14201642956526,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_QUINTASHACIENDA-21DEMARZO</name>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.9100004723847,22.14203715261352,0 -100.9100689058854,22.14179187342529,0 -100.9109282185931,22.1419806941061,0 -100.911905509993,22.14216114352507,0 -100.9130306710901,22.14240343793223,0 -100.9138965702733,22.14260907581803,0 -100.916357571964,22.14314381992652,0 -100.9185301939102,22.14363544138448,0 -100.9199165771053,22.14392775668134,0 -100.9218410242618,22.1443495385958,0 -100.9216100396845,22.14569168106955,0 -100.9213169559049,22.1472602840899,0 -100.9218721009918,22.14725593921984,0 -100.9219347011578,22.14704223188461,0 -100.9221943428793,22.14704372387002,0 -100.9239868170154,22.14697015457019,0 -100.9260248819255,22.14687282078626,0 -100.927460684289,22.14684066884691,0 -100.9289417215428,22.14674393431363,0 -100.9296525644808,22.14671954562973,0 -100.9296770385433,22.14721071632303,0 -100.9296361489994,22.14721371171071,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_21DEMARZO-POLVORIN</name>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.9296605032797,22.14690517554476,0 -100.9300055963872,22.14688741708481,0 -100.9305018886835,22.1468721449472,0 -100.9318570036818,22.14680648940376,0 -100.9357210232164,22.14669667363987,0 -100.9358324756535,22.14668813219814,0 -100.935819479743,22.1464294924707,0 -100.9365946853187,22.14543696246393,0 -100.9374249378282,22.14434196189204,0 -100.9393721524024,22.1456316310528,0 -100.9421307388736,22.14749605476118,0 -100.9431942512468,22.14816959114182,0 -100.9429925509175,22.1484245627771,0 -100.9433620702478,22.1486567430626,0 -100.943169781229,22.1489537901554,0 -100.9431292226327,22.14903796873854,0 -100.9432741167386,22.15214624096873,0 -100.9432767065284,22.15252043365285,0 -100.9443268610082,22.15245734358953,0 -100.9443736180349,22.15279842695569,0 -100.9445087103866,22.15307078926416,0 -100.9446191298818,22.15307191811321,0 -100.9450463016568,22.15406495143255,0 -100.9454506357726,22.15494806549398,0 -100.945516541459,22.15548180360486,0 -100.9455730343731,22.1554861543993,0 -100.9456428542062,22.15629189572278,0 -100.9457294449583,22.15717372627719,0 -100.9458325116197,22.15813893214518,0 -100.9452044906348,22.15820781212507,0 -100.945213446775,22.15826700986036,0 -100.9472900880608,22.15810661315523,0 -100.9473675046162,22.15891538123399,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_POLVORIN-POPMAXCOM</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.948326727779,22.15884708303069,0 -100.9486333854492,22.15881777796566,0 -100.9491181276756,22.15876674798204,0 -100.9509450689323,22.15861605231426,0 -100.9508648223586,22.15779970959363,0 -100.951587782361,22.15773207978433,0 -100.9530894862072,22.15759616964174,0 -100.9545456177671,22.15745921179778,0 -100.9552764268085,22.15740703482593,0 -100.9560032169238,22.15733145346042,0 -100.9570043698548,22.1571228805176,0 -100.9569890786699,22.15617804075305,0 -100.9569749847876,22.15530770621865,0 -100.9584204377815,22.15513661940595,0 -100.9598740008764,22.15489880501565,0 -100.9610194708374,22.15475687461374,0 -100.9622195176613,22.15458475965628,0 -100.9621466961463,22.15372944209957,0 -100.9620986392164,22.15313913800715,0 -100.962022984042,22.15201171952662,0 -100.9619711557231,22.15138789599903,0 -100.9619323580276,22.15063753256854,0 -100.9618893103476,22.15024975588624,0 -100.9619146932906,22.14976726779941,0 -100.9619331384788,22.14816278397381,0 -100.9620525449964,22.14815061343084,0 -100.9621100843982,22.14515413377549,0 -100.9621218009035,22.14506145695169,0 -100.9615862454742,22.14504551660064,0 -100.9610084950365,22.14501735263989,0 -100.9605263551154,22.14502846851029,0 -100.9600521364026,22.14436474132308,0 -100.9593660829626,22.14323653094283,0 -100.9591223858133,22.14286875665139,0 -100.9585935393436,22.14200582518176,0 -100.956746811749,22.14209826984661,0 -100.9567235460414,22.14101574548737,0 -100.9567016245949,22.14025505602184,0 -100.9566975378141,22.14006520021481,0 -100.9565819672868,22.1396565222717,0 -100.9565500055059,22.1388157848654,0 -100.9565951687555,22.13808528277777,0 -100.9568175839905,22.13703711022335,0 -100.957258053595,22.13594534697866,0 -100.9578299286729,22.13513517691616,0 -100.9585731682954,22.13451231051493,0 -100.958574609342,22.13448310998566,0 -100.9591645779708,22.13408834974637,0 -100.9592637910968,22.13405002078923,0 -100.9616673681558,22.13645609992351,0 -100.9618600667658,22.1366860423445,0 -100.963366716486,22.13539307948648,0 -100.9638071840364,22.13503662777905,0 -100.9648719462411,22.13413263627266,0 -100.9653649011323,22.13371808330629,0 -100.9661197808693,22.13508627131007,0 -100.9674426861075,22.13765715414867,0 -100.9681076719363,22.13743394844962,0 -100.9669883522611,22.13531670657623,0 -100.9672339463773,22.13524608039932,0 -100.9678805968902,22.13508259631128,0 -100.9685039565566,22.13488464331637,0 -100.968711289562,22.13481896317602,0 -100.9692732115958,22.13474165173849,0 -100.9704084554973,22.13455482193247,0 -100.9716484943526,22.13430848184613,0 -100.973119658964,22.13405599864013,0 -100.9745800209737,22.13382886738572,0 -100.9751083052748,22.13374496244837,0 -100.9751194198128,22.13357554168634,0 -100.975148455248,22.13334667915668,0 -100.9768783139257,22.13400186310845,0 -100.9774436980806,22.13424303156915,0 -100.9788815814062,22.13479162585668,0 -100.980597290851,22.13543841066183,0 -100.981457273013,22.13574956198431,0 -100.9836745932937,22.13658252064458,0 -100.9876801957961,22.13812935491833,0 -100.9895009162299,22.13879415233356,0 -100.9908924004789,22.13932614647773,0 -100.9905852612559,22.13998379081619,0 -100.9905016062152,22.14008447650224,0 -100.9907244197468,22.14003985511561,0 -100.9932095010208,22.14096263417336,0 -100.9932994268172,22.14086768782338,0 -100.9935093010284,22.14084247863418,0 -100.9936860049865,22.14072559819725,0 -100.9937848980934,22.14061765405504,0 -100.99512235616,22.14110619104889,0 -100.9949830354334,22.14130554901128,0 -100.9950977717445,22.14174484901872,0 -100.9955376789553,22.14379076982726,0 -100.9957845421327,22.14479839924208,0 -100.9963363991731,22.14733893886984,0 -100.9989447136674,22.14746534100601,0 -100.9991247796187,22.14959602751355,0 -100.9993555763983,22.15224091338867,0 -100.9992690004979,22.15225232111257,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_POLVORIN-OFICINAS MAXCOM</name>
+			<styleUrl>#msn_ylw-pushpin13</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.9963402895621,22.14732435138263,0 -100.9942240391048,22.14733330618115,0 -100.9936867072172,22.14737838685925,0 -100.9926717252161,22.14749941510634,0 -100.991849559529,22.14763217655655,0 -100.9910982428565,22.14777499452135,0 -100.989882055723,22.14802347862417,0 -100.987452629041,22.14847311142039,0 -100.9875129117622,22.14901876189818,0 -100.9877176189624,22.1506334482821,0 -100.9877721810906,22.15105201305874,0 -100.9875855418035,22.1510729900779,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_POP-OFICINAS</name>
+			<styleUrl>#msn_ylw-pushpin13</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.9993552258702,22.15223758512357,0 -100.9995232826124,22.15371031807795,0 -100.9979962773425,22.15375672601986,0 -100.9967472832041,22.15380879963893,0 -100.9948913555764,22.15387980452553,0 -100.9937139038549,22.15391655014791,0 -100.9921333003272,22.15394832467887,0 -100.9911014815601,22.15401729945011,0 -100.9881819319635,22.15416394605554,0 -100.9880923564616,22.15350603252941,0 -100.9880057148623,22.15274792341697,0 -100.9879057596879,22.15203175915277,0 -100.9878578048468,22.15159399736625,0 -100.987773363838,22.15105560185905,0 -100.987575356979,22.15107332392016,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>FO_SITIOMORALES-POPMAXCOM</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-101.016190024382,22.16613777037752,0 -101.0158007608897,22.16559725136677,0 -101.0156196909588,22.16533166213011,0 -101.0159202655448,22.164484613614,0 -101.0160382911653,22.16409656361384,0 -101.0163645219441,22.16413971016757,0 -101.0172433430011,22.16425942240836,0 -101.0175137082856,22.16430596969423,0 -101.0180700593166,22.16450109587853,0 -101.0187048956324,22.16471345595695,0 -101.0197264796773,22.16480645969235,0 -101.0196598528866,22.16458478805649,0 -101.0206686955102,22.16472197374865,0 -101.0207481900093,22.16473144791719,0 -101.0205823511638,22.16371362479413,0 -101.0204620345098,22.16311454310344,0 -101.0203167084343,22.16203961177933,0 -101.0200147887367,22.16028096770101,0 -101.0197831271399,22.15880494985817,0 -101.0197069232045,22.15836315026103,0 -101.0195114831008,22.15737967229448,0 -101.0190930360831,22.15492053883552,0 -101.0195296246056,22.15492416431045,0 -101.019681116264,22.15489298229952,0 -101.0194818757836,22.15438215818319,0 -101.0194619705374,22.15372879470179,0 -101.0183931505302,22.1536132363327,0 -101.0182929198372,22.15409089437353,0 -101.0182775599791,22.15407639209802,0 -101.0170996071416,22.15381819877532,0 -101.0160454477075,22.15355533556064,0 -101.0161516900357,22.15302839718758,0 -101.0153470144431,22.15266283163627,0 -101.0147645960137,22.15235111240044,0 -101.0140566876583,22.15280853503257,0 -101.0140398242099,22.15284346882878,0 -101.0135004361279,22.15143473086992,0 -101.0114977282883,22.15212327995601,0 -101.0097317378204,22.1527200538569,0 -101.0083592582985,22.15315791138277,0 -101.0077494304958,22.15333615223834,0 -101.0076855435516,22.15316657961793,0 -101.0076697578804,22.15239067329693,0 -101.0076666692471,22.15236526768292,0 -101.0068789053336,22.15236667191152,0 -101.0056129688816,22.1523452431055,0 -101.0041013368014,22.1523779471273,0 -101.0027738948921,22.15236747198796,0 -101.0014927163274,22.15237689250398,0 -101.000344759331,22.15247283439655,0 -100.9997954620165,22.15251990594856,0 -100.9994071004548,22.15258063841276,0 -100.999395817703,22.15258171755713,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,185 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>Maxcom Facturacion</title>
+		<script language="javascript" type="text/javascript">
+	if (history.forward(1)){location.replace(history.forward(1));} 
+		</script>
+		<meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+	</HEAD>
+	<body bottomMargin="0" leftMargin="0" rightMargin="0" topMargin="0">
+		<form name="Form1" method="post" action="MaxcomBilling.aspx?elect=0" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwyMjczNTA4NzQ7dDxwPGw8dXJsO2N1ZW50YTtmaWx0cm87ZmFjdHVyYXdlYjtEZXRhbGxlSUJEO3NvcnRlbztUaXBvRmFjOz47bDw7Ozs7Ozs7Pj47bDxpPDE+Oz47bDx0PDtsPGk8MT47aTwzPjtpPDU+Oz47bDx0PHA8cDxsPGZhY3R1cmF3ZWI7VGlwb0ZhYzs+O2w8Ozs+Pjs+Ozs+O3Q8cDxsPHNyYzs+O2w8Oz4+Ozs+O3Q8QDA8Ozs7Ozs7Ozs7Oz47Oz47Pj47Pj47bDxIZWFkZXIxOmltZ2RldGFsbGU7SGVhZGVyMTppbWdTb3J0ZW87SGVhZGVyMTppbWdmYWN0dXJhcjtIZWFkZXIxOmltZ0VsZWN0cm9uaWNhRmFjdHVyYTtIZWFkZXIxOmltZ2FkbWluO0hlYWRlcjE6aW1nQlBhc3M7SGVhZGVyMTppbWdMaXN0YUdhbmFkb3JlcztIZWFkZXIxOmltZ0lCRDtIZWFkZXIxOmltZ0luaWNpbztIZWFkZXIxOmltZ0NlcnJhcjs+Pl6YOEmPUF/SUpkQiW6UTXzktXeD" />
+
+			<TABLE id="Table1" border="0" cellSpacing="1" cellPadding="1" align="center">
+				<tr height="80">
+					<td>
+<HEAD>
+	<title></title>
+	<script language="javascript" type="text/javascript">
+	if (history.forward(1)){location.replace(history.forward(1));} 
+	
+	function AbrirGanadores()
+	{
+		window.open('frmListaGanadores.aspx','Lista de Ganadores', 'width=800, height=450,scrollbars=yes,top=50,left=280, menubar=no, resizable=no');
+		return false;
+	}
+
+	</script>
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta content="Microsoft Visual Studio .NET 7.1" name="GENERATOR">
+	<meta content="C#" name="CODE_LANGUAGE">
+	<meta content="JavaScript" name="vs_defaultClientScript">
+	<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+	<LINK href="CSS/MaxcomNet.css" type="text/css" rel="stylesheet">
+</HEAD>
+<body bottomMargin="0" leftMargin="0" topMargin="0" rightMargin="0">
+	<table id="Header1_tblContenedor" cellspacing="0" cellpadding="0" width="800" align="center" border="0">
+	<tr>
+		<td align="center">
+				<OBJECT codeBase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0"
+					height="100" width="800" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+					<PARAM NAME="_cx" VALUE="21167">
+					<PARAM NAME="_cy" VALUE="2646">
+					<PARAM NAME="FlashVars" VALUE="">
+					<PARAM NAME="Movie" VALUE="..\images\banneriline800x100.swf">
+					<PARAM NAME="Src" VALUE="..\images\banneriline800x100.swf">
+					<PARAM NAME="WMode" VALUE="Window">
+					<PARAM NAME="Play" VALUE="-1">
+					<PARAM NAME="Loop" VALUE="-1">
+					<PARAM NAME="Quality" VALUE="High">
+					<PARAM NAME="SAlign" VALUE="">
+					<PARAM NAME="Menu" VALUE="-1">
+					<PARAM NAME="Base" VALUE="">
+					<PARAM NAME="AllowScriptAccess" VALUE="">
+					<PARAM NAME="Scale" VALUE="ShowAll">
+					<PARAM NAME="DeviceFont" VALUE="0">
+					<PARAM NAME="EmbedMovie" VALUE="0">
+					<PARAM NAME="BGColor" VALUE="">
+					<PARAM NAME="SWRemote" VALUE="">
+					<PARAM NAME="MovieData" VALUE="">
+					<PARAM NAME="SeamlessTabbing" VALUE="1">
+					<PARAM NAME="Profile" VALUE="0">
+					<PARAM NAME="ProfileAddress" VALUE="">
+					<PARAM NAME="ProfilePort" VALUE="0">
+					<PARAM NAME="AllowNetworking" VALUE="all">
+					<PARAM NAME="AllowFullScreen" VALUE="false">
+					<embed src="C:\banneriline.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer"
+						type="application/x-shockwave-flash" width="800" height="100"> </embed>
+				</OBJECT>
+			</td>
+	</tr>
+	<tr height="20">
+	</tr>
+</table>
+
+	<table id="tblDatos" cellSpacing="0" cellPadding="0" width="800" align="center" border="0">
+		<TBODY>
+			<tr>
+				<td width="100"></td>
+				<td align="center" width="100"><input type="image" name="Header1:imgdetalle" id="Header1_imgdetalle" src="../images/factura1.jpg" alt="Detalle de Factura" align="Top" border="0" />
+					<div id="Header1_divDetalleFactura" style="HEIGHT: 15px" ms_positioning="FlowLayout"><FONT face="Arial" size="1">Detalle 
+							de Factura</FONT>
+					</div>
+				</td>
+				<td align="center" width="100"><font face="Arial" size="1">
+						<p></p>
+						<input type="image" name="Header1:imgSorteo" id="Header1_imgSorteo" src="../images/sorteo.gif" alt="Sorteo Lealtad" align="Top" border="0" />
+						<div id="Header1_divSorteo" style="DISPLAY: inline; WIDTH: 70px; HEIGHT: 15px" ms_positioning="FlowLayout"><font face="Arial" size="1">Sorteo<br>Lealtad</div>
+					</font></FONT></td>
+				<TD align="center" width="100"><input type="image" name="Header1:imgfacturar" id="Header1_imgfacturar" src="../images/facturaenlinea.jpg" alt="Facturacion a traves de este portal" align="Top" border="0" />
+					<div id="Header1_divFactura" style="DISPLAY: inline; WIDTH: 70px; HEIGHT: 15px" ms_positioning="FlowLayout">
+						<P><FONT face="Arial" size="1">Factura en Línea</FONT></P>
+					</div>
+				</TD>
+				<td align="center" width="100"><input type="image" name="Header1:imgElectronicaFactura" id="Header1_imgElectronicaFactura" src="../images/facturaenlinea.jpg" alt="Facturacion electrónica traves de este portal" align="Top" border="0" />
+					<div style="DISPLAY: inline; WIDTH: 70px; HEIGHT: 15px" ms_positioning="FlowLayout">
+						<P><FONT face="Arial" size="1">Factura Electrónica</FONT></P>
+					</div>
+				</td>
+				<td align="center" width="100"><input type="image" name="Header1:imgadmin" id="Header1_imgadmin" src="../images/admincuenta.jpg" alt="Revise o modifique sus datos" align="Top" border="0" />
+					<DIV style="DISPLAY: inline; WIDTH: 70px; HEIGHT: 15px" ms_positioning="FlowLayout">
+						<P><FONT face="Arial" size="1">Administrar Cuenta</FONT></P>
+					</DIV>
+				</td>
+				<TD align="center" width="100"><input type="image" name="Header1:imgBPass" id="Header1_imgBPass" src="../images/candado2tz0qv8.gif" alt="Cambiar Contraseña" align="Top" border="0" />
+					<DIV style="DISPLAY: inline; WIDTH: 70px; HEIGHT: 15px" ms_positioning="FlowLayout">
+						<P><FONT face="Arial" size="1">Cambiar Contraseña</FONT></P>
+					</DIV>
+				</TD>
+				<TD vAlign="middle" align="center" width="100">
+					<P><FONT face="Arial" size="1"><input type="image" name="Header1:imgListaGanadores" id="Header1_imgListaGanadores" src="../images/ListaGanadores.jpg" alt="Consulta la lista de ganadores" align="Top" border="0" /></FONT></P>
+				</TD>
+				<td vAlign="middle" align="center" width="100"><input type="image" name="Header1:imgIBD" id="Header1_imgIBD" src="../images/anchobanda.bmp" alt="Consumo Ancho de Banda" align="Top" border="0" />
+					<div id="Header1_divDetalleIBD" style="DISPLAY: inline; WIDTH: 70px; HEIGHT: 15px" ms_positioning="FlowLayout"><font face="Arial" size="1">Consumo&nbsp; Detallado </font>
+					</div>
+				</td>
+				<td align="center" width="100">
+					<div id="Header1_divAltaTT" style="VISIBILITY: hidden" ms_positioning="FlowLayout">
+						<div id="Header1_Div1" style="VISIBILITY: hidden" ms_positioning="FlowLayout"><font face="Arial" size="1">Alta&nbsp; 
+								de&nbsp; Ticket </font>
+						</div>
+					</div>
+				</td>
+				<td align="left" width="100">
+					<table cellSpacing="0" cellPadding="0" width="120" align="center" border="0">
+						<tr>
+							<td style="WIDTH: 126px"><input type="image" name="Header1:imgInicio" id="Header1_imgInicio" src="../images/inicio.bmp" alt="" border="0" />&nbsp;
+								<div style="DISPLAY: inline; WIDTH: 70px; HEIGHT: 23px" ms_positioning="FlowLayout"><font face="Arial Baltic" size="1"><strong>Inicio</strong></font></div>
+							</td>
+						</tr>
+						<tr>
+							<td style="WIDTH: 126px"><input type="image" name="Header1:imgCerrar" id="Header1_imgCerrar" src="../images/cerrar.bmp" alt="" border="0" />&nbsp;
+								<div style="DISPLAY: inline; WIDTH: 76px; HEIGHT: 18px" ms_positioning="FlowLayout"><font face="Arial Baltic" size="1"><strong>Cerrar 
+											Sesion</strong></font></div>
+							</td>
+						</tr>
+						<tr>
+							<td style="WIDTH: 126px"></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</TBODY>
+	</table>
+	</FONT>
+	<P></P>
+	</TD></TR></TBODY></TABLE>
+</body>
+</td>
+				</tr>
+				<TR>
+					<TD align="center"></TD>
+				<TR>
+					<TD>
+						<fieldset><iframe id="ifrBillingContent" style="Z-INDEX: 0; OVERFLOW: visible" tabIndex="1" height="1200" frameBorder="no" width="900" align="middle"></iframe>
+						</fieldset>
+						<DIV align="center">
+							<table style="TEXT-ALIGN: center">
+								<TR>
+									<TD bgColor="#cc000b"><FONT style="WIDTH: 377px; FONT-FAMILY: Verdana; HEIGHT: 20px; COLOR: white; FONT-SIZE: 13px; FONT-WEIGHT: bold"
+											color="#ffffff">FACTURA EN LÍNEA</FONT></TD>
+								</TR>
+								<TR>
+									<TD></TD>
+								</TR>
+								<tr>
+									<td></td>
+								</tr>
+							</table>
+						</DIV>
+					</TD>
+				</TR>
+			</TABLE>
+			<P></P>
+		<script> languaje='javascript'>
+alert('Error en la carga de la formaObject reference not set to an instance of an object.')</script>
+
+</form>
+	</body>
+</HTML>

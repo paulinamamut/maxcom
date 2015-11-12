@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+html, body{font-family:'Maven Pro', sans-serif; color:#808387; margin:0; padding:0; font-size:14px}
+h1{font-size:2.8em; font-weight:normal; width:555px; text-transform:uppercase; color:#535456; margin:165px 60px;}
+#wrapper{width:1200px; margin:0 auto}
+#header{width: 1200px; height:515px; display: inline-block;}
+#header a{background: url(../images/maxcom-business.png) no-repeat; width:180px; height:106px; font-size:0; text-indent:-9999px;   display: block; margin:20px}
+.a{background:url(../images/header-a.jpg) no-repeat;}
+.b{background:url(../images/header-b.jpg) no-repeat;}
+.c{background:url(../images/header-c.jpg) no-repeat;}
+
+.text{font-size:1.7em; width:1000px; display:block; margin:20px auto}
+#conten ul{margin:0 auto; list-style: none}
+#content li{ height:300px; display:inline-block; text-align: center; background:url(../images/conectividad.png) no-repeat center top; margin: 20px; border:4px solid #939597; margin:0 30px; -webkit-border-radius: 15px; -moz-border-radius: 15px; border-radius: 15px;}
+#content li + li{background:url(../images/comunicacion.png) no-repeat center top}
+#content li + li + li{background:url(../images/compartidas.png) no-repeat center top}
+#content li h2{color:#009fdc;   margin: 100px 0 0 0; font-size: 1.6em;}
+#content li + li h2{color:#f1672a}
+#content li + li + li h2{color:#e91d76}
+#content li a:hover, #content li a:link, #content li a:visited, #content li a:active {color:#808387; }
+.capitalize{font-weight:bold; font-size:1.03em; display:block}
+
+<!---------------FORMULARIO-------------------->
+#formulario{width:45%; float:left; display:block}
+form{width:510px; padding:44px;}
+label{display:inline-block; width:44%; margin:10px 2%;}
+input, select{display:block; width:100%; box-sizing:border-box;}
+label.first{width:48%;}
+label.third{width:29.333%;}
+label.rfc input{display:inline-block; width:30%;}
+.obligatorio:after{content:'*'; display:inline; float:left;}

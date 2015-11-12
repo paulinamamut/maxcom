@@ -1,0 +1,43 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Typography
+
+Helpful Articles:
+http://trentwalton.com/2012/06/19/fluid-type/
+http://ia.net/blog/responsive-typography-the-basics/
+http://alistapart.com/column/responsive-typography-is-a-physical-discipline
+
+******************************************************************/
+
+/************MAVEN PRO FONT**************/
+
+@import url(http://fonts.googleapis.com/css?family=Maven+Pro:500,400);
+
+/**END IMPORT GOOGLE FONT**/
+
+/*
+The following is based of Typebase:
+https://github.com/devinhunt/typebase.css
+I've edited it a bit, but it's a nice starting point.
+*/
+
+
+// font stacks
+$sans-serif:        "Helvetica Neue", Helvetica, Arial, sans-serif;
+$serif:             "Georgia", Cambria, Times New Roman, Times, serif;
+
+/*
+ i imported this one in the functions file so bones would look sweet.
+ don't forget to remove it for your site.
+*/
+$general-font : 'Maven Pro';
+
+
+p{
+       -webkit-hyphens: none;
+       -epub-hyphens:   none;
+       -moz-hyphens:    none;
+       hyphens:         none;
+}

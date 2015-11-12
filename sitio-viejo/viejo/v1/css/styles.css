@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+/*----Layout general----*/
+body{width:100%; height:100%; margin:0; background:#ca0040; font-size:14px; font-family:'Gotham Narrow SSm A', 'Gotham Narrow SSm B'}
+header, #header{height:130px;}
+#slider{top:130px; bottom:130px; background:salmon;}
+footer, #footer{padding:0 20px 20px; height:110px; bottom:0;}
+header, #header, #slider, footer, #footer{position:absolute; left:0; right:0;}
+header, #header{padding:20px;}
+
+/*----Layout header----*/
+header img, #header img{float:left;}
+#login_a{float:right; padding:8px 30px 0 8px; background:url(../img/login.png) no-repeat right center;}
+
+/*----Layout de navegación---*/
+#main_nav{margin:0 auto 30px; width:400px; text-align: center; display:block; clear:both; overflow:auto; text-indent:0}
+nav li, #nav li, .nav li{display:inline-block; list-style: none; margin:0 10px;}
+li#main_items{display:block; float:none; font-size:2em; margin:0;}
+
+/*----Layout de slider----*/
+.slide_control{position:absolute; top:50%; margin:-32px 10px 0; width:40px; height:64px; border:none;}
+#prev{left:0; background:url(../img/prev.png) no-repeat center center;}
+#next{right:0; background:url(../img/next.png) no-repeat center center;}
+.slide{width:100%; height:100%; margin:0 auto; text-align:center; background:teal; }
+.slide:before{content:''; display:inline-block; height:100%; vertical-align: middle;}
+.card{width:506px; margin:0 auto; display:inline-block; text-align: left; vertical-align: middle;}
+.bg{height:286px; background:#FFF; padding:20px 40px;}
+#slide_control{position:absolute; top:0; right:20px;}
+#slide_control li{margin:0 2px;}
+#slide_control a{text-indent:-9999px; display:inline-block; width:12px; height:12px; background:url(../img/slide_control.png)}
+.card img{margin:60px 0 0;}
+.card .btn-sombra{float:right;}
+.btn-sombra{background:url(../img/btn-sombra.png) no-repeat; color:#000; padding:10px 80px 20px 70px;}
+.btn-sombra:hover{background:url(../img/btn-sombra-h.png) no-repeat; color:#FFF;}
+
+/*----Layout del footer----*/
+#footer p, footer p, #legal, #social{font-size:0.8em; color:#FFF; display:inline-block; vertical-align: bottom;}
+#footer p, footer p{text-align:center; margin:0; width:24%;}
+#social a{display:block; width:30px; height: 30px; text-indent:-9999px;}
+#legal, #social{width:38%;}
+#social{text-align: right;}
+#social li{text-align: left;}
+#legal{min-width:390px}
+#legal li{margin:0 2%;}
+#tw{background: url(../img/tw.png);}
+#fb{background: url(../img/fb.png);}
+#yt{background: url(../img/yt.png);}
+
+/*----Styling general----*/
+nav ul, #nav ul, li{padding:0; margin:0;}
+a, button{cursor:pointer;}
+a{color:#FFF; text-decoration:none;}
+h1, h2, h3, h4{margin-top:0; color:#a8133e;}
+
+
+@media all and (max-width:992px){
+	/*-----------footer----------------*/
+	#footer p, footer p{width:100%; margin:2% 0}
+	footer {padding:0}
+	#social{width:100%}
+	#social {text-align:center; margin:2% 0}
+	#legal {width:100%}
+	#legal li{margin:0 4%}
+}
+
+@media all and (max-width:480px) {
+	/*-----------slider----------------*/
+	.card{width:98%}
+	.card img{width:100%}
+	
+	/*-------------navegación------------------*/
+	#main_nav{text-indent:-9999px; background:url(../img/menu.png) no-repeat}
+	
+	/*-----------footer----------------*/
+	#footer p, footer p{width:100%; margin:2% 0}
+	footer {padding:0}
+	#social{width:100%}
+	#social {text-align:center; margin:2% 0}
+	#legal {width:100%}
+	#legal li{margin:0 4%}
+	
+}

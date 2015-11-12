@@ -1,0 +1,1042 @@
+body
+{
+	background-attachment: fixed;
+	background-image: url("http://www.admon.maxcom.com/RegistroOnline/CSS/images/fondointerna.jpg");
+	background-color: transparent;
+	color:#191919;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+.Encabezado1
+{
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 8pt;
+	COLOR: black;
+	FONT-FAMILY: Verdana;
+}
+.Encabezado3
+{
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 8pt;
+	COLOR: white;
+	FONT-FAMILY: Verdana;
+}
+.Encabezado2
+{
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 11pt;
+	COLOR: black;
+	FONT-FAMILY: Verdana;
+	}
+
+.EstiloPagina
+{
+	background-attachment: fixed;
+	background-image: url("http://www.admon.maxcom.com/RegistroOnline/CSS/images/fondointerna.jpg");
+	background-color: transparent;
+}
+.Localizacion
+{
+	font-weight: bold;
+	font-size: 12px;
+	background-attachment: fixed;
+	background-image: url("http://www.admon.maxcom.com/RegistroOnline/CSS/images/fondointerna.jpg");
+	color: black;
+	font-family: Verdana, Georgia;
+	background-color: transparent;
+}
+.AppNombre
+{
+	font-weight: normal;
+	font-size: 20px;
+	vertical-align: middle;
+	color: black;
+	font-family: Verdana, Georgia;
+	background-color: transparent;
+	text-align: center;
+}
+.RowModulo
+{
+	border-top: #cc000b solid;
+	font-weight: normal;
+	font-size: 20px;
+	background-image: url("http://www.admon.maxcom.com/RegistroOnline/CSS/images/texturageneral.jpg");
+	vertical-align: middle;
+	color: black;
+	font-family: Verdana, Georgia;
+	background-color: transparent;
+	text-align: center;
+}
+.tblModulos
+{
+	border-top: #cc000b solid;
+	font-weight: normal;
+	background-image: url("http://www.admon.maxcom.com/RegistroOnline/CSS/images/texturageneral.jpg");
+	color: black;
+	border-bottom: #cc000b thin solid;
+	background-color: transparent;
+}
+.textoHeader
+{
+	font-size: 10px;
+	text-transform: capitalize;
+	color: white;
+	font-family: Verdana, Georgia;
+	text-align: center;
+	text-decoration: none;	
+}
+.tablaHeader
+{
+	text-transform: capitalize;
+	color: white;
+	font-family: Verdana, Georgia;
+	text-align: center;
+	text-decoration: none;
+	font-size: 8pt;
+}
+.tablaHeaderLink
+{
+	text-transform: capitalize;
+	color: white;
+	font-family: Verdana, Georgia;
+	text-align: center;
+	text-decoration: none;
+	font-size: 8pt;
+}
+.Aplicacion
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: black;
+	font-family: Verdana, Georgia;
+	background-color: #ffffff;
+	text-align: center;
+	text-decoration: none;
+}
+.ImageAplicacion
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: black;
+	border-top-style: none;
+	font-family: Verdana, Georgia;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: transparent;
+	text-align: center;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+.LinkAplicacion
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: black;
+	font-family: Verdana, Georgia;
+	background-color: #ffffff;
+	text-align: center;
+	text-decoration: none;
+}
+.ImageLinkAplicacion
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: black;
+	border-top-style: none;
+	font-family: Verdana, Georgia;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: transparent;
+	text-align: center;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+.AplicacionSeleccionada
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: white;
+	font-family: Verdana, Georgia;
+	background-color: #cc000b;
+	text-align: center;
+	text-decoration: none;
+	border-right: #ffffff thin solid;
+	border-top: #ffffff thin solid;
+	border-left: #ffffff thin solid;
+	border-bottom: #ffffff thin solid;
+}
+.ImageAplicacionSeleccionada
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: white;
+	font-family: Verdana, Georgia;
+	background-color: #cc000b;
+	text-align: center;
+	text-decoration: none;
+	border-right: #ffffff thin solid;
+	border-top: #ffffff thin solid;
+	border-left: #ffffff thin solid;
+	border-bottom: #ffffff thin solid;
+}
+.LinkAplicacionSeleccionada
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: white;
+	font-family: Verdana, Georgia;
+	background-color: #cc000b;
+	text-align: center;
+	text-decoration: none;
+}
+.ImageLinkAplicacionSeleccionada
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: white;
+	border-top-style: none;
+	font-family: Verdana, Georgia;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: #cc000b;
+	text-align: center;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+.txtAplicacion
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: black;
+	font-family: Verdana, Georgia;
+	background-color: #ffffff;
+	text-align: center;
+	text-decoration: none;
+}
+.Modulo
+{
+	font-weight: bold;
+	font-size: 12px;
+	background-image: url("http://www.admon.maxcom.com/RegistroOnline/CSS/images/tab.GIF");
+	text-transform: capitalize;
+	color: transparent;
+	font-family: Verdana, Georgia;
+	background-color: transparent;
+	text-align: center;
+	text-decoration: none;
+	border-right: #cc000b thin solid;
+}
+.ImageModulo
+{
+	font-weight: bold;
+	font-size: 12px;
+	background-image: url("http://www.admon.maxcom.com/RegistroOnline/CSS/images/texturageneral.jpg");
+	text-transform: capitalize;
+	color: black;
+	border-top-style: none;
+	font-family: Verdana, Georgia;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: transparent;
+	text-align: center;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+.LinkModulo
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: white;
+	font-family: Verdana, Georgia;
+	background-color: transparent;
+	text-align: center;
+	text-decoration: none;
+}
+.ImageLinkModulo
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: white;
+	border-top-style: none;
+	font-family: Verdana, Georgia;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: transparent;
+	text-align: center;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+.ModuloSeleccionado
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	background-image: url("http://www.admon.maxcom.com/RegistroOnline/CSS/images/tabsel.GIF");
+	color: transparent;
+	font-family: Verdana, Georgia;
+	background-color: transparent;
+	text-align: center;
+	text-decoration: none;
+}
+.ImageModuloSeleccionado
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: white;
+	border-top-style: none;
+	font-family: Verdana, Georgia;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: #cc000b;
+	text-align: center;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+.LinkModuloSeleccionado
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: white;
+	font-family: Verdana, Georgia;
+	background-color: #cc000b;
+	text-align: center;
+	text-decoration: none;
+}
+.ImageLinkModuloSeleccionado
+{
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: white;
+	border-top-style: none;
+	font-family: Verdana, Georgia;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: #cc000b;
+	text-align: center;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+.OpcionMenuApp
+{
+	border-right: #000000 thin solid;
+	padding-right: 2px;
+	background-position: center center;
+	border-top: #000000 thin solid;
+	padding-left: 2px;
+	font-size: 11px;
+	padding-bottom: 1px;
+	text-transform: capitalize;
+	border-left: #000000 thin solid;
+	color: white;
+	padding-top: 1px;
+	border-bottom: #000000 thin solid;
+	background-repeat: no-repeat;
+	font-family: Verdana, Georgia;
+	background-color: #ffffff;
+	text-align: center;
+	text-decoration: none;
+}
+.ImageOpcionMenuApp
+{
+	background-position: center center;
+	font-size: 11px;
+	text-transform: capitalize;
+	color: white;
+	border-top-style: none;
+	background-repeat: no-repeat;
+	font-family: Verdana, Georgia;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: transparent;
+	text-align: center;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+.LinkOpcionMenuApp
+{
+	background-position: center center;
+	font-size: 10px;
+	text-transform: capitalize;
+	color: black;
+	background-repeat: no-repeat;
+	background-color: #ffffff;
+	font-family: Verdana, Georgia;
+	text-align: center;
+	text-decoration: none;
+}
+.ImageLinkOpcionMenuApp
+{
+	background-position: center center;
+	font-size: 10px;
+	text-transform: capitalize;
+	color: black;
+	border-top-style: none;
+	background-repeat: no-repeat;
+	font-family: Verdana, Georgia;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: transparent;
+	text-align: center;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+.OpcionMenuAppSeleccionada
+{
+	padding-right: 2px;
+	background-position: center center;
+	padding-left: 2px;
+	font-size: 11px;
+	padding-bottom: 1px;
+	text-transform: capitalize;
+	color: black;
+	padding-top: 1px;
+	background-repeat: no-repeat;
+	font-family: Verdana, Georgia;
+	background-color: #cc000b;
+	text-align: center;
+	text-decoration: none;
+}
+.ImageOpcionMenuAppSeleccionada
+{
+	background-position: center center;
+	font-size: 11px;
+	text-transform: capitalize;
+	color: black;
+	background-repeat: no-repeat;
+	font-family: Verdana, Georgia;
+	background-color: transparent;
+	text-align: center;
+	text-decoration: none;
+}
+.LinkOpcionMenuAppSeleccionada
+{
+	background-position: center center;
+	font-size: 10px;
+	text-transform: capitalize;
+	color: white;
+	background-repeat: no-repeat;
+	background-color: #cc000b;
+	font-family: Verdana, Georgia;
+	text-align: center;
+	text-decoration: none;
+}
+.ImageLinkOpcionMenuAppSeleccionada
+{
+	background-position: center center;
+	font-size: 10px;
+	text-transform: capitalize;
+	color: white;
+	border-top-style: none;
+	background-repeat: no-repeat;
+	font-family: Verdana, Georgia;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: #cc000b;
+	text-align: center;
+	text-decoration: none;
+	border-bottom-style: none;
+}
+.BarraIzquierda
+{
+	background-image: url("http://www.admon.maxcom.com/RegistroOnline/CSS/images/texturageneral.jpg");
+	background-color: transparent;
+}
+.header
+{
+	font-weight: bold;
+	font-size: 14px;
+	text-transform: none;
+	color: white;
+	font-family: Verdana, Georgia;
+	background-color: #cc000b;
+	text-align: center;
+	background: url("http://www.admon.maxcom.com/RegistroOnline/Images/HeaderBack1.JPG") #cc000b;
+}
+
+.headerLarge
+{
+	font-weight: bold;
+	font-size: 14px;
+	text-transform: none;
+	color: white;
+	font-family: Verdana, Georgia;
+	background-color: #cc000b;
+	text-align: center;
+	background: url("http://www.admon.maxcom.com/ArborSAP/Images/HeaderBack2.JPG") #cc000b;
+
+}
+.Link
+{
+	font-size: 8pt;
+	font-family: Verdana, Georgia;
+}
+.Etiqueta
+{
+	font-size: 8pt;
+	color: black;
+	font-weight: normal;
+	text-align: left;
+	font-family:  Verdana, Georgia;
+}
+
+.EtiquetaSmall
+{
+	font-weight: normal;
+	font-size: 8px;
+	font-family: Verdana, Arial;
+}
+
+.EtiquetaDer
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+}
+
+
+.EncabezadoTabla
+{
+	font-weight: bold;
+	font-size: small;
+	vertical-align: baseline;
+	overflow: auto;
+	text-transform: uppercase;
+	color: white;
+	font-family: Verdana, Georgia;
+	background-color: #cc000b;
+	text-align: center;
+}
+.EncabezadoGrid
+{
+	font-weight: bold;
+	font-size: 10pt;
+	vertical-align:middle;
+	overflow: auto;
+	text-transform: capitalize;
+	color: white;
+	font-family: Verdana, Georgia;
+	background-color: #cc000b;
+	text-align: center;
+}
+.Resultado
+{
+	font-weight: bold;
+	font-size: 10pt;
+	font-family: Verdana;
+}
+
+.Numero3
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: White;
+	width: 30px;
+}
+.Numero3D
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: ffffcc;
+	width: 30px;
+}
+.Numero6
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: White;
+	width: 60px;
+}
+.Numero6D
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: ffffcc;
+	width: 60px;
+}
+.Numero9
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: White;
+	width: 90px;
+}
+.Numero9D
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: ffffcc;
+	width: 90px;
+}
+.Numero10
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: White;
+	width: 100px;
+}
+
+.Numero10Center
+{
+	font-size: 8pt;
+	color: black;
+	text-align: Center;
+	font-family: Verdana, Georgia;
+	background-color: White;
+	width: 100px;
+}
+
+.Numero10D
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: ffffcc;
+	width: 100px;
+}
+.NumeroCenter
+{
+	font-size: 8pt;
+	color: black;
+	text-align: center;
+	font-family: Verdana, Georgia;
+	background-color: ffffcc;
+	width: 100px;
+}
+.Texto
+{
+	font-size: 8pt;
+	color: black;
+	text-align: left;
+	font-family: Verdana, Georgia;
+	background-color: White;
+}
+.Textogris
+{
+	font-size: 8pt;
+	color: #999999;
+	font-weight:bold;
+	text-align: left;
+	font-family: Arial, Verdana, Georgia;
+	background-color: White;
+}
+.TextoAlterno
+{
+	font-size: 8pt;
+	color: black;
+	text-align: left;
+	font-family: Verdana, Georgia;
+	background-color: #FFE0E0;
+}
+
+.TextoAgrupar
+{
+	font-size: 8pt;
+	color: black;
+	text-align: left;
+	font-family: Verdana, Georgia;
+	border-right: #999999 1px solid;
+	border-left: #999999 1px solid;
+	border-bottom: #999999 1px  solid;
+	
+	
+}
+.TextoD
+{
+	font-size: 8pt;
+	color: black;
+	text-align: left;
+	font-family: Verdana, Georgia;
+	background-color: #ffffcc;
+}
+.TextoCenter
+{
+	font-size: 8pt;
+	color: black;
+	text-align: center;
+	font-family: Verdana, Georgia;
+	background-color: #ffffcc;
+}
+.Texto25
+{
+	font-size: 8pt;
+	color: black;
+	text-align: left;
+	font-family: Verdana, Georgia;
+	background-color: White;
+	width: 250px;
+}
+.Texto25D
+{
+	font-size: 8pt;
+	color: black;
+	font-family: Verdana, Georgia;
+	background-color: #ffffcc;
+	width: 250px;
+}
+
+.TextoTitulo
+{
+	font-size: 14pt;
+	color: black;
+	font-family: Verdana, Georgia;
+	background-color:White;
+	
+}
+.Fecha
+{
+	font-size: 8pt;
+	color: black;
+	text-align: center;
+	font-family: Verdana, Georgia;
+	background-color: White;
+	width: 80px	;	
+}
+.FechaD
+{
+	font-size: 8pt;
+	color: black;
+	text-align: center;
+	font-family: Verdana, Georgia;
+	background-color: #ffffcc;
+	width: 80px;
+}
+.FechaHora
+{
+	font-size: 8pt;
+	color: black;
+	text-align: left;
+	font-family: Verdana, Georgia;
+	background-color: White;
+	width: 160px;
+}
+.FechaHoraD
+{
+	font-size: 8pt;
+	color: black;
+	text-align: left;
+	font-family: Verdana, Georgia;
+	background-color: #ffffcc;
+	width: 160px;
+}
+.Moneda
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: White;
+	width: 110px;
+}
+.MonedaD
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: #ffffcc;
+	width: 110px;
+}
+
+/**********************************************/
+/* Ces@r                                      */
+/**********************************************/
+.boton
+{
+	font-family: Verdana,Arial, Lucida Sans Arial;
+	font-size: 8pt;
+	width: 100px;
+	
+	/*
+	background-color: Gray ;
+	font-size: x-small;
+	color:White;	
+	*/
+}
+
+/* Estilos para los DataGrids */
+.Combo
+{
+	font-size: 8pt;
+	color: black;	
+	font-family: Arial, Verdana, Georgia;	
+	background-color:#ffffff;
+}
+
+.ComboColumns
+{
+	font-size: 8pt;
+	color: black;
+	font-family:Courier, Courier New;
+	background-color: #ffffff;
+}
+
+.CajasTexto
+{
+	font-size: 8pt;
+	color: black;	
+	font-family: Arial, Verdana, Georgia;	
+	text-transform:uppercase;
+	background-color:#ffffff;
+	border: 1px solid #000000; 
+}
+
+.CajaTexto
+{
+	font-size: 8pt;
+	color: black;
+	text-align: left;
+	font-family: Verdana, Georgia;
+	background-color: White;
+	border: 1px solid #000000; 
+	
+}
+
+.CajaTextoDeshabilitada
+{
+	font-size: 8pt;
+	font-family: Verdana, Georgia;
+	background-color: #ffffcc;
+	border: 1px solid #000000; 
+	
+}
+
+.CajaNumero
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: White;
+	border: 1px solid #000000; 
+	
+}
+
+.CajaNumeroDeshabilitada
+{
+	font-size: 8pt;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: #ffffcc;
+	border: 1px solid #000000; 
+	
+}
+
+.Numero
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: White;
+	border: 1px solid #000000; 
+		
+}
+
+.NumeroD
+{
+	font-size: 8pt;
+	color: black;
+	text-align: right;
+	font-family: Verdana, Georgia;
+	background-color: ffffcc;
+	border: 1px solid #000000; 
+	
+}
+
+
+
+
+
+.DataGrid 
+{ 
+	border-style:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:8pt;
+}
+
+.DataGridHeader
+{
+	/*ESTAS 2 LINEAS PERMITEN QUE EL EL ENCABEZADO DEL GRID SE QUEDE ESTATICO*/  
+    /*POSITION: relative; 
+    TOP: expression(this.offsetParent.scrollTop);   */
+    
+	font-weight: bold;
+	font-size: 11px;
+	text-transform: none;
+	/*FONT-VARIANT: small-caps;	*/
+	color: white;
+	font-family: Verdana, Georgia;
+	text-align: center;		
+	background: url("http://www.admon.maxcom.com/RegistroOnline/Images/HeaderBack2.JPG") #cc000b;
+	
+
+}
+.DataGridFooter
+{
+	font-weight: bold;
+	font-size: 8px;
+	text-transform: none;
+	color: white;
+	font-family: Verdana, Georgia;
+	text-align: center;		
+	background: url("http://www.admon.maxcom.com/RegistroOnline/Images/HeaderBack2.JPG") #cc000b;
+	
+
+}
+
+
+.DataGridItem
+{
+	font-size: 8pt;
+	color: black;
+	font-family:  Verdana, Georgia;
+	background-color: #FFFFFF;	
+}
+
+.DataGridAlternatingItem
+{
+	font-size: 8pt;
+	color: black;
+	font-family:  Verdana, Georgia;
+
+	background-color: WhiteSmoke;
+}
+
+.DataGridSelectedItem
+{
+	font-weight: bold;
+	font-size: 8pt;
+	color: white;
+	font-family: Verdana, Georgia;
+	background-color: #0066ff;
+}
+
+.DataGridScroll
+{
+	border-collapse:collapse;
+	border-style:solid;
+	border-color:Black;
+/*	
+	scrollbar-face-color: #CEDFFA; 
+    scrollbar-highlight-color: #ECF5FD;
+    scrollbar-shadow-color: #CEDFFA;
+    scrollbar-3dlight-color: #A7C4F6;
+    scrollbar-arrow-color:  #6A8CCB;
+    scrollbar-track-color: #ECF5FD;
+    scrollbar-darkshadow-color: #6A8CCB;
+*/
+}
+
+.FieldsetLegend
+{
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 10px; 
+	FONT-FAMILY: Verdana, Arial; 
+	FONT-VARIANT: small-caps;
+	color:#cc000b;
+	
+		
+}
+.ErrorMessage
+{
+	font-size: 9pt;
+	color: #cc000b;
+	font-weight:bold;
+	text-align: left;
+	font-family: Verdana, Georgia;
+}
+
+.DivScrollMessages
+{
+	overflow-y: scroll;
+	border-width:thin;
+	border-style:solid;
+	border-color:#ece9d8;	
+}
+
+
+/*----------------REDISEÑO----------------*/
+/*input[type=image], img, #tblDatos td + td, #tblDatos td + td + td, #tblDatos td + td + td + td {display:none}
+#tblDatos td + td + td + td + td p, #tblDatos td + td + td + td +td + td p{width:90px}
+#tblDatos td + td + td + td + td, #tblDatos td + td + td + td + td + td, #tblDatos td + td + td + td + td + td + td{display:block}
+#tblDatos td + td + td + td + td{background:url(../images/facturaenlinea.png) no-repeat top center;}
+#tblDatos td + td + td + td +td + td{background:url(../images/admincuenta.png) no-repeat top center;}
+#tblDatos td + td + td + td +td + td + td{background:url(../images/contrasena.png) no-repeat top center;}
+#tblDatos td + td + td + td + td, #tblDatos td + td + td + td + td + td, #tblDatos td + td + td + td + td + td + td {font-weight:bold; color:#a8133e;}
+#tblDatos td + td + td + td + td + td + td + td, #Table1 table table tr + tr + tr {background:none}
+#Table1 table table tr {background:url(../images/inicio.png) no-repeat top left; height:50px; width:500px;}
+#Table1 table table tr + tr {background:url(../images/cerrar.png) no-repeat top left; color:#a8133e; height:45px}
+#Table1 table table tr font {margin:50px; font-family:Verdana, Geneva, sans-serif; color:#a8133e;}
+#tblDatos tr + tr font{margin:50px; font-family:Verdana, Geneva, sans-serif; color:#a8133e; align:right; font-size:10px;}
+#tblDatos table{width:200px}
+table table table{border-color:#FFF;}
+table table table tr {background:#a8a8a8; height:60px; font-size:12px; font-weight:bold}
+table table table tr + tr {background:#e6e6e6; height:60px; font-size:12px; font-weight:normal}
+.Texto{width:500px}
+.Encabezado1{color:#a8133e; font-size:14px; font-weight:bold}*/
+body:before{content:''; display:block; min-width:860px; width:100%; height:120px; background:#cc0040 url(../images/logo.png) no-repeat 30px 20px;}
+table{width:860px; margin:0 auto;}
+table table, td{ width:auto !important; max-width:800px !important; margin:0;}
+td{padding:6px !important;}
+input[type=image]{width:45px; height:45px; vertical-align:top;}
+p{margin:0;}
+select{width:180px;}
+/*#Header1_imgListaGanadores{padding:0 0 22px;}*/
+#tblDatos{text-align:center;}
+#tblDatos td{padding:0 10px; vertical-align: top; position:relative;}
+#tblDatos input[type=image]{opacity:0;}
+#tblDatos td{width:auto !important;}
+#tblDatos td:before{content:''; display:block; width:45px; height:45px; position:absolute; top:0; left:50%; z-index:-1; margin-left:-22px;}
+#tblDatos table td:before{left:0; margin:0 10px; background:cornflowerblue;}
+
+#tblContenedor + #tblDatos td + td{text-align: right; }
+#rdbSexo{float:right;}
+#rdbSexo td:before{content:none;}
+
+td[bgcolor="#cc000b"]{background:none; color:#a8133e !important; padding:20px !important; font-size:2em !important; text-align:left;}
+
+/*-----Facturación sin banner lateral------*/
+object{display:none;}
+#Table1 + table td{width:auto !important;}
+#Table1 + table td + td{width:0 !important;}
+
+/*----------------Íconos-------------------*/
+#tblDatos td + td + td + td + td:before{background:url(../images/facturaenlinea.png);}
+#tblDatos td + td + td + td + td + td:before{background:url(../images/admincuenta.png);}
+#tblDatos td + td + td + td + td + td + td:before{background:url(../images/contrasena.png);}
+#tblDatos td + td + td + td + td + td + td + td:before{background:url(../images/lista-ganadores.png);}
+#tblDatos td + td + td + td + td + td + td + td + td:before{content:none;}
+
+#tblDatos table td:before{background:url(../images/inicio.png);}
+#tblDatos table tr + tr td:before{background:url(../images/cerrar.png);}
+#tblDatos table tr + tr + tr td:before{background:none;}

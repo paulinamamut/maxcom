@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Maps</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAngSrvkCyAhU3H7UrAv4y9Jy7LF3Nwfc0"></script>
+<script type="application/javascript">
+    $(function(){
+        var mapOptions = {
+          center: 'Mexico',
+          zoom: 8
+        };
+        var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+        var cobertura = new google.maps.KmlLayer({url:"http://23.253.99.79/amex.corporate/maps/polygons.kml"});
+        cobertura.setMap(map);
+        
+        /*if(navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(function(position) {
+            initialLocation = new google.maps.LatLng(position.coords.latitude,position.coords.longitude);
+            map.setCenter(initialLocation);
+        }, function() {
+            alert('así no se puede, chavo.');
+            });
+        }*/
+        
+        google.maps.event.addListener(cobertura, 'click', function (event) {
+            window.location.href = 'http://example.com'
+        });
+    })
+</script>
+    <style type="text/css">
+        #map-canvas{width:600px; height:320px;}
+    </style>
+</head>
+
+<body>
+    <div id="map-canvas"></div>
+</body>

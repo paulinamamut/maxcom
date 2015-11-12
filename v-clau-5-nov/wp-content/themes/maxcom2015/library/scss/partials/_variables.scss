@@ -1,0 +1,124 @@
+/******************************************************************
+Site Name: 
+Author:
+
+Stylesheet: Variables
+
+Here is where we declare all our variables like colors, fonts,
+base values, and defaults. We want to make sure this file ONLY
+contains variables that way our files don't get all messy.
+No one likes a mess.
+
+******************************************************************/
+
+/*********************
+COLORS
+Need help w/ choosing your colors? Try this site out:
+http://0to255.com/
+*********************/
+
+// first we set descriptive variables:
+$darkgrey : #2e2d2d;
+$darkgrey_a : rgba(46,45,45,0.4);
+$lightgrey: #787676;
+$grey : #6c6a6a;
+$bgrey : #858585;
+$greyalpha : rgb(108,106,106);
+$red2 : #a31134;
+$lightred : #c11233;
+$lightergrey: #dadada;
+$darkgrey: #333333;
+$blue: #001eff;
+$slightgrey :#bcbcbb;
+$sdarkgrey : #565555;
+
+$purple : #442c4f;
+$purple1: rgba(139,122,153, 0.8);
+$purple2: rgba(118,85, 153, 0.85);
+$purple3: rgba(107,67,142, 0.8);
+$purple4: rgba(77,48,102, 0.85);
+
+$purple1_ie: #8b7a99;
+$purple2_ie: #765599;
+$purple3_ie: #6b438e;
+$purple4_ie: #4d3066;
+
+
+$a_hc : rgba(0,160,223,0.85);
+$a_ec : rgba(239,104,54,0.85);
+$a_sms : rgba(232,34,119,0.85);
+
+
+$a_hc_a : rgba(0,93,145,0.8);
+$a_hc_r : rgba(35,183,229,0.8);
+$a_hc_l : rgba(158,198,204,0.8);
+
+$a_sms_a : rgba(155,11,90,0.8);
+$a_sms_r : rgba(216,18,136,0.8);
+$a_sms_l : rgba(214,180,202,0.8);
+
+$a_ec_a : rgba(160, 43, 11,0.8);
+$a_ec_r : rgba(234, 93, 28,0.8);
+$a_ec_l : rgba(229, 184, 170,0.8);
+ 
+$hc : rgb(0,160,223);
+$ec : rgb(239,104,54);
+$sms : rgb(232,34,119);
+
+
+$bold : 800;
+// then we set functional variables:
+$text_color: $darkgrey;
+
+
+$images_path : '../images';
+$text-color: #6d6e71;
+$text-color-dark: #c01e32;
+$white: #fff;
+$light-grey : #e3e4e4;
+$dark-grey : #3a3a3a;
+$medium-grey :#cacaca;
+$red-menu : #de282a;
+$red: #c01e32;
+$greyish : #f5f5f5;
+$another-grey : #58595b;
+$blue : #2b92c8;
+$aqua: #3eedcc;
+
+$max-width : 1200;
+
+$alert-yellow:      #ebe16f;
+$alert-red:         #fbe3e4;
+$alert-green:       #e6efc2;
+$alert-blue:        #d5edf8;
+
+$black:             #323944;
+
+
+$light-grey:        #f8f9fa;
+
+$bg-grey : #aeb0b2;
+
+$meta-grey:         #9fa6b4;
+
+$tan:               #eceee5;
+
+$green:             #7dd667;
+
+$bones-pink:        #f01d4f;
+$blue:              #2980b9;
+
+$link-color:        $bones-pink;
+$link-hover:        darken($link-color, 9%);
+
+$border-color:      #ccc;
+$disabled-grey:     #cfcfcf;
+
+$grey-alpha : rgba(153,153,153, 0.7);
+$red-alpha : rgba(255,51,51, 0.3);
+
+/*
+Here's a great tutorial on how to
+use color variables properly:
+http://sachagreif.com/sass-color-variables/
+*/

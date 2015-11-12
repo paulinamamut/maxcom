@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FO_LEÓN.kml</name>
+	<open>1</open>
+	<Style id="s_ylw-pushpin59">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin239">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1108</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin426</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl830">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_shaded_dot_copy23000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot_copy23001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_shaded_dot_copy23002</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin6920">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin56">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin154">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin315</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl029</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1518">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin426">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1108">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin670">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin590</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl830</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon48">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon48.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000aa</color>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin133">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13410</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin692</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin248">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1118</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1518</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Mexico_DFyEdo.Mex._F.O/Operaciones/Files_op/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin692">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin11100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin612</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0031</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin427">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00aa</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon56">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000aa</color>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin67">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin59</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl83</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_shaded_dot_copy23002">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle954_copy50">
+			<color>ff0000aa</color>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0017">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin09</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin56</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00aa</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin590">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1614">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00aa</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>//dfesfesite01/maxcom/Public Folders/Osp Operaciones/Mexico_DFyEdo.Mex._F.O/Operaciones/Files_op/Google earth/ICONOS/DERIVACION.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot_copy23001">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle954_copy50">
+			<color>ff0000aa</color>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1341">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0031">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin428">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin427</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1614</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl029">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000aa</color>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1118">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055aa</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_icon56">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon56</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon48</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00aa</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin09">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin612">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl83">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_earthquake_copy400">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/earthquake.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000aa</color>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin13410">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin315">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000aa</color>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1330">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1341</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6920</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Iusacell</name>
+		<Placemark>
+			<name>Nodo FO León</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-101.678605868168</longitude>
+				<latitude>21.06913158832676</latitude>
+				<altitude>0</altitude>
+				<heading>-1.259414568955366</heading>
+				<tilt>4.990678866612506</tilt>
+				<range>165.0784419087818</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon56</styleUrl>
+			<Point>
+				<coordinates>-101.6782974695771,21.06948703873414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bugambilias (34) GUJ-6032</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-101.6529715052993</longitude>
+				<latitude>21.11907284038737</latitude>
+				<altitude>0</altitude>
+				<heading>-2.894759599160102</heading>
+				<tilt>0</tilt>
+				<range>105.5727787179146</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_shaded_dot_copy23000</styleUrl>
+			<Point>
+				<coordinates>-101.6527792158242,21.11922061555669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sw León</name>
+			<open>1</open>
+			<LookAt id="khLookAt1274">
+				<longitude>-101.7131419458169</longitude>
+				<latitude>21.15424980326309</latitude>
+				<altitude>0</altitude>
+				<heading>3.719922202898118</heading>
+				<tilt>0</tilt>
+				<range>899.5575584938243</range>
+			</LookAt>
+			<styleUrl>#sn_earthquake_copy400</styleUrl>
+			<Point id="khPoint1282">
+				<coordinates>-101.7131029902375,21.15431063922702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MTX Unefon</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-101.6793106780328</longitude>
+				<latitude>21.12523611671688</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8036615542176961</heading>
+				<tilt>8.803974774018306</tilt>
+				<range>213.0279317270976</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin154</styleUrl>
+			<Point>
+				<coordinates>-101.6793106780328,21.12523611671688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Punto 2</name>
+			<open>1</open>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option enabled="0" name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-101.6732221043403</longitude>
+				<latitude>20.86771306255309</latitude>
+				<altitude>0</altitude>
+				<heading>-167.5356877316787</heading>
+				<tilt>86.00329151928918</tilt>
+				<range>25403.01080120844</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin670</styleUrl>
+			<Point>
+				<coordinates>-101.6205613929705,21.08985515230951,1810.269213015972</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>punto 1</name>
+			<open>1</open>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option enabled="0" name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-101.6223194957979</longitude>
+				<latitude>21.08918644308964</latitude>
+				<altitude>0</altitude>
+				<heading>-99.71472906784692</heading>
+				<tilt>88.07091212411827</tilt>
+				<range>94.12642400934828</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin670</styleUrl>
+			<Point>
+				<coordinates>-101.6214879981399,21.08932295743754,1820.601350883221</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>punto 4</name>
+			<open>1</open>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option enabled="0" name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-101.6786782051514</longitude>
+				<latitude>21.1006164550946</latitude>
+				<altitude>0</altitude>
+				<heading>54.131052166861</heading>
+				<tilt>88.13512679146393</tilt>
+				<range>85.26933302496654</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin67</styleUrl>
+			<Point>
+				<coordinates>-101.679305085247,21.10024122030028,1792.54211798763</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>punto 3</name>
+			<open>1</open>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option enabled="0" name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-101.6790553982315</longitude>
+				<latitude>21.09200141117136</latitude>
+				<altitude>0</altitude>
+				<heading>62.79543833480583</heading>
+				<tilt>78.32333613837544</tilt>
+				<range>11.04562715578561</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin67</styleUrl>
+			<Point>
+				<coordinates>-101.6791107457405,21.09197771335961,1791.054610073215</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>ANILLO SUR 96 FO</name>
+			<Placemark>
+				<name>Torres Landa-Bugambilias</name>
+				<styleUrl>#msn_ylw-pushpin133</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.6336492417745,21.09687379223069,0 -101.6348319554819,21.09693718804789,0 -101.6355181076707,21.09696562426354,0 -101.6360022233942,21.09703524763902,0 -101.6366688255485,21.0971054368267,0 -101.6369185985918,21.09716088517316,0 -101.6381752884099,21.09734730841503,0 -101.6389981923306,21.09748314276224,0 -101.6399114449493,21.0976050549084,0 -101.6405269668126,21.09771404762969,0 -101.6409439317516,21.09777613373921,0 -101.6410010262043,21.09778730659301,0 -101.6413032100842,21.09784698472522,0 -101.6422840757514,21.0979851684024,0 -101.6429000983264,21.09809001597376,0 -101.6431058403328,21.09808919030641,0 -101.6436340831207,21.09812162840487,0 -101.6442858230132,21.09811127060353,0 -101.6449235078692,21.09803651648943,0 -101.6454691557147,21.09788777302043,0 -101.6460815048641,21.09766911903163,0 -101.6466358099004,21.09743133551023,0 -101.6470164391109,21.0972830827013,0 -101.6473641144458,21.09713869121713,0 -101.6480569742979,21.09693487087188,0 -101.6483557187003,21.09689881232035,0 -101.649193750281,21.09684295206651,0 -101.6497544026038,21.09686572242055,0 -101.6502315112378,21.09691994979279,0 -101.6505918992429,21.0969696822507,0 -101.6516194503422,21.09707480201989,0 -101.6529080093559,21.09721455058053,0 -101.6537412230314,21.09728188379075,0 -101.6547323994696,21.09737640611335,0 -101.6549820194379,21.09742634165533,0 -101.6555720054895,21.09745551549107,0 -101.6560442552045,21.09752079820822,0 -101.6566528446173,21.09755801762425,0 -101.6574493905853,21.09763361703198,0 -101.6577547138479,21.09766752490224,0 -101.6584250584718,21.09770014698672,0 -101.6587566107279,21.09774198091625,0 -101.6595208376606,21.09773885690051,0 -101.6607700887192,21.09781654035892,0 -101.6613843746357,21.09787355060364,0 -101.6620213820457,21.09787508204169,0 -101.6626347864289,21.09791583090809,0 -101.664666055045,21.09794318485622,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Blvd. Aerop- Torres Landa</name>
+				<styleUrl>#msn_ylw-pushpin1330</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.6239779716356,21.09326783582175,0 -101.623196223275,21.09262925659638,0 -101.6227979423321,21.09230379626949,0 -101.6223114265358,21.0919649657105,0 -101.6219925781305,21.09166647338792,0 -101.6214334168044,21.09120892796867,0 -101.6211366922017,21.0909640643635,0 -101.6207283899186,21.09063358189422,0 -101.620519983632,21.09050974463208,0 -101.6210321744115,21.0902290076787,0 -101.6203572750146,21.08966410926786,0 -101.6201338655728,21.08949404763283,0 -101.6191224100403,21.08865898986771,0 -101.6193735081648,21.08837830608038,0 -101.6197140122754,21.08803215325498,0 -101.6198169695169,21.08790550476065,0 -101.6203440560226,21.08834908046421,0 -101.6209752474948,21.08884413989254,0 -101.6215492623011,21.08931492569795,0 -101.6217208024017,21.08943409054339,0 -101.622122269314,21.08903810418673,0 -101.6224009024286,21.08873577749827,0 -101.6224926899314,21.08862358654363,0 -101.6230891233827,21.08797170283899,0 -101.6232008819125,21.08784753272462,0 -101.6237825765508,21.08720633796727,0 -101.6239019588656,21.08704543806654,0 -101.6243025697522,21.08660294032906,0 -101.6246525393395,21.08628068728216,0 -101.6252456771925,21.08562920624085,0 -101.6253017766196,21.0855576048168,0 -101.6257883171801,21.08592217377602,0 -101.626404649732,21.0864064917953,0 -101.6270495331939,21.08689732681171,0 -101.6271099723791,21.08688579187341,0 -101.6272150297426,21.08694537595261,0 -101.6277262786689,21.08720116854446,0 -101.6284396138168,21.08751815747508,0 -101.628384753232,21.08787658189407,0 -101.6283533063989,21.08801830083725,0 -101.6283181947383,21.08826792766572,0 -101.6282907513789,21.08840202052534,0 -101.6282676353697,21.08864743730694,0 -101.6282242224185,21.08875925025468,0 -101.6286801280098,21.08867353356328,0 -101.6286067132973,21.08909493316496,0 -101.6289014801168,21.08937877921773,0 -101.6291708179732,21.08982819960844,0 -101.6295152401193,21.09039423959446,0 -101.6297857860545,21.09083694265947,0 -101.6296081252579,21.09113044772558,0 -101.6293787604715,21.09160837207631,0 -101.6292303462067,21.09196698840458,0 -101.6296508382936,21.0921592228763,0 -101.6311366581147,21.09275408350719,0 -101.6323285951192,21.09325368651811,0 -101.6332420781496,21.09361689916319,0 -101.6339360339327,21.09389740815514,0 -101.6338308654025,21.09443504545066,0 -101.63349442684,21.09441079978819,0 -101.6334527596917,21.09513189272211,0 -101.6334169191427,21.09550340896567,0 -101.6334171065846,21.09594817568414,0 -101.6336817228899,21.09594989719259,0 -101.6336782723326,21.09617477166731,0 -101.6336671806343,21.09653396928924,0 -101.6336333022834,21.09684765092117,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Luz-Blvd Aerop</name>
+				<styleUrl>#msn_ylw-pushpin1330</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.6270045702267,21.11427116921846,0 -101.6272204833511,21.11432920875576,0 -101.628013087648,21.11459111473371,0 -101.6282737630242,21.11467017488004,0 -101.6290907125796,21.11496348212365,0 -101.6296635350185,21.11514795778032,0 -101.6299259555172,21.11479094036312,0 -101.6300393162607,21.11461374977548,0 -101.6302804066688,21.11425737016688,0 -101.6303873410858,21.11407726593206,0 -101.6305433421988,21.11383824488172,0 -101.6306574691728,21.1136836991855,0 -101.6307641909065,21.11349589064643,0 -101.6310733667717,21.11305961392316,0 -101.6311214121704,21.11297584330244,0 -101.6312637576902,21.1127580904765,0 -101.6313169216233,21.11269109520075,0 -101.6314627921084,21.11248667935963,0 -101.6315017854081,21.11241854355073,0 -101.6315843271601,21.11218153315089,0 -101.6316281107056,21.11201127094161,0 -101.6308433830534,21.11181592378305,0 -101.6307203139316,21.11178005821535,0 -101.6301106197004,21.11163403117829,0 -101.6297144469242,21.11152058955119,0 -101.6298002747705,21.11125692591278,0 -101.629811887191,21.11114208554014,0 -101.6298641996243,21.11094606929072,0 -101.6298855572501,21.11084238930603,0 -101.6299259827268,21.11063914558369,0 -101.6299947553883,21.11031102048563,0 -101.6300568690588,21.11013481410427,0 -101.6300707488568,21.10996748523884,0 -101.6301542841818,21.10964394167466,0 -101.6302787886283,21.10926374281419,0 -101.6303268580979,21.10906419896142,0 -101.6304621415716,21.10842091878476,0 -101.6304084855701,21.1081831318285,0 -101.6301157194729,21.10718416687917,0 -101.6300322689495,21.10689122325397,0 -101.6299700485142,21.10656877216907,0 -101.6297148607007,21.10546584620738,0 -101.6297909790935,21.10529952367295,0 -101.6297456513665,21.10511063103434,0 -101.6296035945918,21.10502406819331,0 -101.6295136722124,21.10477541558256,0 -101.6294617646901,21.10461982336704,0 -101.6293874250769,21.10421632155452,0 -101.6293833587741,21.10408766201742,0 -101.6292007145464,21.10413425328106,0 -101.6287025613762,21.10424391308332,0 -101.6282479788177,21.10435998612572,0 -101.6277428443066,21.10444466661464,0 -101.6273653040489,21.10453175332919,0 -101.6268741977269,21.10466422128053,0 -101.626539385576,21.10474378744575,0 -101.6262812836762,21.10465471777386,0 -101.6256638962299,21.10453043682688,0 -101.6252984924818,21.10449494532371,0 -101.6248900424562,21.10441134289911,0 -101.6244767709048,21.10431054513067,0 -101.6240483593195,21.10424586619215,0 -101.6237477072337,21.10416910119864,0 -101.6236188833092,21.104132022819,0 -101.6231641370161,21.1040059738054,0 -101.6232038919622,21.10362397818379,0 -101.6233393668869,21.10318028264541,0 -101.6234943520899,21.1028846915662,0 -101.6237048418027,21.1023827928455,0 -101.6239870896513,21.10174205423887,0 -101.624115744765,21.10143196365782,0 -101.6243259083509,21.10089571897146,0 -101.6244171448284,21.10072358579559,0 -101.6239330125075,21.10059463257308,0 -101.6241094882171,21.09973413513875,0 -101.6242589741406,21.09919186285001,0 -101.6244094291334,21.09853247640653,0 -101.6246041375485,21.09782199793384,0 -101.6247990605285,21.09698157233786,0 -101.6252047578208,21.09722246813059,0 -101.6254778204871,21.09717424348681,0 -101.6254752168677,21.09714079900161,0 -101.6252071405476,21.09719938890085,0 -101.6247949429063,21.09695150423601,0 -101.6244990712992,21.09809808564255,0 -101.6241312336407,21.09956407676013,0 -101.6238970281868,21.10057052453509,0 -101.6238012248936,21.10050387305287,0 -101.6234592437034,21.10039018355973,0 -101.6228207015609,21.10018655777979,0 -101.6220125114009,21.09987242322898,0 -101.6217905038288,21.09978079420079,0 -101.6214817320628,21.09968723662374,0 -101.6211780553616,21.09960252209904,0 -101.6211102759565,21.09964345496712,0 -101.6208229820904,21.0994809930036,0 -101.6215140022897,21.09819970617494,0 -101.6217906584792,21.09766065682192,0 -101.6221284416814,21.09697533886562,0 -101.6225972204485,21.09609958905927,0 -101.6228717459925,21.09553091186748,0 -101.6230434133237,21.09525353940724,0 -101.6233360185932,21.0945921368887,0 -101.6236258445935,21.09394638955946,0 -101.6239699235858,21.09326786332824,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Valtierra-Luz</name>
+				<styleUrl>#msn_ylw-pushpin1330</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.6291191991699,21.12515217409027,0 -101.6289746553718,21.12518519351234,0 -101.6287400573273,21.12474928277661,0 -101.6286020394225,21.12433223666065,0 -101.6285175314198,21.12401846801414,0 -101.6283140011928,21.12325581831536,0 -101.6282209467098,21.1229013834693,0 -101.6281574150546,21.12261049116276,0 -101.6281025278187,21.122454759333,0 -101.6279090046619,21.12174909045395,0 -101.6278734254141,21.12157626247279,0 -101.6276946348994,21.1207814372365,0 -101.6274960371265,21.12001304085321,0 -101.6273086972297,21.11929410315149,0 -101.6272216359101,21.11896883013458,0 -101.6270830012674,21.1184528854466,0 -101.6269799969447,21.11803938679107,0 -101.6269139371913,21.11784724770223,0 -101.6267274071743,21.11755413171051,0 -101.6266660769412,21.11732920216308,0 -101.6265268501711,21.11680909889497,0 -101.6264066353039,21.11626576375407,0 -101.6263079017079,21.11591791386721,0 -101.6262736025838,21.11570461520106,0 -101.6262017912579,21.11542186523068,0 -101.6261683125046,21.11521135991012,0 -101.6261180624163,21.11491322530274,0 -101.6260070794243,21.11454751566191,0 -101.6260395975963,21.11443310919758,0 -101.6261604690161,21.11431306334452,0 -101.6263450746528,21.11424290192426,0 -101.6267022124429,21.1142563150245,0 -101.6270051148021,21.11427125765075,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Valtierra</name>
+				<styleUrl>#msn_ylw-pushpin1330</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.646671213728,21.12859017873046,0 -101.6464735721921,21.12855117147353,0 -101.6463107313792,21.12851214957553,0 -101.6456225918155,21.12836924122263,0 -101.6448210655026,21.12819383118737,0 -101.6445349018324,21.12813279025681,0 -101.6440935742022,21.12806623364082,0 -101.6437112097099,21.12800963589574,0 -101.64321824257,21.12791671446791,0 -101.6428300564027,21.12783531540568,0 -101.6425023213281,21.12775659198994,0 -101.6422758223712,21.12771041366539,0 -101.6418850036005,21.12762713016239,0 -101.6413433738144,21.12751412680248,0 -101.641335626746,21.12751117781299,0 -101.6408836549343,21.12741887410699,0 -101.6404544650556,21.12732484719934,0 -101.6399683447901,21.12723160755419,0 -101.6392930043166,21.12707948775011,0 -101.6390925376746,21.12703586718245,0 -101.6387503017677,21.12697599603209,0 -101.6383240887726,21.12689307193722,0 -101.6376938960385,21.12675029819501,0 -101.6370131683545,21.12660510908266,0 -101.6362704577077,21.12645184229263,0 -101.6357888444164,21.12636271372735,0 -101.6354974650898,21.12628796630182,0 -101.6350404316661,21.12620054754062,0 -101.6347045077197,21.12612484870157,0 -101.6340780023006,21.12600051671224,0 -101.6333427251194,21.125847427921,0 -101.6329069771428,21.12576341699522,0 -101.6323695239203,21.12568434857962,0 -101.6317619581349,21.12558207251109,0 -101.6313770776591,21.12550399622357,0 -101.6309712467957,21.12542621656008,0 -101.6303439015161,21.12530628573452,0 -101.630167532549,21.12527474443892,0 -101.6299737657018,21.12524760985486,0 -101.6298686680379,21.12522768634351,0 -101.6295222381469,21.12518670661763,0 -101.6293335699968,21.12517053425079,0 -101.6291286465842,21.12515458866907,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Bugambilias-Valtierra</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.6527490521794,21.11913161516828,0 -101.6527591277992,21.11910964325121,0 -101.6518881139861,21.11872783238812,0 -101.651445270999,21.11854603947831,0 -101.6512111094422,21.11903284466759,0 -101.6510144436824,21.11943667329127,0 -101.6508707921679,21.11975829944628,0 -101.650630019547,21.12022781976403,0 -101.6504564009606,21.12058125705107,0 -101.6502124620697,21.12109443015934,0 -101.6500677019826,21.12139145990162,0 -101.6497937388047,21.12195062715172,0 -101.6497082819321,21.12212489214742,0 -101.6494947317239,21.12259629087376,0 -101.6492227040085,21.12314541801171,0 -101.6489684659875,21.12301239597936,0 -101.6486973800415,21.12355935493164,0 -101.6485154356712,21.12397125960886,0 -101.6483210399186,21.12435665647471,0 -101.6496751295297,21.12474760221437,0 -101.6507276599279,21.12500881619283,0 -101.6520500147621,21.12505262995108,0 -101.6554267546236,21.12511715280958,0 -101.6595303800963,21.12534073504008,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>ANILLO GSM 96 FO</name>
+			<Placemark>
+				<name>Registro</name>
+				<LookAt>
+					<longitude>-101.6818737303637</longitude>
+					<latitude>21.07440790544921</latitude>
+					<altitude>0</altitude>
+					<heading>-13.0153774301467</heading>
+					<tilt>23.04500602830333</tilt>
+					<range>112.8004962380956</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin11100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-101.6817994129537,21.07441884797565,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HIDALGO - SWITCH LEON</name>
+				<styleUrl>#msn_ylw-pushpin0017</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.6814339401107,21.12610695544411,0 -101.681345821994,21.12607148268707,0 -101.6810687445339,21.12674031977846,0 -101.6821613958162,21.12704363494565,0 -101.6857559974911,21.12800866863707,0 -101.6861114466451,21.12911784861199,0 -101.6864806062479,21.13023034092231,0 -101.6864754636899,21.13083349351867,0 -101.6868916093666,21.13121885254042,0 -101.6873782150881,21.13152670003628,0 -101.6868818683821,21.13397298421712,0 -101.6865814553746,21.13553492889404,0 -101.6891936617406,21.13595141351752,0 -101.6897049504126,21.13609479565077,0 -101.690231932405,21.13623254088257,0 -101.6898049917893,21.13753837334932,0 -101.6908481026157,21.1378159194798,0 -101.6907237431393,21.13816307136681,0 -101.691530576809,21.13837571237815,0 -101.6919161987284,21.13849304094861,0 -101.6917768947555,21.13875650303964,0 -101.6929473143132,21.13903694047279,0 -101.6925452910449,21.13960921026182,0 -101.6921495757433,21.14015365360427,0 -101.6921655339321,21.14030445262766,0 -101.6921401645791,21.1404323948605,0 -101.6920776874542,21.14053305085134,0 -101.6923995742537,21.14298745803356,0 -101.6925054234693,21.14333377276657,0 -101.6925509423082,21.14354811741896,0 -101.6927297624731,21.14541761820486,0 -101.6928364860216,21.14623516590315,0 -101.6930508538676,21.14656040312696,0 -101.6932385246423,21.14681120627751,0 -101.6932937757003,21.14697584593058,0 -101.6933380689249,21.14718905583523,0 -101.6936122512304,21.14732492408784,0 -101.6937904400013,21.147436620477,0 -101.6951342676215,21.14926902085072,0 -101.6968638007415,21.15161105331981,0 -101.6961792874746,21.15205983992138,0 -101.6954759450976,21.1525552697991,0 -101.6955011655405,21.15283101223287,0 -101.696472024664,21.15425526194547,0 -101.6976830347712,21.15435422237728,0 -101.6978415938147,21.1543698484601,0 -101.7011560891523,21.15503205850644,0 -101.7024703769606,21.15532183205902,0 -101.7050291907707,21.15587161323598,0 -101.7056579081116,21.15599025176761,0 -101.7066881319368,21.15634177994919,0 -101.7069905796864,21.15626387047739,0 -101.7071905274664,21.15592231849666,0 -101.7073767771463,21.15574995659995,0 -101.7087489859187,21.15524739072541,0 -101.7096191409786,21.15491154493014,0 -101.7116901495133,21.15413828244493,0 -101.7127507125306,21.1537443687471,0 -101.7128087232247,21.15388517962654,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>EL MORAL - SWITCH LEON</name>
+				<styleUrl>#msn_ylw-pushpin239</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.6876179302122,21.15129171236259,0 -101.6876400441627,21.1512561067286,0 -101.6881474125094,21.15150641820756,0 -101.6883112798283,21.15226135548583,0 -101.6883588312366,21.15240593762892,0 -101.688609432762,21.15259509513185,0 -101.6890192930616,21.1528958352356,0 -101.6889586607348,21.15307678092418,0 -101.6893389361438,21.15330012906,0 -101.6898288621479,21.15397370841901,0 -101.6905301800736,21.15486941739526,0 -101.69110711751,21.15561744132085,0 -101.6916185822907,21.15528757743385,0 -101.6954925767184,21.15302038708894,0 -101.6964479125594,21.15428514346623,0 -101.697852001998,21.15439392483776,0 -101.7004672319953,21.15489872996321,0 -101.7029458769272,21.15545028188924,0 -101.7056640662288,21.15602236880722,0 -101.7064598413977,21.15627742433914,0 -101.7066923574359,21.15637658773125,0 -101.7069985653473,21.15627988246921,0 -101.7072129163444,21.15594869361631,0 -101.707418497048,21.15575091786375,0 -101.7080961760204,21.15551555232575,0 -101.7119369365117,21.15407678837535,0 -101.712735265531,21.1537727943101,0 -101.7127872989343,21.15389795432784,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>EL MORAL - TMX PANORAMA</name>
+				<styleUrl>#msn_ylw-pushpin239</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.6876456866515,21.15128451272996,0 -101.6876867790342,21.15118735914735,0 -101.6881134221652,21.15138755789365,0 -101.6878778745061,21.15028835177061,0 -101.6884825243123,21.15057174642555,0 -101.6883681234253,21.14997782430694,0 -101.6882633738657,21.14950031989133,0 -101.6882297426921,21.14909464357679,0 -101.6882779363603,21.14870665843741,0 -101.6881746691311,21.14824021132918,0 -101.6880044853564,21.14745825276254,0 -101.6880189961817,21.14719517724799,0 -101.6883558319905,21.14514679118422,0 -101.6884312044493,21.14469838714472,0 -101.6874913430746,21.14478383088964,0 -101.6870441137234,21.1448147137025,0 -101.6864945460765,21.14472537971622,0 -101.6865892215284,21.14404532456998,0 -101.6866946704985,21.14406091075729,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TMX PANORAMA - BUGAMBILIAS</name>
+				<styleUrl>#msn_ylw-pushpin239</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.6866855941042,21.14405118615309,0 -101.6866073957657,21.14403311738136,0 -101.6866588439272,21.1436883166737,0 -101.6868338163829,21.14282296853679,0 -101.6858087422071,21.14260055854755,0 -101.684715129868,21.14236022706611,0 -101.6846860080241,21.1421904567835,0 -101.6848337602186,21.14103755221997,0 -101.6846503202881,21.14067914898937,0 -101.6822022125118,21.1407813096781,0 -101.6814231539123,21.14042963547049,0 -101.6805371343095,21.13980354555455,0 -101.6801907457523,21.13950035353983,0 -101.6798185681476,21.13870565378863,0 -101.6794968553251,21.13773979496747,0 -101.6789870675802,21.13567300877922,0 -101.6789444508255,21.13514443065927,0 -101.6788522942248,21.13511013942181,0 -101.6787341187761,21.13426434782686,0 -101.6786291556397,21.13352481048272,0 -101.6783952133595,21.13273445142697,0 -101.6785328122597,21.13254668495464,0 -101.6783910678222,21.13229567423372,0 -101.6776871406556,21.12988898656266,0 -101.6747345008263,21.12473471079241,0 -101.6738692051307,21.12433409818555,0 -101.6729812618101,21.12289169721401,0 -101.6723607251544,21.1227424290103,0 -101.6715664668838,21.12233165578061,0 -101.6707757514511,21.12216395450865,0 -101.6696639861407,21.1219121691966,0 -101.6694754786956,21.12182728413218,0 -101.6674114010238,21.12142667820403,0 -101.6676269478004,21.12020717743178,0 -101.6650659242468,21.11938589492504,0 -101.6613097060853,21.11831699986216,0 -101.6611968092137,21.11845290509618,0 -101.6610282150126,21.11854488003263,0 -101.661938600644,21.12016604779271,0 -101.6579158906379,21.11908494293382,0 -101.6559752433714,21.11853998220387,0 -101.655286211049,21.12018854672335,0 -101.6528314459924,21.11913212960616,0 -101.6528140590579,21.1191663845341,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>BUGAMBILIAS - REPETIDOR</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.6646462853461,21.09792509563972,0 -101.6647434739976,21.09771184979028,0 -101.6649661378643,21.09772861681072,0 -101.6663683329119,21.09792073545446,0 -101.6674561746716,21.09817685259192,0 -101.6688139091217,21.09864349225235,0 -101.6710297892411,21.09961490887332,0 -101.6708926916408,21.09992663483696,0 -101.6720563991643,21.10044212503141,0 -101.6728135042127,21.10068844182104,0 -101.6735844800842,21.10085542219856,0 -101.6736091563854,21.10058034330157,0 -101.6744664604476,21.10074843523776,0 -101.6766572985476,21.10083932267977,0 -101.6788030097647,21.10086869905035,0 -101.6790920072174,21.10063789415619,0 -101.6792685479554,21.10036550571982,0 -101.6792819961561,21.0994584571083,0 -101.6792157591666,21.09610885773379,0 -101.6791856032738,21.09515170429576,0 -101.6791220820053,21.09149530345713,0 -101.679092012799,21.09075887457576,0 -101.6790399269606,21.0901846104324,0 -101.6791789879846,21.08914376971789,0 -101.6792961038087,21.08757016125394,0 -101.6798343502175,21.08383294728866,0 -101.6799679316921,21.08127186413751,0 -101.6805471130967,21.07888683080875,0 -101.6815814060476,21.07544026357962,0 -101.6817290225973,21.07494782843719,0 -101.6808517650168,21.07300569395309,0 -101.6802573901968,21.07170243046483,0 -101.6800622119612,21.07122552206243,0 -101.6797974596904,21.07071258387048,0 -101.6796737743011,21.07032251835359,0 -101.6794716818245,21.06995130132305,0 -101.6783372357136,21.06967277523206,0 -101.6783135136779,21.06951130804582,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>REPETIDOR . TMX P. MORENO</name>
+				<styleUrl>#msn_ylw-pushpin428</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.6783176049605,21.06950175630401,0 -101.6785956295161,21.06938357831322,0 -101.6802631032377,21.07025887973328,0 -101.6811631069585,21.07175857696089,0 -101.6821013278697,21.07366985309475,0 -101.6823384216026,21.07408382611212,0 -101.6815727929017,21.07647186749234,0 -101.6806206975665,21.07958697210781,0 -101.680149997076,21.08128742365986,0 -101.6799499944054,21.0843236679166,0 -101.6797170930643,21.08674527293116,0 -101.6797097521373,21.08767032727904,0 -101.6795115730935,21.09037781219714,0 -101.6793961713632,21.09139967120682,0 -101.6793749991301,21.09334385608413,0 -101.6794507492216,21.09755504710358,0 -101.6821585837087,21.09829855598476,0 -101.685177198457,21.09903761002719,0 -101.6845574689389,21.10187578631615,0 -101.6839283002515,21.10572776717228,0 -101.683540320367,21.10756262471477,0 -101.6827664070865,21.11165633479268,0 -101.682318636551,21.11310941963869,0 -101.6821936637596,21.11380561261247,0 -101.6817849347381,21.11459847161159,0 -101.6814954597429,21.11585256280657,0 -101.6809089766752,21.11879225117514,0 -101.6805145543938,21.12048486042542,0 -101.6812394235413,21.12066199517317,0 -101.6801137136426,21.12315445751376,0 -101.6798690363313,21.12366524691875,0 -101.6799376747999,21.12369118074502,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P. MORENO - HIDALGO</name>
+				<styleUrl>#msn_ylw-pushpin0017</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.6799220424445,21.12369122942969,0 -101.6798608446318,21.12379156391,0 -101.6796211246213,21.12441492660528,0 -101.6789365954576,21.12603970284137,0 -101.6798646217728,21.12637486822097,0 -101.6809746647496,21.12672817210199,0 -101.6812796450073,21.12602667062594,0 -101.6814425757788,21.12608234896433,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Subterraneo Central Abastos Norte</name>
+				<styleUrl>#msn_ylw-pushpin248</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.679496555058,21.06994369637273,0 -101.6797698486504,21.07070860136161,0 -101.680470344313,21.07219045487889,0 -101.68095478988,21.07322262460885,0 -101.6812823097442,21.07397395593985,0 -101.6817527765142,21.07496319648475,0 -101.681505963955,21.07568553163084,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Subterraneo central de abastos sur</name>
+				<styleUrl>#msn_ylw-pushpin248</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-101.6818205729186,21.07573099659003,0 -101.6823322703986,21.07409682988124,0 -101.6821150423494,21.07370712870703,0 -101.6816448249553,21.07274210611699,0 -101.6811473898189,21.07169767811819,0 -101.6806050443881,21.07082215258929,0 -101.6802625385436,21.07026154623045,0 -101.6795330602507,21.06987085775181,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>PUNTO 6</name>
+			<LookAt>
+				<longitude>-101.6372629857341</longitude>
+				<latitude>21.12739255750518</latitude>
+				<altitude>0</altitude>
+				<heading>0.01371256667103646</heading>
+				<tilt>8.822773823197029</tilt>
+				<range>7134.006442034139</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin670</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-101.6465013086447,21.1283440989825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PUNTO 5</name>
+			<LookAt>
+				<longitude>-101.6604379153397</longitude>
+				<latitude>21.12043720842414</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001096768522695746</heading>
+				<tilt>10.06486942268097</tilt>
+				<range>654.6543395503173</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin670</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-101.6617408302019,21.12010649525658,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>FO_León</name>
+		<Placemark>
+			<name>FO_MUÑOZ C. Y ASOCIADOS RUTA PRINCIPAL</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-101.6439546317138,21.12798121617879,0 -101.6508629708156,21.12941003621137,0 -101.6500998907116,21.13263830354213,0 -101.6498277932568,21.13277768258809,0 -101.6496497224988,21.13431121608533,0 -101.6484675280459,21.13940293754136,0 -101.6414122523209,21.14943007535395,0 -101.6427607533056,21.1502379161186,0 -101.6437936024578,21.15147827488544,0 -101.6453179393612,21.15310594640715,0 -101.6464105119642,21.15358231329684,0 -101.6466184085707,21.15354866128879,0 -101.6474154255662,21.15232702462877,0 -101.6476576000799,21.15246150224461,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>MUÑOZ Y ASOCIADOS - HILARIO MEDINA</name>
+			<LookAt>
+				<longitude>-101.6475402119243</longitude>
+				<latitude>21.15263913551993</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001869680713278041</heading>
+				<tilt>41.13538836041047</tilt>
+				<range>93.53981764843466</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-101.647658740386,21.15245438362486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FO_MUÑOZ Y ASOCIADOS - HILARIO MEDINA - RUTA REDUNDANTE</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-101.6474859022527,21.15223429958134,0 -101.6508788058652,21.14717491718188,0 -101.6516362588856,21.14606875442942,0 -101.6534637526871,21.14337070075294,0 -101.656623286345,21.13836431222077,0 -101.6572784649682,21.13731856077794,0 -101.6582678087989,21.13576614980561,0 -101.6592459822978,21.13430934382101,0 -101.65943977047,21.1339668719676,0 -101.6595050982427,21.13379432356509,0 -101.6596658902233,21.13337160281827,0 -101.6598524182519,21.13121323056957,0 -101.6599601231917,21.13070534282105,0 -101.660440931396,21.1290619130264,0 -101.6613089591929,21.12549440259581,0 -101.6611789562383,21.12535851057398,0 -101.6611798933753,21.12541424650512,0 -101.6595342328897,21.12534451060391,0 -101.6596016778475,21.12525399901134,0 -101.6599383756291,21.12366752267839,0 -101.6600066217471,21.12360487683321,0 -101.6603757892266,21.12185789382579,0 -101.6603289407631,21.12185475906687,0 -101.6607945670271,21.11985363983642,0 -101.6617308431931,21.12011747716177,0 -101.6580917546103,21.11903700101507,0 -101.65721376201,21.11880177146094,0 -101.6580621651238,21.11706290737138,0 -101.6580680162927,21.1167627342552,0 -101.6582033374597,21.11669978827939,0 -101.6578921285087,21.11672389110479,0 -101.6575215099628,21.11654912951829,0 -101.6574283001979,21.11687278781168,0 -101.6531193340848,21.11492972948975,0 -101.6514354138672,21.11856238007249,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>MUÑOZ Y ASOCIADOS - LOCALIDAD BETA</name>
+			<LookAt>
+				<longitude>-101.6240966567644</longitude>
+				<latitude>21.09139649418286</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0007281045156665241</heading>
+				<tilt>10.43646457862174</tilt>
+				<range>1181.797704264709</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-101.6230796438755,21.09066495808033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RUTA PRIMARIO</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-101.6202170367008,21.08957035251013,0 -101.6203257287253,21.08943130144203,0 -101.6221716890959,21.0911198961964,0 -101.6225435322913,21.09043201163775,0 -101.6229462193586,21.09067094408636,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>RUTA REDUNDANTE</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-101.6216753155731,21.08945318185011,0 -101.6230109362949,21.09041959675805,0 -101.6229158388952,21.09051467409623,0 -101.6230958394383,21.09067094393084,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>ENLACE PRIMARIO</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-101.679126852243,21.09208051283889,0 -101.6790552151434,21.09208996496017,0 -101.6790988653124,21.09532921573734,0 -101.6763543963443,21.09498516461417,0 -101.6762879838297,21.09536057511534,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>ENLACE REDUNDANTE</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-101.6762892251058,21.09538764298358,0 -101.676204859614,21.09575002190266,0 -101.679150928441,21.09614963871632,0 -101.6791980970037,21.10036319562779,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NODO BESTEL</name>
+			<LookAt>
+				<longitude>-101.6766462144143</longitude>
+				<latitude>21.09534820423266</latitude>
+				<altitude>0</altitude>
+				<heading>-2.834702740374652</heading>
+				<tilt>30.00134501779989</tilt>
+				<range>299.618280294345</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-101.6767051137539,21.0950307530511,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

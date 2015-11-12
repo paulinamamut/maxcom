@@ -1,0 +1,333 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Tablet & Small Desktop Stylesheet
+
+Here's where you can start getting into the good stuff.
+This size will work on iPads, other tablets, and desktops.
+So you can start working with more styles, background images,
+and other resources. You'll also notice the grid starts to
+come into play. Have fun!
+
+******************************************************************/
+
+
+/*********************
+GENERAL STYLES
+*********************/
+
+body {
+
+
+}
+
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+.wbackground{
+	background-color: $red !important; border-top: 1px solid #fff;
+	-webkit-transition: background-color 0.5s ease-in-out;;
+    -moz-transition: background-color 0.5s ease-in-out;;
+    -o-transition: background-color 0.5s ease-in-out;;
+    transition: background-color 0.5s ease-in-out;;
+}
+.wrap {
+	width: 760px;
+}
+
+#content{
+
+	&.maxConexion-container{
+		.parallax-window {
+		    min-height: 160px; 
+		    .inner-parallax-window{
+			    height:160px;
+				.mainText{
+			    	margin:-6px auto !important;
+			    	background: url(#{$images_path}/x.png) 86% top no-repeat; background-size: contain; height:170px !important;
+			    	.text-phrase{
+			    		display:none;
+			    		padding: 2rem 0;
+						top:8rem;
+					}
+			    }
+			}
+		}
+
+		.ofertas-container{
+			.col{ width:33.3%;}
+		}
+	}
+	.business4ulogo{    	
+    	display:block;
+	}
+	.inner-head{
+		.business4ulogo{
+			right: 10rem !important;
+		}
+	}
+
+	.single-container{
+		.bg-content{
+			overflow:hidden;
+			.content-text{
+				float:left; width:60%; margin-right:10%;
+			}
+			img{float:left; width:30%; height:auto; vertical-align: top;}
+		}
+		
+	}
+	.general-info{
+		margin: 0 auto;
+		max-width:940px;
+		.title{font-size: 2.4rem;}
+		>p{font-size: 1.3rem;}
+
+	}
+	.banner-head{
+		h2{   font-size: 3rem; span{ font-size:0.5em; display: block;}}
+
+		&.flecha{
+			background: $lightergrey url(#{$images_path}/flecha.jpg) left -1px no-repeat; height:115px;  padding:0rem 3rem;
+
+			.info{
+				width:64%; border-right: 2px solid $red; margin-left:6rem; display: inline-block; height:100%; float:left;
+				h4{font-size:  2.571rem; color:$red; margin: 0px;}
+				>p{
+					color:$grey; font-size: 1.425rem; margin:0 auto; max-width: 460px;
+				}
+			}
+
+			.button-container{
+				display: inline-block; width:24%; vertical-align: top; float:right;
+				a{max-width: 188px;}
+	
+			}
+		}
+
+	}
+
+
+	.mainText{ 
+		position: absolute; left: -50%; right: -50%;
+		.text-phrase{
+			position: absolute; top: 11rem; right: 34rem; padding:0 !important;
+			small{top:22rem;}
+		}
+	}
+	.parallax-window {
+			&.maxcom-header{
+				&.small-header{
+					background: url(#{$images_path}/headerMaxcom.jpg) no-repeat; background-size: contain; 
+				}
+			}
+		     min-height: 455px;
+			  &.banner-head{
+		    	min-height:220px;
+		    }
+		    .redes-container{
+		    	width:100% !important; position:fixed; z-index: 9999;
+		    	.other{
+		    		display:inline-block; margin: 2em 0.5em;  float:left;
+		    	}
+		    	.redes-sociales{
+				display:inline-block; margin: 5em 0em; float:right; 
+			}
+		    }
+		    .footerBanner{
+		    	position: absolute;
+		    	bottom:10px;
+		    	>a{
+		    		 float:left;
+		    	}
+		    }
+		    &.inner-head{
+		    	max-height:220px !important;
+		    	min-height: 220px !important;
+		    	height:220px !important;
+
+		    	.inner-parallax-window{
+		    		max-height:220px !important;
+		    		min-height: 220px !important;
+		    		height:220px !important;
+		    	}
+
+		    	.footerBanner{
+		    		top: 9rem !important;  
+		    	}
+
+		    	.text-phrase{
+		    		display:none;
+		    	}
+		    }
+		}
+
+		.inner-parallax-window{
+			position:relative; width:100%; height:455px;
+		
+			.mainText{ 
+				width:100%; margin:0px auto; height:100%; max-width: 920px;
+			}
+
+		}
+
+	.more-info{
+		.banner-promocion{
+			width:66.66% !important;
+			float:left;
+		}
+		.info{width:100% !important;
+			h4{    margin: 10px 0px; }
+			p{max-width: 100% !important;}
+		}
+		.versucursales{ width:33.33% !important; float:left;}
+		.mapa{  min-width: 300px; width:100%;  min-height: 300px;height: 100%;   }
+	}
+
+}
+
+.home, .page-id-20{
+	#content{
+		.mainText{ 
+			background: url(#{$images_path}/x.png) right no-repeat; 
+		}
+	}
+}
+
+
+.home-maxcom-for-business{
+	.redes-container{
+		background-color: rgba(192, 30, 50, 0.8);
+
+	}
+	.banner{
+		padding: 2rem 1rem 2rem;
+		p{padding: 1rem 1rem 1rem 26rem; width: 80%;}
+		ul{
+			margin: 0; padding: 1rem 1rem 1rem 27rem; width: 80%;
+			li{
+				line-height: 1.6rem;
+			}
+		}
+	}
+
+	.parallax-window{
+		min-height: 400px !important;
+		.inner-parallax-window{
+			height:400px !important;
+			.mainText{
+				padding: 4rem; top: 4em;
+				.text-phrase{
+					position: static !important;
+				}
+			}
+
+			.footerBanner{
+				top:20rem !important;
+			}
+		}
+
+	}
+
+}
+.elements-container{
+	&.elements-1{
+		.element{
+			.info-container{
+		    	width: 50%;
+				margin: 0 auto;
+				p{
+					min-height: 100% !important;
+				}
+			}
+		}
+	}
+	.element{
+		.active-on-hover{
+			padding: 0.5rem 0.5rem;
+		}
+
+		.info-container{
+			p{ font-size:1.2em ;
+				&.excerpt{ line-height: 1.2rem;} 
+			} 
+		}
+	}
+}
+
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"],
+select,
+textarea,
+.field {
+	max-width: 380px;
+}
+
+.group{
+  overflow:hidden;
+  max-width: 844px;
+  margin:0 auto;
+  width:100%;
+
+
+  .inner-group{
+    overflow: hidden;
+
+    .smaller{
+      width:10%;
+      margin-right : 5%;
+      float:left;
+    }
+    .big{
+      width:74%;
+       float:left;
+    }
+
+    .input-container{
+      .field{
+        width:80%;
+      }
+    }
+  }
+}
+
+.textarea-container{
+  width:100% !important;
+  float:none;
+  max-width: 844px !important;
+  margin:0 auto;
+  display:block;
+
+  textarea{
+    max-width: 810px !important;
+  }
+
+   label{
+      color:$darkgrey;
+      font-size: 18px;
+      display:block;
+      margin:10px 0;
+    }
+}
+.form-container{
+  width: 100%;
+  }
+
+  .input-container{
+    width: 50%;
+    display:inline-block;
+    float:left;}

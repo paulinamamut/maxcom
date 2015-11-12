@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SAN LUIS POTOSI.kml</name>
+	<open>1</open>
+	<Style id="sn_A">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_A">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>SAN LUIS POTOSI</name>
+		<open>1</open>
+		<Folder>
+			<name>CENTROS DE ATENCION</name>
+			<Placemark>
+				<name>CAC MU&Ntilde;OZ</name>
+				<description>Av. Mu&ntilde;oz No. 400 Locales 34 y 35, Col. Lomas del Barrio de Santiago, San Luis Potos&iacute;</description>
+				<LookAt>
+					<longitude>-101.00029616249</longitude>
+					<latitude>22.16577328353457</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01335953347535797</heading>
+					<tilt>0</tilt>
+					<range>432.1886363637586</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_A</styleUrl>
+				<Point>
+					<coordinates>-100.9999484550941,22.16531265144802,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CAC GLORIETA</name>
+				<description>Carretera a Matehuala No. S/N Local 1 y 2, Col. Fidel Vel&aacute;zquez, Soledad de Graciano Sanchez</description>
+				<Camera>
+					<longitude>-100.955869450444</longitude>
+					<latitude>22.15387631370532</latitude>
+					<altitude>693.5102170079202</altitude>
+					<heading>26.69634435052586</heading>
+					<tilt>0.1465300486451055</tilt>
+					<roll>26.36690792991051</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_A</styleUrl>
+				<Point>
+					<coordinates>-100.9547558580332,22.15318332699361,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>OFICINAS SAN LUIS POTOSI</name>
+				<Camera>
+					<longitude>-100.9883085597431</longitude>
+					<latitude>22.15042427852758</latitude>
+					<altitude>373.645789777798</altitude>
+					<heading>-42.75381649608744</heading>
+					<tilt>0.02827309697317133</tilt>
+					<roll>-42.68080618925136</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_A</styleUrl>
+				<Point>
+					<coordinates>-100.9875633427195,22.15087062419111,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
